@@ -1,14 +1,14 @@
 # David Silva's Portfolio
 
-Hi I am David Silva Apango, I have an applied physiscs MsC and I am interested in Data Science.
+Hi I am David Silva Apango and I am interested in Data Science.
 
 In this page you are going to find evidence of my work.
 
-![Imagen de Perfil](https://imgur.com/WxNkgL4)
+![Imagen de Perfil](https://imgur.com/WxNkgL4.jpg)
 
-##Languages:
+## Languages:
 
-- Spanish
+- Spanish (Native)
 - English
 - Japanese
 
