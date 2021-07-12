@@ -6,7 +6,9 @@ In this page you are going to find evidence of my work.
 
 ![Imagen de Perfil](https://imgur.com/WxNkgL4.jpg)
 
-##FCFM
+## FCFM(BUAP)
+
+I made my studies in applied physics in the FCFM-BUAP. In this section my activity within the university is broken down.
 
 ### PhD:
 
