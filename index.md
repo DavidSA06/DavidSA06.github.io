@@ -6,11 +6,29 @@ In this page you are going to find evidence of my work.
 
 ![Imagen de Perfil](https://imgur.com/WxNkgL4.jpg)
 
+##FCFM
+
+### PhD:
+
+[PhD](phd.md)
+
+### MSc:
+
+[MSc](msc.md)
+
+### Bachelor degree:
+
+[Bachelor](bachelor.md)
+
+## Platzi:
+
+[Platzi](platzi.md)
+
 ## Languages:
 
 - Spanish (Native)
-- English
-- Japanese
+- [English](english.md)
+- [Japanese](japanese.md)
 
 ## Contact information
 
@@ -18,3 +36,5 @@ In this page you are going to find evidence of my work.
 - [Twitter](https://twitter.com/DavidSA06)
 - [GitHub](https://davidsa06.github.io/)
 - [Platzi](https://platzi.com/p/davidsilvaa/)
+
+Last Update: 07/12/2021 (mm/dd/yyyy)
