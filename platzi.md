@@ -1,5 +1,7 @@
 # Platzi
 
+Get a free month using my [link](https://platzi.com/r/davidsilvaa/)!
+
 ## Certifications
 
 ## Projects
