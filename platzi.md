@@ -8,7 +8,7 @@ Get a free month using my [link](https://platzi.com/r/davidsilvaa/)!
   <img
   src="https://imgur.com/8QPRgM8.jpg"
   alt="Git and GitHub">
-  <figcaption>Certificado de Git y GitHub</figcaption>
+  <figcaption>Git and GitHub certificate</figcaption>
 </figure>
 
 ## Projects
