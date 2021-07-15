@@ -1,7 +1,8 @@
 # PhD
 
-
 ## LXII National Congress of Physics
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. 
 
 ## OSA
 
@@ -33,13 +34,13 @@ The congress aimed to create a multidisciplinary forum to disseminate, discuss a
 <figure>
   <img
   src="https://imgur.com/7mIcKa7.jpg"
-  alt="William Phillips">
+  alt="Todd Fansler">
   <figcaption>Dr. Todd Fansler, emeritus researcher  from the OSA</figcaption>
 </figure>
 
 ### Events
 
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. 
 
 ## University Council
 
