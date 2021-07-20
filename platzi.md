@@ -11,6 +11,13 @@ Get a free month using my [link](https://platzi.com/r/davidsilvaa/)!
   <figcaption>Git and GitHub certificate</figcaption>
 </figure>
 
+<figure>
+  <img
+  src="https://imgur.com/XdiK3td.jpg"
+  alt="Intermediate Python">
+  <figcaption>Intermediate Python Certificate</figcaption>
+</figure>
+
 ## Projects
 
 ###  Raspberry Bot
