@@ -1,3 +1,5 @@
+[Español](index.md)
+
 # David Silva's Portfolio
 
 Hi I am David Silva Apango and I am interested in Data Science.
@@ -8,7 +10,6 @@ In this page you are going to find evidence of my work.
   <img
   src="https://imgur.com/WxNkgL4.jpg"
   alt="Profile Picture">
-  <figcaption>明日から頑張る。</figcaption>
 </figure>
 
 
@@ -49,4 +50,4 @@ I am currently updating my programming knowledge in [Platzi](platzi.md)
 - [GitHub](https://davidsa06.github.io/)
 - [Platzi](https://platzi.com/p/davidsilvaa/)
 
-Last Update: 07/14/2021 (mm/dd/yyyy)
+Last Update: 07/22/2021 (mm/dd/yyyy)

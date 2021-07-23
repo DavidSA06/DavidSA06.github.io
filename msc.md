@@ -1,3 +1,5 @@
+[Home](index.md)
+[Español](mscesp.md)
 # MSc
 
 ## LIX National Congress of Physiscs

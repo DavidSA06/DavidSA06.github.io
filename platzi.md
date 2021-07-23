@@ -1,3 +1,5 @@
+[Home](index.md)
+[Español](platziesp.md)
 # Platzi
 
 Get a free month using my [link](https://platzi.com/r/davidsilvaa/)!

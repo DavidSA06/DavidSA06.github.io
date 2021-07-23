@@ -1,3 +1,5 @@
+[Home](index.md)
+[Español](osaesp.md)
 ## OSA
 
 The OSA (Optical Society of America) is an association of individual and companies immersed in optical research, There are many chapters around the world, one of them is operating in the BUAP. During my doctoral studies, I have served as chapter president, vice president, and treasurer. 
