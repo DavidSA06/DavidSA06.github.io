@@ -7,7 +7,7 @@
 
 ## University Council
 
-The honorable university council is the highest authority of the Benemérita Universidad Autónoma de Puebla. My colleagues from the student community at my faculty elected me to be their representative.
+The Honorable University Council is the highest authority of the Benemérita Universidad Autónoma de Puebla. The members from the student community at my faculty elected me to be their representative.
 
 <figure>
   <img

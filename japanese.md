@@ -6,4 +6,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor inci
 
 ## Japanese Language Proficiency Test JLPT (日本語能力試験)
 
-![Japanese N5](https://imgur.com/D0Bz93f.jpg)
+<figure>
+  <img
+  src="https://imgur.com/D0Bz93f.jpg"
+  alt="JLPT Certificate">
+  <figcaption>Japanese Language Proficiency Test Certificate for N5 </figcaption>
+</figure>
