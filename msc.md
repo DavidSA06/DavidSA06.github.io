@@ -1,5 +1,3 @@
 # MSc
 
-## LIX National Congress of Physiscs
-
-## OSA
+## LIX National Congress of Physics

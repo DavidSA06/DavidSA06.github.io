@@ -3,5 +3,3 @@
 ## CIO
 
 ## Python
-
-## OSA

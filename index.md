@@ -10,23 +10,27 @@ In this page you are going to find evidence of my work.
 
 I made my studies in applied physics in the FCFM-BUAP. In this section my activity within the university is broken down.
 
-### PhD:
+### PhD
 
 [PhD](phd.md)
 
-### MSc:
+### MSc
 
 [MSc](msc.md)
 
-### Bachelor degree:
+### Bachelor degree
 
 [Bachelor](bachelor.md)
 
-## Platzi:
+### OSA (Optical Society of America)
+
+[OSA](osa.md)
+
+## Platzi
 
 [Platzi](platzi.md)
 
-## Languages:
+## Languages
 
 - Spanish (Native)
 - [English](english.md)
