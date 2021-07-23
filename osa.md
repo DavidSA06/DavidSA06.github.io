@@ -2,11 +2,11 @@
 [Español](osaesp.md)
 ## OSA
 
-The OSA (Optical Society of America) is an association of individual and companies immersed in optical research, There are many chapters around the world, one of them is operating in the BUAP. During my doctoral studies, I have served as chapter president, vice president, and treasurer. 
+The OSA (Optical Society of America) is an association of individuals and companies immersed in optical research, There are many chapters around the world, one of them is operating in the BUAP at BUAP at scientific outreach activities in schools and public events. During my  studies within the FCFM, I served as treasurer, vice president and chapter president. 
 
-### Washington D.C.
+### Washington D.C. (Student Leadership Conference)
 
-I had the opportunity to participate in the student leadership conference in Washington. D.C. In this congress, lectures on professional and academic opportunities were given in addition to scientific explanations. 
+I had the opportunity to participate in the student leadership conference in Washington D.C. In this congress, lectures on professional and academic opportunities were given in addition to scientific outreach explanations. 
 
  <div class="row">
   <div class="column">
@@ -44,17 +44,15 @@ At the LXI National Congress of Physics, my chapter met Dr. William Phillips, wi
 ![William Phillips](https://imgur.com/BEwyAUx.jpg)
 -->
 
-### II CILCA (Second Congress Light Science and Art)
+### II CILCA (Second Congress Light, Science and Art)
 
-The congress aimed to create a multidisciplinary forum to disseminate, discuss and exchange knowledge of science and art around light, as a transversal axis. I participated in the student organizing committee of this congress. On this occasion Dr. Fansler accompanied us.
+The congress aimed to create a multidisciplinary forum to disseminate, discuss and exchange knowledge of science and art around light, as a transversal axis. I participated in the student organizing committee of this congress. On this occasion Dr. Fansler, emeritus researcher, accompanied us.
 
 <figure>
   <img
   src="https://imgur.com/7mIcKa7.jpg"
   alt="William Phillips">
-  <figcaption>Dr. Todd Fansler, emeritus researcher  from the OSA</figcaption>
+  <figcaption>Dr. Todd Fansler, emeritus researcher from the OSA</figcaption>
 </figure>
 
 ### Events
-
-

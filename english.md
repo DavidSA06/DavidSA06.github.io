@@ -6,7 +6,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor inci
 
 ## DGIE BUAP
 
-![Certificado DGIE](https://imgur.com/TPKQDsU.jpg)
+<figure>
+  <img
+  src="https://imgur.com/TPKQDsU.jpg"
+  alt="Advanced Certificate">
+  <figcaption>Advanced English Certificate from DGIE-BUAP</figcaption>
+</figure>
 
 ## Platzi
 
@@ -14,7 +19,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor inci
   <img
   src="https://imgur.com/nXPuGl6.jpg"
   alt="Upper Intermediate Certificate">
-  <figcaption>Upper Intermediate Certificate from Platzi</figcaption>
+  <figcaption>Upper Intermediate English Certificate from Platzi</figcaption>
 </figure>
 
 Get a free month using my [link](https://platzi.com/r/davidsilvaa/)!
