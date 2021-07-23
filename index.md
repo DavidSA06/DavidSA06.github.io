@@ -24,9 +24,13 @@ I made my studies in applied physics in the FCFM-BUAP. In this section my activi
 
 [MSc](msc.md)
 
-### Bachelor degree:
+### Bachelor degree
 
 [Bachelor](bachelor.md)
+
+### OSA (Optical Society of America)
+
+[OSA](osa.md)
 
 ## Platzi
 
