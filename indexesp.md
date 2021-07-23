@@ -19,19 +19,19 @@ Realicé mis estudios en Física Aplicada en la Facultad de Ciencias Físico-Mat
 
 ### Doctorado en Ciencias (Física Aplicada)
 
-[PhD](phd.md)
+[PhD](phdesp.md)
 
 ### Maestría en Ciencias (Física Aplicada)
 
-[MSc](msc.md)
+[MSc](mscesp.md)
 
 ### Licenciatura en Física Aplicada
 
-[Bachelor](bachelor.md)
+[Bachelor](bacheloresp.md)
 
 ### OSA (Optical Society of America)
 
-[OSA](osa.md)
+[OSA](osaesp.md)
 
 ## Platzi
 
