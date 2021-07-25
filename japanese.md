@@ -2,7 +2,7 @@
 [Español](japaneseesp.md)
 # Japanese (日本語)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. 
+I have done my Japanese studies at the Puebla Japanese Language Center (プ エ ブ ラ 日本語 学校), finishing my studies at the pre-intermediate level. I have also obtained the N5 level certificate issued by the [Japan Foundation](https://www.jpf.go.jp/e/), which is the only Japanese institution dedicated to the Japanese culture dissemination.
 
 ## Japanese Language Proficiency Test JLPT (日本語能力試験)
 

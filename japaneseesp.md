@@ -2,7 +2,7 @@
 [English](japanese.md)
 # Japonés (日本語)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. 
+He realizado mis estudios de japonés en el Centro de Idioma Japonés de Puebla (プエブラ日本語学校), llegando a terminar los estudios referentes al nivel preintermedio. Además he obtenido el certificado de nivel N5 expedido por la [Fundación Japón](https://www.jpf.go.jp/e/), la cual es la única institución japonesa dedicada al esparcimiento de la cultura japonesa.
 
 ## Japanese Language Proficiency Test JLPT (日本語能力試験)
 

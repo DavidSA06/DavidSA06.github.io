@@ -50,4 +50,4 @@ I am currently updating my programming knowledge in [Platzi](platzi.md)
 - [GitHub](https://davidsa06.github.io/)
 - [Platzi](https://platzi.com/p/davidsilvaa/)
 
-Last Update: 07/22/2021 (mm/dd/yyyy)
+Last Update: 07/24/2021 (mm/dd/yyyy)
