@@ -1,12 +1,12 @@
 [Home](index.md)
 [Español](osaesp.md)
-## OSA
+# OSA
 
 The [OSA](https://www.osa.org/en-us/home/) (Optical Society of America) is an association of individuals and companies engaged in optical research. There are several student chapters around the world, one of them is operating at BUAP carrying out scientific dissemination activities in schools and public events.
 
 During my studies within the FCFM I served as treasurer, vice president and president of the student chapter. Thanks to this I have developed leadership, teamwork, communication, mentoring and team development skills. I was in charge of managing the chapter's financial resources and organizing various outreach activities such as congresses, experimental demonstrations, and groups of judges for scientific fairs. 
 
-### Washington D.C. (Student Leadership Conference)
+## Washington D.C. (Student Leadership Conference)
 
 I had the opportunity to participate in the Student Leadership Conference in September 2017 in Washington D.C. In this congress, lectures on professional and academic opportunities were given, as well as explanations about scientific outreach methods. 
 
@@ -23,17 +23,21 @@ During my visit, I was able to exchange ideas and do networking, listening to di
   <img src="https://imgur.com/nmqpasq.jpg"
   alt="Eric Mazur"
   style="width:100%">
-  <figcaption>[Eric Mazur](https://en.wikipedia.org/wiki/Eric_Mazur), 2017 President of OSA</figcaption>
+  <figcaption>
+  <a href="https://en.wikipedia.org/wiki/Eric_Mazur">Eric Mazur</a>, 2017 President of OSA.
+  </figcaption>
 </figure>
 
 <figure>
   <img src="https://imgur.com/KoadP79.jpg"
   alt="Elizabeth Rogan"
   style="width:100%">
-  <figcaption>[Elizabeth Rogan](https://www.osa.org/en-us/about_osa/leadership_and_volunteers/board/elizabeth_rogan/), CEO of the OSA</figcaption>
+  <figcaption>
+  <a href="https://www.osa.org/en-us/about_osa/leadership_and_volunteers/board/elizabeth_rogan/">Elizabeth Rogan</a>, CEO of the OSA.
+  </figcaption>
 </figure>
 
-### LXI National Congress of Physics
+## LXI National Congress of Physics
 
 At the LXI National Congress of Physics, my chapter met [Dr. William Phillips](https://en.wikipedia.org/wiki/William_Daniel_Phillips), winner of the 1997 Nobel Prize in Physics. We took the opportunity to learn about his ideas and ask for advice on life in research and how to share the knowledge obtained in the laboratory.
 
@@ -41,14 +45,16 @@ At the LXI National Congress of Physics, my chapter met [Dr. William Phillips](h
   <img
   src="https://imgur.com/BEwyAUx.jpg"
   alt="William Phillips">
-  <figcaption>[Dr. William Phillips](https://en.wikipedia.org/wiki/William_Daniel_Phillips), 1997 Nobel Prize winner</figcaption>
+  <figcaption>
+  <a href="https://en.wikipedia.org/wiki/William_Daniel_Phillips">Dr. William Phillips</a>, 1997 Nobel Prize winner.
+  </figcaption>
 </figure>
 
 <!--
 ![William Phillips](https://imgur.com/BEwyAUx.jpg)
 -->
 
-### II CILCA (Second Congress Light, Science and Art)
+## II CILCA (Second Congress Light, Science and Art)
 
 The Second Light, Science and Art Congress aimed to create a multidisciplinary forum to disseminate, discuss and exchange knowledge of science and art around light, as a transversal axis. I participated in the organizing student committee. Thanks to the resources provided annually to our chapter, I invited [Dr. Todd Fansler](https://erc.wisc.edu/staff/fansler-todd/), OSA researcher emeritus who gave the conference that opened the congress. 
 
@@ -56,7 +62,11 @@ The Second Light, Science and Art Congress aimed to create a multidisciplinary f
   <img
   src="https://imgur.com/7mIcKa7.jpg"
   alt="William Phillips">
-  <figcaption>[Dr. Todd Fansler](https://erc.wisc.edu/staff/fansler-todd/), emeritus researcher from the OSA</figcaption>
+  <figcaption>
+  <a href="https://erc.wisc.edu/staff/fansler-todd/">Dr. Todd Fansler</a>, emeritus researcher from the OSA.
+  </figcaption>
 </figure>
 
-### Events
+# Events
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. 
