@@ -13,13 +13,13 @@ In this page you are going to find evidence of my work.
 </figure>
 
 
-## FCFM (BUAP)
+## FCFM-BUAP
 
 I made my studies in applied physics in the FCFM-BUAP. In this section my activity within the university is broken down by grade.
 
 ### PhD
 
-[PhD](phd.md)
+I started my [PhD](phd.md) studies in August 2017. 
 
 ### MSc
 
@@ -31,11 +31,11 @@ I made my studies in applied physics in the FCFM-BUAP. In this section my activi
 
 ### OSA (Optical Society of America)
 
-[OSA](osa.md)
+Since April 2014 I have belonged to the [OSA-BUAP](osa.md) Student Chapter, participating in the organization of scientific outreach events.
 
 ## Platzi
 
-I am currently updating my programming knowledge in [Platzi](platzi.md)
+I am currently updating my programming knowledge, English and soft skills in Platzi [Platzi](platzi.md).
 
 ## Languages
 
@@ -49,5 +49,6 @@ I am currently updating my programming knowledge in [Platzi](platzi.md)
 - [Twitter](https://twitter.com/DavidSA06)
 - [GitHub](https://davidsa06.github.io/)
 - [Platzi](https://platzi.com/p/davidsilvaa/)
+- ddsilvaa06@gmail.com
 
 Last Update: 07/25/2021 (mm/dd/yyyy)
