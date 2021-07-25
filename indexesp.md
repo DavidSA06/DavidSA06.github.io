@@ -50,4 +50,4 @@ Actualmente estoy actualizando mis conocimientos de programación en [Platzi](pl
 - [GitHub](https://davidsa06.github.io/)
 - [Platzi](https://platzi.com/p/davidsilvaa/)
 
-Última actualización (ESP): 24/07/2021 (dd/mm/yyyy)
+Última actualización (ESP): 25/07/2021 (dd/mm/yyyy)
