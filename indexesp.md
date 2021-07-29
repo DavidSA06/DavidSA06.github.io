@@ -51,4 +51,4 @@ Actualmente estoy actualizando mis conocimientos de programación, inglés y hab
 - [Platzi](https://platzi.com/p/davidsilvaa/)
 - ddsilvaa06@gmail.com
 
-Última actualización: 25/07/2021 (dd/mm/yyyy)
+Última actualización: 28/07/2021 (dd/mm/yyyy)
