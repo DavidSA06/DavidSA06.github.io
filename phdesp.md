@@ -17,7 +17,7 @@ Por reglamento un estudiante de doctorado debe impartir ayudantías en dos curso
 
 ## IICILCA
 
-El Segundo Congreso Luz, Ciencia y Arte tuvo como objetivo crear un foro multidisciplinario para difundir, discutir e intercambiar conocimientos de la ciencia y el arte en torno a la luz, como eje transversal. Participé en el comité estudiantil organizador como puede verse en la página 6 en el siguiente [enlace](https://docplayer.es/140187627-Ii-cilca-segundo-congreso-internacional-luz-ciencia-arte.html)<i class="fas fa-external-link-alt"></i>. Fui asistente de la organización de la Sala Azul en la que se presentaron los temas relacionados a la luz en la ciencias exactas. Además de invitar y acompañar al Dr. Todd Fansler, quien impartió la conferencia que abrió el congreso. Haz clic [aquí](osaesp.md/#IICILCA) para ver más detalles.
+El Segundo Congreso Luz, Ciencia y Arte tuvo como objetivo crear un foro multidisciplinario para difundir, discutir e intercambiar conocimientos de la ciencia y el arte en torno a la luz, como eje transversal. Participé en el comité estudiantil organizador como puede verse en la página 6 en el siguiente [enlace](https://docplayer.es/140187627-Ii-cilca-segundo-congreso-internacional-luz-ciencia-arte.html) <i class="fa fa-external-link-alt"></i>. Fui asistente de la organización de la Sala Azul en la que se presentaron los temas relacionados a la luz en las ciencias exactas. Además de invitar y acompañar al Dr. Todd Fansler, quien impartió la conferencia que abrió el congreso. Haz clic [aquí](osaesp.md#IICILCA) para ver más detalles.
 
 ## Honorable Consejo Universitario
 
