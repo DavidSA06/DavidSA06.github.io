@@ -1,9 +1,23 @@
 [Home](index.md)
 [Español](phdesp.md)
 # PhD
+<!--
+## Research Work
 
-## LXII National Congress of Physics
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. 
 
+-->
+## Thesis Co-advisor
+
+I have been co-advisor of a Bachelor's Thesis in Applied Physics entitled "Characterization of quartz crystal microbalance sensors with respect to the thickness of a sensitive ethyl cellulose film". Written by Miguel Angel Moreno Acosta. 
+
+## Classes Assistantship
+
+By regulation, a doctoral student must teach assistantships in two courses. In my case, I taught practical PIC programming classes in two courses, the GitHub repository for most of the tutorial programs is [here](https://github.com/DavidSA06/Assembly). 
+
+## IICILCA
+
+The Second Light, Science and Art Congress aimed to create a multidisciplinary forum to disseminate, discuss and exchange knowledge of science and art around light, as a transversal axis. I participated in the organizing student committee as can be seen on page 6 in the following [link](https://docplayer.es/140187627-Ii-cilca-segundo-congreso-internacional-luz-ciencia-arte.html)<i class = "fas fa-external-link-alt"> </i>. I was an assistant in the organization of the Blue Hall in which the topics related to light in the exact sciences were presented. In addition to inviting and accompanying Dr. Todd Fansler, who gave the conference that opened the congress. Click [here](osaesp.md/#IICILCA) to see more details. 
 
 ## University Council
 
