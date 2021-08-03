@@ -51,4 +51,4 @@ I am currently updating my programming knowledge, English and soft skills in Pla
 - [Platzi](https://platzi.com/p/davidsilvaa/)
 - ddsilvaa06@gmail.com
 
-Last Update: 07/28/2021 (mm/dd/yyyy)
+Last Update: 08/02/2021 (mm/dd/yyyy)

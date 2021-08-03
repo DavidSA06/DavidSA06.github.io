@@ -9,7 +9,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor inci
 -->
 ## Python
 
-A pesar de haber estudiado Python en mis materias de Física computacional tuve la intención de aumentar mi conocimiento de este lenguaje de programación. En un curso extracurricular de la FCFM enn la que se repasaron conceptos avanzados de Python.
+A pesar de haber estudiado Python en mis materias de Física computacional tuve la intención de aumentar mi conocimiento de este lenguaje de programación. En un curso extracurricular de la FCFM en la que se repasaron conceptos avanzados de Python.
 
 <figure>
   <img

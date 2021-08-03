@@ -6,6 +6,8 @@ Hola, soy David Silva Apango, Maestro en Física Aplicada y estoy interesado en 
 
 En esta página encontrarás evidencia de mi trabajo.
 
+Puedes descargar mi CV [aquí](https://drive.google.com/file/d/1d996x0Xiet6PUfcg3oTcbaIEhlsj5YbZ/view?usp=sharing)
+
 <figure>
   <img
   src="https://imgur.com/WxNkgL4.jpg"
@@ -51,4 +53,4 @@ Actualmente estoy actualizando mis conocimientos de programación, inglés y hab
 - [Platzi](https://platzi.com/p/davidsilvaa/)
 - ddsilvaa06@gmail.com
 
-Última actualización: 28/07/2021 (dd/mm/yyyy)
+Última actualización: 02/08/2021 (dd/mm/yyyy)
