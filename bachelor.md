@@ -1,11 +1,14 @@
 [Home](index.md)
 [Español](bacheloresp.md)
 # Bachelor degree
-<!--
-## Research Work
+<figure>
+  <img
+  src="https://imgur.com/PAEuSo0.jpg"
+  alt="Bachelor's degree">
+  <figcaption>Bachelor's degree
+  </figcaption>
+</figure>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. 
--->
 ## Python
 
 Despite having studied Python in my Computational Physics subjects, I intended to increase my knowledge of this programming language. In an extracurricular course at FCFM in which advanced concepts of Python were reviewed.

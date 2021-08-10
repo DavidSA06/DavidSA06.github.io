@@ -1,12 +1,14 @@
 [Inicio](indexesp.md)
 [English](bachelor.md)
 # Licenciatura en Física Aplicada
+<figure>
+  <img
+  src="https://imgur.com/PAEuSo0.jpg"
+  alt="Título de Licenciatura">
+  <figcaption>Título de Licenciatura
+  </figcaption>
+</figure>
 
-<!--
-## Trabajo de Investigación
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. 
--->
 ## Python
 
 A pesar de haber estudiado Python en mis materias de Física computacional tuve la intención de aumentar mi conocimiento de este lenguaje de programación. En un curso extracurricular de la FCFM en la que se repasaron conceptos avanzados de Python.
