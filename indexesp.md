@@ -17,7 +17,7 @@ Puedes descargar mi CV [aquí](https://drive.google.com/file/d/1d996x0Xiet6PUfcg
 
 ## FCFM-BUAP
 
-Realicé mis estudios en Física Aplicada en la Facultad de Ciencias Físico-Matemáticas (FCFM) en la Benemérita Universidad Autónoma de Puebla (BUAP). En esta sección mi actividad dentro de la universidad esta desglosada por grado.
+Realicé mis estudios en Física Aplicada en la Facultad de Ciencias Físico-Matemáticas (FCFM) en la Benemérita Universidad Autónoma de Puebla (BUAP). Hice un resumen acerca de mi trabajo de investigación de tesis en [Deepnote](https://deepnote.com/@david-silva-apango/Resumen-de-investigacion-loolocDQRZuws7k6tU6Oow). En esta sección mi actividad dentro de la universidad esta desglosada por grado.
 
 ### Doctorado en Ciencias (Física Aplicada)
 
@@ -25,7 +25,7 @@ Empecé mis estudios de [Doctorado](phdesp.md) en agosto de 2017.
 
 ### Maestría en Ciencias (Física Aplicada)
 
-[Maestría](mscesp.md)
+Mis estudios de [Maestría](mscesp.md) empezaron en agosto de 2015 y terminaron en julio de 2017.
 
 ### Licenciatura en Física Aplicada
 
@@ -50,7 +50,8 @@ Actualmente estoy actualizando mis conocimientos de programación, inglés y hab
 - [LinkedIn](https://www.linkedin.com/in/david-silva-apango-60553714a/)
 - [Twitter](https://twitter.com/DavidSA06)
 - [GitHub](https://davidsa06.github.io/)
+- [Deepnote](https://deepnote.com/@david-silva-apango)
 - [Platzi](https://platzi.com/p/davidsilvaa/)
 - ddsilvaa06@gmail.com
 
-Última actualización: 09/08/2021 (dd/mm/yyyy)
+Última actualización: 15/08/2021 (dd/mm/yyyy)
