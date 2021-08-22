@@ -2,9 +2,7 @@
 
 # David Silva's Portfolio
 
-Hi I am David Silva Apango, MSc in Applied Physics and I am interested in Data Science.
-
-In this page you are going to find evidence of my work.
+Hi I am David Silva Apango, Master in Applied Physics and I am interested in Data Science. I am seeking to collaborate in a position as a Data Scientist due to my background in mathematics, handling electronic sensor data, and my experience as a leader in a scientific outreach group. On this page you will find evidence of my work. 
 
 You can download my CV [here](https://drive.google.com/file/d/1jRKEZaBGy8Ave2hQmERIcFRiI1p5Uw8s/view?usp=sharing).
 
@@ -37,7 +35,7 @@ Since April 2014 I have belonged to the [OSA-BUAP](osa.md) Student Chapter, part
 
 ## Platzi
 
-I am currently updating my programming knowledge, English and soft skills in [Platzi](platzi.md).
+I am currently updating my programming and data science knowledge, English and soft skills in [Platzi](platzi.md).
 
 ## Languages
 
@@ -54,4 +52,4 @@ I am currently updating my programming knowledge, English and soft skills in [Pl
 - [Platzi](https://platzi.com/p/davidsilvaa/)
 - ddsilvaa06@gmail.com
 
-Last Update: 08/15/2021 (mm/dd/yyyy)
+Last Update: 08/22/2021 (mm/dd/yyyy)
