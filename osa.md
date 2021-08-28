@@ -50,13 +50,9 @@ At the LXI National Congress of Physics, my chapter met [Dr. William Phillips](h
   </figcaption>
 </figure>
 
-<!--
-![William Phillips](https://imgur.com/BEwyAUx.jpg)
--->
-
 ## IICILCA 
 
-The Second Light, Science and Art Congress (IICILCA) aimed to create a multidisciplinary forum to disseminate, discuss and exchange knowledge of science and art around light, as a transversal axis. I participated in the organizing student committee. Thanks to the resources provided annually to our chapter, I invited [Dr. Todd Fansler](https://erc.wisc.edu/staff/fansler-todd/), OSA researcher emeritus who gave the conference that opened the congress. 
+The Second Light, Science and Art Congress (IICILCA) aimed to create a multidisciplinary forum to disseminate, discuss and exchange knowledge of science and art around light, as a transversal axis. I participated in the organizing student committee. Thanks to the resources provided annually to our chapter, I invited [Dr. Todd Fansler](https://erc.wisc.edu/staff/fansler-todd/), OSA emeritus researcher who gave the conference that opened the congress. 
 
 <figure>
   <img
@@ -66,7 +62,3 @@ The Second Light, Science and Art Congress (IICILCA) aimed to create a multidisc
   <a href="https://erc.wisc.edu/staff/fansler-todd/">Dr. Todd Fansler</a>, emeritus researcher from the OSA.
   </figcaption>
 </figure>
-
-# Events
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. 

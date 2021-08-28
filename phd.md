@@ -1,12 +1,7 @@
 [Home](index.md)
 [Español](phdesp.md)
 # PhD
-<!--
-## Research Work
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. 
-
--->
 ## Thesis Co-advisor
 
 I have been co-advisor of a Bachelor's Thesis in Applied Physics entitled "Characterization of quartz crystal microbalance sensors with respect to the thickness of a sensitive ethyl cellulose film". Written by Miguel Angel Moreno Acosta. 

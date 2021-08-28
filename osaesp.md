@@ -51,10 +51,6 @@ En el LXI Congreso Nacional de Física, mi capítulo conoció al [Dr. William Ph
   </figcaption>
 </figure>
 
-<!--
-![William Phillips](https://imgur.com/BEwyAUx.jpg)
--->
-
 ## IICILCA
 
 El Segundo Congreso Luz, Ciencia y Arte (IICILCA) tuvo como objetivo crear un foro multidisciplinario para difundir, discutir e intercambiar conocimientos de la ciencia y el arte en torno a la luz, como eje transversal. Participé en el comité estudiantil organizador. Gracias a los recursos proporcionados anualmente a nuestro capítulo invite al [Dr. Todd Fansler](https://erc.wisc.edu/staff/fansler-todd/), investigador emérito de la OSA que impartió la conferencia que abrió el congreso.
@@ -68,6 +64,6 @@ El Segundo Congreso Luz, Ciencia y Arte (IICILCA) tuvo como objetivo crear un fo
   </figcaption>
 </figure>
 
-# Eventos
+## Entrevista por Lado B
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. 
+El periódico digital Lado B entrevistó al capítulo estudiantil gracias a mi invitación a la FCFM, el artículo se encuentra [aquí](https://www.ladobe.com.mx/2017/10/experimentos-luz-divulgar-la-ciencia/).

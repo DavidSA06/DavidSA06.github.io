@@ -1,12 +1,7 @@
 [Inicio](indexesp.md)
 [English](phd.md)
 # Doctorado en Ciencias (Física Aplicada)
-<!--
-## Trabajo de Investigación
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. 
-
--->
 ## Coasesor de Tesis
 
 He sido coasesor de una Tesis de Licenciatura de Física Aplicada titulada "Caracterización de sensores de microbalanza de cristal de cuarzo con respecto al espesor de una película sensible de etil celulosa". Escrita por Miguel Angel Moreno Acosta.
