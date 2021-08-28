@@ -2,11 +2,6 @@
 [English](bachelor.md)
 # Licenciatura en Física Aplicada
 
-<!-->
-## Trabajo de Investigación
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. 
--->
 ## Python
 
 A pesar de haber estudiado Python en mis materias de Física computacional tuve la intención de aumentar mi conocimiento de este lenguaje de programación. En un curso extracurricular de la FCFM enn la que se repasaron conceptos avanzados de Python.
@@ -30,6 +25,18 @@ A pesar de haber estudiado Python en mis materias de Física computacional tuve 
   <figcaption>Constancia de participación de la Academia Mexicana de Ciencias al Verano de la Investigacón Científica.
   </figcaption>
 </figure>
+
+## Participación en Congresos
+
+- LVII Congreso Nacional de Física. Mazatlán, Sinaloa. 5-10-2014/10-10-2014. Presentador de cartel.
+
+## Participación en la OSA (Sociedad de Óptica de América)
+
+- Noche de las Estrellas (BUAP). Puebla, Puebla. 29-11-2014. Tallerista.
+- Feria de la Ciencia (Círculo Infantil-BUAP). Puebla, Puebla. 26-02-2015. Tallerista.
+- V Feria de las Ciencias "Año Internacional de la Luz" (FCFM,FCE-BUAP). Puebla, Puebla. 30-05-2015. Tallerista.
+- Semana de la Ciencia 2015 (COBAEP Plantel 30). Tlacotepec de Benito Juárez, Puebla. 15-06-2015. Tallerista.
+- I Feria de la Ciencia (Colegio Enrique C.Rebsamen). Puebla, Puebla. 22-06-2015. Tallerista.
 
 ## Presentación de Telescopios
 

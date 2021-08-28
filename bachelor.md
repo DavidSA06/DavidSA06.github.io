@@ -1,12 +1,7 @@
 [Home](index.md)
 [Español](bacheloresp.md)
 # Bachelor degree
-<!--
-## Research Work
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. 
-
--->
 ## Python
 
 Despite having studied Python in my Computational Physics subjects, I intended to increase my knowledge of this programming language. In an extracurricular course at FCFM in which advanced concepts of Python were reviewed.
@@ -30,6 +25,18 @@ I participated in the Summer of Scientific Research of the Mexican Academy of Sc
   <figcaption>Participation certificate of the AMC to the Summer of Scientific Research.
   </figcaption>
 </figure>
+
+## Participation in congresses
+
+- LVII National Congress of Physics. Mazatlan, Sinaloa. 10-5-2014/10-10-2014. Poster Presenter.
+
+## Participation in the OSA (Optical Society of America)
+
+- Night of the Stars (BUAP). Puebla, Puebla. 11-29-2014. Workshop facilitator.
+- Science Fair (Children's Circle-BUAP). Puebla, Puebla. 26-02-2015. Workshop facilitator.
+- V Science Fair "International Year of Light" (FCFM,FCE-BUAP). Puebla, Puebla. 05-30-2015. Workshop facilitator.
+- Science Week 2015 (COBAEP Plantel 30). Tlacotepec de Benito Juárez, Puebla. 06-15-2015. Workshop facilitator.
+- I Science Fair (Colegio Enrique C.Rebsamen). Puebla, Puebla. 06-22-2015. Workshop facilitator.
 
 ## Telescope Presentation
 
