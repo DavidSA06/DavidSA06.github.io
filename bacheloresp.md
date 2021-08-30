@@ -33,21 +33,9 @@ A pesar de haber estudiado Python en mis materias de Física computacional tuve 
   </figcaption>
 </figure>
 
-## Participación en Congresos
-
-- LVII Congreso Nacional de Física. Mazatlán, Sinaloa. 5-10-2014/10-10-2014. Presentador de cartel.
-
-## Participación en la OSA (Sociedad de Óptica de América)
-
-- Noche de las Estrellas (BUAP). Puebla, Puebla. 29-11-2014. Tallerista.
-- Feria de la Ciencia (Círculo Infantil-BUAP). Puebla, Puebla. 26-02-2015. Tallerista.
-- V Feria de las Ciencias "Año Internacional de la Luz" (FCFM,FCE-BUAP). Puebla, Puebla. 30-05-2015. Tallerista.
-- Semana de la Ciencia 2015 (COBAEP Plantel 30). Tlacotepec de Benito Juárez, Puebla. 15-06-2015. Tallerista.
-- I Feria de la Ciencia (Colegio Enrique C.Rebsamen). Puebla, Puebla. 22-06-2015. Tallerista.
-
 ## Presentación de Telescopios
 
-Fui invitado por el MC Rafael Silva Íñiguez a presentar los telescopios de la Preparatoria Gral. Lázaro Cárdenas del Río (BUAP) en la noche de las estrellas 2011. Estos telescopios fueron construidos en un programa piloto por un grupo de estudiantes. Es en este evento cuando empecé mi labor divulgativa en la ciencia.
+Fui invitado por el MC Rafael Silva Íñiguez a presentar los telescopios de la Preparatoria Gral. Lázaro Cárdenas del Río (BUAP) en la noche de las estrellas 2011. Estos telescopios fueron construidos en un programa piloto por un grupo de estudiantes de la misma preparatoria. Es en este evento cuando empecé mi labor divulgativa en la ciencia.
 
 <figure>
   <img
@@ -64,3 +52,15 @@ Fui invitado por el MC Rafael Silva Íñiguez a presentar los telescopios de la 
   <figcaption>Placa de participantes en la construcción del telescopio.
   </figcaption>
 </figure>
+
+## Participación en Congresos
+
+- LVII Congreso Nacional de Física. Mazatlán, Sinaloa. 5-10-2014/10-10-2014. Presentador de cartel.
+
+## Participación en la OSA (Sociedad de Óptica de América)
+
+- Noche de las Estrellas (BUAP). Puebla, Puebla. 29-11-2014. Presentador de experimentos.
+- Feria de la Ciencia (Círculo Infantil-BUAP). Puebla, Puebla. 26-02-2015. Presentador de experimentos.
+- V Feria de las Ciencias "Año Internacional de la Luz" (FCFM,FCE-BUAP). Puebla, Puebla. 30-05-2015. Presentador de experimentos.
+- Semana de la Ciencia 2015 (COBAEP Plantel 30). Tlacotepec de Benito Juárez, Puebla. 15-06-2015. Presentador de experimentos.
+- I Feria de la Ciencia (Colegio Enrique C.Rebsamen). Puebla, Puebla. 22-06-2015. Presentador de experimentos.

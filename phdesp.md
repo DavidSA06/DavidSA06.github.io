@@ -25,3 +25,31 @@ El Honorable Consejo Universitario es la máxima autoridad de la BUAP. Los miemb
   <figcaption>Consejeros Universitarios de la FCFM (2019-2021)
   </figcaption>
 </figure>
+
+## Participación en congresos
+
+- LX Congreso Nacional de Física. Monterrey, Nuevo León. 09-10-2017/13-10-2017. Presentador de cartel.
+- LXI Congreso Nacional de Física. Puebla, Puebla. 07-10-2018/12-10-2018. Presentador de cartel.
+- 1er Congreso de Tópicos Avanzados de Óptica y Electrónica 2019 (INAOE). Tonantzintla, Puebla. 23-04-2019/26-04-2019. Presentador de cartel.
+- LXII Congreso Nacional de Física. Villahermosa, Tabasco. 07-10-2019/11-10-2019. Presentador de cartel.
+- LXIII Congreso Nacional de Física. Morelia, Michoacán. 05-10-2020/09-10-2020. Presentador de cartel.
+
+
+## Participación en la OSA (Sociedad de Óptica de América)
+
+- Noche de las Estrellas (BUAP). Puebla, Puebla. 25-11-2017. Presentador de experimentos.
+- Presentación de experimentos (Primaria Lic. Benito Juárez). Puebla, Puebla. 07-02-2018. **Organizador**.
+- XX Jornada de Ciencias (Instituto Francisco Esqueda) Puebla, Puebla. 14-03-2018/16-03-2018.**Juez**.
+- Velada Científica (Preparatoria Emiliano Zapata, BUAP). Puebla, Puebla. 23-03-2018. Presentador de experimentos.
+- Día Internacional de la Luz (FCFM-BUAP). Puebla, Puebla. 16-05-2018. **Organizador**.
+- LOBOFEST (BUAP). Puebla, Puebla. 22-08-2018. Presentador de experimentos.
+- XXV Semana Nacional de Ciencia y Tecnología (CONACYT). Puebla, Puebla. 17-09-18/21-09-18. Presentador de experimentos.
+- Semana Nacional de la Ciencia y Tecnología (CBTIS 260). Puebla, Puebla. 25-10-2018. Presentador de experimentos.
+- Noche de las Estrellas (BUAP). Puebla, Puebla. 17-11-2018. Presentador de experimentos.
+- Feria de Ciencias (Instituto Anglo Español de Puebla). Puebla, Puebla. 6-12-2018. Presentador de experimentos.
+- LOBOFEST Primavera 2019 (BUAP). Puebla, Puebla. 23-01-2019. Presentador de experimentos.
+- Día del Niño (BUAP). Puebla, Puebla. 27-04-2019/28-04-2019. Presentador de experimentos.
+- IICILCA (BUAP). Puebla, Puebla. 13-05-2019/17-05-2019. **Organizador**.
+- LOBOFEST Otoño 2019 (BUAP). Puebla, Puebla. 28-08-2019. Presentador de experimentos.
+- Noche de las Estrellas (BUAP). Puebla, Puebla. 30-11-2019. Presentador de experimentos.
+- Noche de las Estrellas (BUAP). Puebla, Puebla. 21-11-2020. Presentador de experimentos.

@@ -17,11 +17,11 @@
 
 ## Participation in the OSA (Optical Society of America)
 
-- Night of the Stars (BUAP). Puebla, Puebla. 11-28-2015. Workshop facilitator.
-- Commemoration of the Science and Technology Week (Municipal Public Library 390). Acuamanala, Tlaxcala. 12-11-2015. Workshop facilitator.
+- Night of the Stars (BUAP). Puebla, Puebla. 11-28-2015. Experiment presenter.
+- Commemoration of the Science and Technology Week (Municipal Public Library 390). Acuamanala, Tlaxcala. 12-11-2015. Experiment presenter.
 - Second Meeting of Student Chapters (INAOE). Tonantzintla, Puebla. 08-17-2016/08-19-2016. Participant.
-- Night of the Stars (BUAP). Puebla, Puebla. 12-03-2016. Workshop facilitator.
+- Night of the Stars (BUAP). Puebla, Puebla. 12-03-2016. Experiment presenter.
 - Guided Visit (FCFM-BUAP). Puebla, Puebla. 03-16-2017. **Organizer**.
-- The Night of the Stars (Preparatoria Emiliano Zapata, BUAP). Puebla, Puebla. 04-21-2017. Workshop facilitator.
-- Science and Technology Week 2017 (COBAEP Plantel 30). Tlacotepec de Benito Juarez, Puebla. 05-03-2017. Workshop facilitator.
-- First Science and Scientific Outreach Fair (FCFM-BUAP). Puebla, Puebla. 05-13-2017. Workshop facilitator.
+- The Night of the Stars (Preparatoria Emiliano Zapata, BUAP). Puebla, Puebla. 04-21-2017. Experiment presenter.
+- Science and Technology Week 2017 (COBAEP Plantel 30). Tlacotepec de Benito Juarez, Puebla. 05-03-2017. Experiment presenter.
+- First Science and Scientific Outreach Fair (FCFM-BUAP). Puebla, Puebla. 05-13-2017. Experiment presenter.
