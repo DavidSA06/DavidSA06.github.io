@@ -16,7 +16,7 @@ El Segundo Congreso Luz, Ciencia y Arte tuvo como objetivo crear un foro multidi
 
 ## Honorable Consejo Universitario
 
-El Honorable Consejo Universitario es la máxima autoridad de la BUAP. Los miembros de la comunidad estudiantil me eligieron para ser su representante.
+El Honorable Consejo Universitario es la máxima autoridad de la BUAP. Los miembros de la comunidad estudiantil de la FCFM-BUAP me eligieron para ser su representante.
 
 <figure>
   <img

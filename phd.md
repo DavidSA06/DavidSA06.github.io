@@ -16,7 +16,7 @@ The Second Light, Science and Art Congress aimed to create a multidisciplinary f
 
 ## University Council
 
-The Honorable University Council is the highest authority of the Benemérita Universidad Autónoma de Puebla. The members from the student community at my faculty elected me to be their representative.
+The Honorable University Council is the highest authority of the Benemérita Universidad Autónoma de Puebla. The members from the FCFM-BUAP student community at my faculty elected me to be their representative.
 
 <figure>
   <img

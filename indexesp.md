@@ -2,7 +2,7 @@
 
 # Portafolio de David Silva Apango
 
-Hola, soy David Silva Apango, Maestro en Física Aplicada y estoy interesado en Data Science. Busco colaborar en una posición como Data Scientist debido a mi formación en matemáticas, manejo de datos sensores electrónicos y mi experiencia como líder en un grupo de divulgación científica. En esta página encontrarás evidencia de mi trabajo.
+Hola, soy David Silva Apango, Maestro en Física Aplicada. Busco colaborar en una posición como Data Scientist debido a mi formación en matemáticas, manejo de datos sensores electrónicos y mi experiencia como líder de un grupo de divulgación científica. En esta página encontrarás evidencia de mi trabajo.
 
 Puedes descargar mi CV [aquí](https://drive.google.com/file/d/1d996x0Xiet6PUfcg3oTcbaIEhlsj5YbZ/view?usp=sharing).
 
@@ -23,11 +23,11 @@ Empecé mis estudios de [Doctorado](phdesp.md) en agosto de 2017.
 
 ### Maestría en Ciencias (Física Aplicada)
 
-Mis estudios de [Maestría](mscesp.md) empezaron en agosto de 2015 y terminaron en julio de 2017.
+Mis estudios de [Maestría](mscesp.md) empezaron en agosto de 2015 y finalizaron en julio de 2017.
 
 ### Licenciatura en Física Aplicada
 
-[Licenciatura](bacheloresp.md)
+Inicié mis estudios de [Licenciatura](bacheloresp.md) en agosto de 2009 y finalizaron en agosto de 2015.
 
 ### OSA (Optical Society of America)
 
@@ -52,4 +52,4 @@ Actualmente estoy actualizando mis conocimientos de programación, data science,
 - [Platzi](https://platzi.com/p/davidsilvaa/)
 - ddsilvaa06@gmail.com
 
-Última actualización: 27/08/2021 (dd/mm/yyyy)
+Última actualización: 29/08/2021 (dd/mm/yyyy)
