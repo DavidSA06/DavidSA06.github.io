@@ -35,7 +35,7 @@ Since April 2014 I have belonged to the [OSA-BUAP](osa.md) Student Chapter, part
 
 ## Platzi
 
-I am currently updating my programming and data science knowledge, English and soft skills in [Platzi](platzi.md).
+I am currently updating my programming and data science knowledge, English and soft skills in [Platzi](platzi.md). Get a free month using my [link](https://platzi.com/r/davidsilvaa/)!
 
 ## Languages
 
@@ -52,4 +52,4 @@ I am currently updating my programming and data science knowledge, English and s
 - [Platzi](https://platzi.com/p/davidsilvaa/)
 - ddsilvaa06@gmail.com
 
-Last Update: 08/29/2021 (mm/dd/yyyy)
+Last Update: 09/09/2021 (mm/dd/yyyy)
