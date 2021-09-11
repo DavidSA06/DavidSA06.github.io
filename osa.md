@@ -39,7 +39,7 @@ During my visit, I was able to exchange ideas and do networking, listening to di
 
 ## LXI National Congress of Physics
 
-At the LXI National Congress of Physics, my chapter met [Dr. William Phillips](https://en.wikipedia.org/wiki/William_Daniel_Phillips), winner of the 1997 Nobel Prize in Physics. We took the opportunity to learn about his ideas and ask for advice on life in research and how to share the knowledge obtained in the laboratory.
+At the LXI National Congress of Physics, my chapter met [Dr. William Phillips](https://en.wikipedia.org/wiki/William_Daniel_Phillips), winner of the 1997 Nobel Prize in Physics. We took the opportunity to learn about his ideas and ask for advice on life in research and how to share the knowledge obtained in the laboratory, you can download the meeting summary [here](https://drive.google.com/file/d/140cQXGWDPc1ejXlchRGBT12kZyrvAhIK/view?usp=sharing).
 
 <figure>
   <img

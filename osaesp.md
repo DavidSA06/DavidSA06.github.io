@@ -40,7 +40,7 @@ Durante mi visita logré hacer networking e intercambiar ideas escuchando divers
 
 ## LXI Congreso Nacional de Física
 
-En el LXI Congreso Nacional de Física, mi capítulo conoció al [Dr. William Phillips](https://es.wikipedia.org/wiki/William_Daniel_Phillips), ganador del premio Nobel en Física de 1997. Aprovechamos la oportunidad para conocer sus ideas y pedir consejo sobre la vida en investigación y como compartir el conocimiento obtenido en el laboratorio.
+En el LXI Congreso Nacional de Física, mi capítulo conoció al [Dr. William Phillips](https://es.wikipedia.org/wiki/William_Daniel_Phillips), ganador del premio Nobel en Física de 1997. Aprovechamos la oportunidad para conocer sus ideas y pedir consejo sobre la vida en investigación y como compartir el conocimiento obtenido en el laboratorio, puedes descargar el resumen de la reunión [aquí](https://drive.google.com/file/d/18CY0wm7H-3xNqIbMPPGNMB-i6tZ2fGKN/view?usp=sharing).
 
 <figure>
   <img
