@@ -47,9 +47,9 @@ Actualmente estoy actualizando mis conocimientos de programación, data science,
 
 - [LinkedIn](https://www.linkedin.com/in/david-silva-apango-60553714a/)
 - [Twitter](https://twitter.com/DavidSA06)
-- [GitHub](https://davidsa06.github.io/)
+- [GitHub](https://github.com/DavidSA06) (Perfil)
 - [Deepnote](https://deepnote.com/@david-silva-apango)
 - [Platzi](https://platzi.com/p/davidsilvaa/)
 - ddsilvaa06@gmail.com
 
-Última actualización: 09/09/2021 (dd/mm/yyyy)
+Última actualización: 12/09/2021 (dd/mm/yyyy)
