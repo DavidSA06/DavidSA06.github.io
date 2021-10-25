@@ -1,6 +1,7 @@
 [Home](index.md)
 [Español](mscesp.md)
 # MSc
+<!--
 <figure>
   <img
   src="https://imgur.com/NzEpYeZ.jpg"
@@ -8,7 +9,7 @@
   <figcaption>Master's degree
   </figcaption>
 </figure>
-
+-->
 ## Participation in congresses
 
 - LXIII National Congress of Physics. Merida, Yucatan. 10-05-2015/10-10-2015. Poster Presenter.

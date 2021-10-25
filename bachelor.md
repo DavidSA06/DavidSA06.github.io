@@ -1,6 +1,7 @@
 [Home](index.md)
 [Español](bacheloresp.md)
 # Bachelor degree
+<!--
 <figure>
   <img
   src="https://imgur.com/PAEuSo0.jpg"
@@ -8,7 +9,7 @@
   <figcaption>Bachelor's degree
   </figcaption>
 </figure>
-
+-->
 ## Python
 
 Despite having studied Python in my Computational Physics subjects, I intended to increase my knowledge of this programming language. In an extracurricular course at FCFM in which advanced concepts of Python were reviewed.

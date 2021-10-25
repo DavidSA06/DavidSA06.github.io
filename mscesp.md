@@ -1,6 +1,7 @@
 [Inicio](indexesp.md)
 [English](msc.md)
 # Maestría en Ciencias (Física Aplicada)
+<!--
 <figure>
   <img
   src="https://imgur.com/NzEpYeZ.jpg"
@@ -8,7 +9,7 @@
   <figcaption>Título de Maestría
   </figcaption>
 </figure>
-
+-->
 ## Participación en congresos
 
 - LXIII Congreso Nacional de Física. Mérida, Yucatán. 05-10-2015/09-10-2015. Presentador de cartel.
