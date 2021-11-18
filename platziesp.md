@@ -17,9 +17,9 @@ En esta sección estan colocados los certificados que considero más importantes
 
 <figure>
   <img
-  src="https://imgur.com/XdiK3td.jpg"
-  alt="Python Intermedio">
-  <figcaption>Certificado de Python Intermedio</figcaption>
+  src="https://imgur.com/uqnlVuN.jpg"
+  alt="Python Profesional">
+  <figcaption>Certificado del curso profesional de Python</figcaption>
 </figure>
 
 ## Proyectos
