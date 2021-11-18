@@ -17,9 +17,9 @@ In this section are placed the certificates that I consider most important:
 
 <figure>
   <img
-  src="https://imgur.com/XdiK3td.jpg"
-  alt="Intermediate Python">
-  <figcaption>Intermediate Python Certificate</figcaption>
+  src="https://imgur.com/uqnlVuN.jpg"
+  alt="Professional Python">
+  <figcaption>Python Professional Course Certificate</figcaption>
 </figure>
 
 ## Projects
@@ -36,4 +36,4 @@ To see the Twitter account from which the publications can be viewed, click here
 
 To see the Repository, click [here](https://github.com/DavidSA06/Raspberry) 
 
-Get a free month using my [link](https://platzi.com/r/davidsilvaa/)!
+**Get a free month using my [link](https://platzi.com/r/davidsilvaa/)!**
