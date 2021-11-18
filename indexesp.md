@@ -52,4 +52,4 @@ Actualmente estoy actualizando mis conocimientos de programación, data science,
 - [Platzi](https://platzi.com/p/davidsilvaa/)
 - ddsilvaa06@gmail.com
 
-Última actualización: 12/09/2021 (dd/mm/yyyy)
+Última actualización: 18/11/2021 (dd/mm/yyyy)
