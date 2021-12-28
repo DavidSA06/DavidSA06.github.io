@@ -17,10 +17,20 @@ En esta sección estan colocados los certificados que considero más importantes
 
 <figure>
   <img
-  src="https://imgur.com/uqnlVuN.jpg"
+  src="https://imgur.com/AVQxd6V.jpg"
   alt="Python Profesional">
-  <figcaption>Certificado del curso profesional de Python</figcaption>
+  <figcaption>Certificado del Python Challenge</figcaption>
 </figure>
+
+Para obtener este certificado se deben completar los cursos de:
+
+- Curso Básico de Python.
+- Curso de Python Comprehensions, Lambdas y Manejo de Errores.
+- Curso Profesional de Python.
+- Curso de Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks y Anaconda.
+- Curso de Introducción a la Terminal y Línea de Comandos.
+- Curso Profesional de Git y GitHub.
+- Curso de Programación Orientada a Objetos: POO.
 
 ## Proyectos
 
