@@ -52,4 +52,4 @@ I am currently updating my programming and data science knowledge, English and s
 - [Platzi](https://platzi.com/p/davidsilvaa/)
 - ddsilvaa06@gmail.com
 
-Last Update: 11/18/2021 (mm/dd/yyyy)
+Last Update: 12/28/2021 (mm/dd/yyyy)
