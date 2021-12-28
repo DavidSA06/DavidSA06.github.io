@@ -6,7 +6,7 @@ Platzi is an online education platform, where you can watch video lessons about 
 
 ## Certifications
 
-In this section are placed the certificates that I consider most important: 
+In this section the certificates that I consider most important are placed : 
 
 <figure>
   <img
@@ -17,10 +17,20 @@ In this section are placed the certificates that I consider most important:
 
 <figure>
   <img
-  src="https://imgur.com/uqnlVuN.jpg"
+  src="https://imgur.com/AVQxd6V.jpg"
   alt="Professional Python">
-  <figcaption>Python Professional Course Certificate</figcaption>
+  <figcaption>Python Challenge Certificate</figcaption>
 </figure>
+
+To obtain this certificate, the following courses must be completed:
+
+- Basic Python Course.
+- Course on Python Comprehensions, Lambdas and Error Handling.
+- Professional Python Course.
+- Course of Work Environment for Data Science with Jupyter Notebooks and Anaconda.
+- Course of Introduction to the Terminal and Command Line.
+- Git and GitHub Professional Course.
+- Object Oriented Programming Course: OOP.
 
 ## Projects
 
