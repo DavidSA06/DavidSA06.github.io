@@ -22,7 +22,7 @@ En esta sección estan colocados los certificados que considero más importantes
   <figcaption>Certificado del Python Challenge</figcaption>
 </figure>
 
-Para obtener este certificado se deben completar los cursos de:
+<p>Para obtener este certificado se deben completar los cursos de:</p>
 
 - Curso Básico de Python.
 - Curso de Python Comprehensions, Lambdas y Manejo de Errores.
@@ -31,6 +31,15 @@ Para obtener este certificado se deben completar los cursos de:
 - Curso de Introducción a la Terminal y Línea de Comandos.
 - Curso Profesional de Git y GitHub.
 - Curso de Programación Orientada a Objetos: POO.
+
+<figure>
+  <img
+  src="https://imgur.com/SvRYV90.jpg"
+  alt="Fundamentos de bases de datos">
+  <figcaption>Certificado Fundamentos de bases de datos</figcaption>
+</figure>
+
+<p>Se realizaron prácticas de SQL fueron hechas en este curso.</p>
 
 ## Proyectos
 
