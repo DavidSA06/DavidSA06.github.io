@@ -22,7 +22,7 @@ In this section the certificates that I consider most important are placed :
   <figcaption>Python Challenge Certificate</figcaption>
 </figure>
 
-To obtain this certificate, the following courses must be completed:
+<p>To obtain this certificate, the following courses must be completed:</p>
 
 - Basic Python Course.
 - Course on Python Comprehensions, Lambdas and Error Handling.
@@ -31,6 +31,15 @@ To obtain this certificate, the following courses must be completed:
 - Course of Introduction to the Terminal and Command Line.
 - Git and GitHub Professional Course.
 - Object Oriented Programming Course: OOP.
+
+<figure>
+  <img
+  src="https://imgur.com/SvRYV90.jpg"
+  alt="Database fundamentals">
+  <figcaption>Database Fundamentals Certificate</figcaption>
+</figure>
+
+<p>SQL practices were done in this course.</p>
 
 ## Projects
 
