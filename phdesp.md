@@ -31,11 +31,11 @@ El Honorable Consejo Universitario es la máxima autoridad de la BUAP. Los miemb
 - LX Congreso Nacional de Física. Monterrey, Nuevo León. 09-10-2017/13-10-2017. Presentador de cartel.
 - LXI Congreso Nacional de Física. Puebla, Puebla. 07-10-2018/12-10-2018. Presentador de cartel.
 - 1er Congreso de Tópicos Avanzados de Óptica y Electrónica 2019 (INAOE). Tonantzintla, Puebla. 23-04-2019/26-04-2019. Presentador de cartel.
-- LXII Congreso Nacional de Física. Villahermosa, Tabasco. 07-10-2019/11-10-2019. Presentador de cartel.
+- LXII Congreso Nacional de Física. Villahermosa, Tabasco. 07-10-2019/11-10-2019. **Organizador de viaje**. Presentador de cartel.
 - LXIII Congreso Nacional de Física. Morelia, Michoacán. 05-10-2020/09-10-2020. Presentador de cartel.
 
 
-## Participación en la OSA (Sociedad de Óptica de América)
+## Participación en OPTICA (Anteriormente OSA, Sociedad de Óptica de América)
 
 - Noche de las Estrellas (BUAP). Puebla, Puebla. 25-11-2017. Presentador de experimentos.
 - Presentación de experimentos (Primaria Lic. Benito Juárez). Puebla, Puebla. 07-02-2018. **Organizador**.

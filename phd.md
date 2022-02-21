@@ -30,11 +30,11 @@ The Honorable University Council is the highest authority of the Benemérita Uni
 - LX National Congress of Physics. Monterrey, Nuevo Leon. 10-09-2017/10-13-2017. Poster presenter.
 - LXI National Congress of Physics. Puebla, Puebla. 10-07-2018/10-12-2018. Poster presenter.
 - 1er CTAOE 2019 (INAOE). Tonantzintla, Puebla. 04-23-2019/04-26-2019. Poster presenter.
-- LXII National Congress of Physics. Villahermosa, Tabasco. 10-07-2019/10-11-2019. Poster presenter.
+- LXII National Congress of Physics. Villahermosa, Tabasco. 10-07-2019/10-11-2019. **Trip organizer**. Poster presenter.
 - LXIII National Congress of Physics. Morelia, Michoacan. 10-05-2020/10-09-2020. Poster presenter.
 
 
-## Participation in the OSA (Optical Society of America)
+## Participation in OPTICA (Formerly OSA, Optical Society of America)
 
 - Night of the Stars (BUAP). Puebla, Puebla. 11-25-2017. Experiment presenter.
 - Experimental Demonstrations (Primaria Lic. Benito Juárez). Puebla, Puebla. 02-07-2018. **Organizer**.
