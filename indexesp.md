@@ -29,7 +29,7 @@ Mis estudios de [Maestría](mscesp.md) empezaron en agosto de 2015 y finalizaron
 
 Inicié mis estudios de [Licenciatura](bacheloresp.md) en agosto de 2009 y finalizaron en agosto de 2015.
 
-### OPTICA (Anteriormente OSA, Sociedad de Óptica de America)
+### OPTICA (Anteriormente OSA, Sociedad de Óptica de América)
 
 Desde abril de 2014 pertenezco al Capítulo estudiantil [OPTICA-BUAP](osaesp.md) participando en la organización de eventos de divulgación científica.
 
