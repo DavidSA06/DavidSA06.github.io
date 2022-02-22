@@ -1,8 +1,9 @@
-[Inicio](indexesp.md)
-[English](japanese.md)
+[Inicio](indexesp.md) | [English](japanese.md)
 # Japonés (日本語)
 
 He realizado mis estudios de japonés en el Centro de Idioma Japonés de Puebla (プエブラ日本語学校), llegando a terminar los estudios referentes al nivel preintermedio. Además he obtenido el certificado de nivel N5 expedido por la [Fundación Japón](https://www.jpf.go.jp/e/), la cual es la única institución japonesa dedicada al esparcimiento de la cultura japonesa.
+
+También he realizado una tabla con información sobre kanjis en [Tableau](https://public.tableau.com/app/profile/david.silva2663/viz/Kanji_16451629254860/Dashboard?publish=yes).
 
 ## Japanese Language Proficiency Test JLPT (日本語能力試験)
 
