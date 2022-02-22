@@ -1,5 +1,4 @@
-[Inicio](indexesp.md)
-[English](phd.md)
+[Inicio](indexesp.md) | [English](phd.md)
 # Doctorado en Ciencias (Física Aplicada)
 
 ## Coasesor de Tesis
@@ -16,7 +15,7 @@ El Segundo Congreso Luz, Ciencia y Arte tuvo como objetivo crear un foro multidi
 
 ## Honorable Consejo Universitario
 
-El Honorable Consejo Universitario es la máxima autoridad de la BUAP. Los miembros de la comunidad estudiantil me eligieron para ser su representante.
+El Honorable Consejo Universitario es la máxima autoridad de la BUAP. Los miembros de la comunidad estudiantil me eligieron para ser su representante ([Página de Facebook](https://www.facebook.com/Consejeros-Universitarios-David-Silva-y-Antonio-Libreros-832274403806471)).
 
 <figure>
   <img

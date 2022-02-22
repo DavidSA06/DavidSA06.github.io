@@ -1,5 +1,4 @@
-[Inicio](indexesp.md)
-[English](bachelor.md)
+[Inicio](indexesp.md) | [English](bachelor.md)
 # Licenciatura en Física Aplicada
 
 ## Python
@@ -50,7 +49,7 @@ Fui invitado por el MC Rafael Silva Íñiguez a presentar los telescopios de la 
 
 - LVII Congreso Nacional de Física. Mazatlán, Sinaloa. 5-10-2014/10-10-2014. Presentador de cartel.
 
-## Participación en la OSA (Sociedad de Óptica de América)
+## Participación en OPTICA (Anteriormente OSA, Sociedad de Óptica de América)
 
 - Noche de las Estrellas (BUAP). Puebla, Puebla. 29-11-2014. Presentador de experimentos.
 - Feria de la Ciencia (Círculo Infantil-BUAP). Puebla, Puebla. 26-02-2015. Presentador de experimentos.

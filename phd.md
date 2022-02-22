@@ -1,5 +1,4 @@
-[Home](index.md)
-[Español](phdesp.md)
+[Home](index.md) | [Español](phdesp.md)
 # PhD
 
 ## Thesis Co-advisor
@@ -16,13 +15,14 @@ The Second Light, Science and Art Congress aimed to create a multidisciplinary f
 
 ## University Council
 
-The Honorable University Council is the highest authority of the Benemérita Universidad Autónoma de Puebla. The members from the student community at my faculty elected me to be their representative.
+The Honorable University Council is the highest authority of the Benemérita Universidad Autónoma de Puebla. The members from the student community at my faculty elected me to be their representative ([Facebook page](https://www.facebook.com/Consejeros-Universitarios-David-Silva-y-Antonio-Libreros-832274403806471)).
 
 <figure>
   <img
   src="https://imgur.com/D1Dsi2p.jpg"
   alt="FCFM counselors">
-  <figcaption>FCFM Counselors (2019-2021)</figcaption>
+  <figcaption>FCFM Counselors (2019-2021)
+  </figcaption>
 </figure>
 
 ## Participation in congresses

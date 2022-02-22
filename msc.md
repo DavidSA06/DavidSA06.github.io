@@ -1,5 +1,4 @@
-[Home](index.md)
-[Español](mscesp.md)
+[Home](index.md) | [Español](mscesp.md)
 # MSc
 
 ## Participation in congresses
@@ -8,7 +7,7 @@
 - III Science Cup. Puebla, Puebla. 11-11-2015/14-11-2015. **Judge**.
 - LIX National Congress of Physics. Leon, Guanajuato. 10-02-2015/10-07-2015. Poster Presenter.
 
-## Participation in the OSA (Optical Society of America)
+## Participation in OPTICA (Formerly OSA, Optical Society of America)
 
 - Night of the Stars (BUAP). Puebla, Puebla. 11-28-2015. Experiment presenter.
 - Commemoration of the Science and Technology Week (Municipal Public Library 390). Acuamanala, Tlaxcala. 12-11-2015. Experiment presenter.
