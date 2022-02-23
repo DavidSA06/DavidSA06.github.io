@@ -33,7 +33,6 @@ El Honorable Consejo Universitario es la máxima autoridad de la BUAP. Los miemb
 - LXII Congreso Nacional de Física. Villahermosa, Tabasco. 07-10-2019/11-10-2019. **Organizador de viaje**. Presentador de cartel.
 - LXIII Congreso Nacional de Física. Morelia, Michoacán. 05-10-2020/09-10-2020. Presentador de cartel.
 
-
 ## Participación en OPTICA (Anteriormente OSA, Sociedad de Óptica de América)
 
 - Noche de las Estrellas (BUAP). Puebla, Puebla. 25-11-2017. Presentador de experimentos.
