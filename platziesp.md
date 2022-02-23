@@ -22,7 +22,7 @@ En esta sección estan colocados los certificados que considero más importantes
   <figcaption>Certificado del Python Challenge
   </figcaption>
 </figure>
-<br>
+<br/>
 <p>Para obtener este certificado se deben completar los cursos de:</p>
 
 - Curso Básico de Python.
@@ -40,7 +40,7 @@ En esta sección estan colocados los certificados que considero más importantes
   <figcaption>Certificado de Fundamentos de bases de datos
   </figcaption>
 </figure>
-<br>
+<br/>
 <p>Se realizaron prácticas de SQL en este curso.</p>
 
 <figure>
