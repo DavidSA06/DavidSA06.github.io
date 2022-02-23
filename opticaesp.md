@@ -1,5 +1,4 @@
 [Inicio](indexesp.md) | [English](osa.md)
-
 # OPTICA (Anteriormente OSA, Sociedad de Óptica de América)
 
 La [OSA](https://www.osa.org/en-us/home/) (Sociedad de Óptica de América, por sus siglas en Inglés) es una asociación de individuos y empresas inmersas en la investigación óptica. Existen varios capítulos estudiantiles alrededor del mundo, uno de ellos esta operando en la BUAP realizando actividades de divulgación científica en escuelas y eventos públicos.

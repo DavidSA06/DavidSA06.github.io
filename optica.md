@@ -1,5 +1,4 @@
 [Home](index.md) | [Español](osaesp.md)
-
 # OPTICA (Formerly OSA, Optical Society of America)
 
 The [OSA](https://www.osa.org/en-us/home/) (Optical Society of America) is an association of individuals and companies engaged in optical research. There are several student chapters around the world, one of them is operating at BUAP carrying out scientific dissemination activities in schools and public events.
