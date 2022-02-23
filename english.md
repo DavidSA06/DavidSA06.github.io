@@ -11,6 +11,7 @@ I obtained skills to communicate in English during my school studies from elemen
   alt="Advanced Certificate">
   <figcaption>Advanced English Certificate from DGIE-BUAP</figcaption>
 </figure>
+<br/>
 
 ## Platzi
 
@@ -20,5 +21,6 @@ I obtained skills to communicate in English during my school studies from elemen
   alt="Upper Intermediate Certificate">
   <figcaption>Upper Intermediate English Certificate from Platzi</figcaption>
 </figure>
+<br/>
 
 Get a free month using my [link](https://platzi.com/r/davidsilvaa/)!

@@ -13,3 +13,4 @@ También he realizado una tabla con información sobre kanjis en [Tableau](https
   alt="Certificado JLPT">
   <figcaption>Certificado del Examen de Conocimientos del Idioma Japonés para el N5</figcaption>
 </figure>
+<br/>

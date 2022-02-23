@@ -16,6 +16,7 @@ I had the opportunity to participate in the Student Leadership Conference in Sep
   <figcaption>Reflecting pool
   </figcaption>
 </figure>
+<br/>
 
 During my visit, I was able to exchange ideas and do networking, listening to different points of view on the exchange of information and scientific dissemination. All of this helped me apply my ideas to the chapter in my role as president.
 
@@ -27,6 +28,7 @@ During my visit, I was able to exchange ideas and do networking, listening to di
   <a href="https://en.wikipedia.org/wiki/Eric_Mazur">Eric Mazur</a>, 2017 President of OSA.
   </figcaption>
 </figure>
+<br/>
 
 <figure>
   <img src="https://imgur.com/KoadP79.jpg"
@@ -36,6 +38,7 @@ During my visit, I was able to exchange ideas and do networking, listening to di
   <a href="https://www.osa.org/en-us/about_osa/leadership_and_volunteers/board/elizabeth_rogan/">Elizabeth Rogan</a>, CEO of the OSA.
   </figcaption>
 </figure>
+<br/>
 
 ## LXI National Congress of Physics
 
@@ -49,6 +52,7 @@ At the LXI National Congress of Physics, my chapter met [Dr. William Phillips](h
   <a href="https://en.wikipedia.org/wiki/William_Daniel_Phillips">Dr. William Phillips</a>, 1997 Nobel Prize winner.
   </figcaption>
 </figure>
+<br/>
 
 ## IICILCA 
 
@@ -62,3 +66,4 @@ The Second Light, Science and Art Congress (IICILCA) aimed to create a multidisc
   <a href="https://erc.wisc.edu/staff/fansler-todd/">Dr. Todd Fansler</a>, emeritus researcher from the OSA.
   </figcaption>
 </figure>
+<br/>

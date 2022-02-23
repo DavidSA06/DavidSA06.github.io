@@ -8,6 +8,8 @@
   <figcaption>Master's degree
   </figcaption>
 </figure>
+<br/>
+
 -->
 ## Participation in congresses
 

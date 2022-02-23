@@ -16,6 +16,7 @@ Tuve la oportunidad de participar en la conferencia de liderazgo estudiantil en 
   <figcaption>Reflecting pool.
   </figcaption>
 </figure>
+<br/>
 
 Durante mi visita logré hacer networking e intercambiar ideas escuchando diversos puntos de vista sobre el intercambio de información y la divulgación científica. Todo esto me ayudó a aplicar mis ideas en el capítulo en mi cargo como presidente.
 
@@ -27,6 +28,7 @@ Durante mi visita logré hacer networking e intercambiar ideas escuchando divers
   <a href="https://es.wikipedia.org/wiki/Eric_Mazur">Eric Mazur</a>, Presidente de la OSA (2017).
   </figcaption>
 </figure>
+<br/>
 
 <figure>
   <img src="https://imgur.com/KoadP79.jpg"
@@ -36,7 +38,7 @@ Durante mi visita logré hacer networking e intercambiar ideas escuchando divers
   <a href="https://www.osa.org/en-us/about_osa/leadership_and_volunteers/board/elizabeth_rogan/">Elizabeth Rogan</a>, CEO de la OSA.
   </figcaption>
 </figure>
-
+<br/>
 
 ## LXI Congreso Nacional de Física
 
@@ -50,6 +52,7 @@ En el LXI Congreso Nacional de Física, mi capítulo conoció al [Dr. William Ph
   <a href="https://es.wikipedia.org/wiki/William_Daniel_Phillips">Dr. William Phillips</a>, ganador del premio Nobel de Física de 1997.
   </figcaption>
 </figure>
+<br/>
 
 ## IICILCA
 
@@ -63,6 +66,7 @@ El Segundo Congreso Luz, Ciencia y Arte (IICILCA) tuvo como objetivo crear un fo
   <a href="https://erc.wisc.edu/staff/fansler-todd/">Dr. Todd Fansler</a>, investigador emérito de la OSA.
   </figcaption>
 </figure>
+<br/>
 
 ## Entrevista por Lado B
 

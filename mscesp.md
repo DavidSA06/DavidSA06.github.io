@@ -8,6 +8,8 @@
   <figcaption>Título de Maestría
   </figcaption>
 </figure>
+<br/>
+
 -->
 ## Participación en congresos
 

@@ -8,6 +8,8 @@
   <figcaption>Título de Licenciatura
   </figcaption>
 </figure>
+<br/>
+
 -->
 ## Python
 
@@ -20,6 +22,7 @@ A pesar de haber estudiado Python en mis materias de Física computacional tuve 
   <figcaption>Reconocimiento por un curso recibido de Python en la FCFM-BUAP
   </figcaption>
 </figure>
+<br/>
 
 ## Centro de Investigaciones en Óptica (CIO)
 
@@ -32,6 +35,7 @@ A pesar de haber estudiado Python en mis materias de Física computacional tuve 
   <figcaption>Constancia de participación de la Academia Mexicana de Ciencias al Verano de la Investigacón Científica.
   </figcaption>
 </figure>
+<br/>
 
 ## Presentación de Telescopios
 
@@ -44,6 +48,7 @@ Fui invitado por el MC Rafael Silva Íñiguez a presentar los telescopios de la 
   <figcaption>Montaje de Telescopio Newtoniano.
   </figcaption>
 </figure>
+<br/>
 
 <figure>
   <img
@@ -52,6 +57,7 @@ Fui invitado por el MC Rafael Silva Íñiguez a presentar los telescopios de la 
   <figcaption>Placa de participantes en la construcción del telescopio.
   </figcaption>
 </figure>
+<br/>
 
 ## Participación en Congresos
 

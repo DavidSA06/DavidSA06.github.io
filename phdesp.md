@@ -25,6 +25,7 @@ El Honorable Consejo Universitario es la máxima autoridad de la BUAP. Los miemb
   <figcaption>Consejeros Universitarios de la FCFM (2019-2021)
   </figcaption>
 </figure>
+<br/>
 
 ## Participación en congresos
 

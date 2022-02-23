@@ -14,6 +14,7 @@ In this section the certificates that I consider most important are placed :
   <figcaption>Git and GitHub certificate
   </figcaption>
 </figure>
+<br/>
 
 <figure>
   <img
@@ -23,6 +24,7 @@ In this section the certificates that I consider most important are placed :
   </figcaption>
 </figure>
 <br>
+
 <p>To obtain this certificate, the following courses must be completed:</p>
 
 - Basic Python Course.
@@ -41,6 +43,7 @@ In this section the certificates that I consider most important are placed :
   </figcaption>
 </figure>
 <br>
+
 <p>SQL practices were done in this course.</p>
 
 <figure>
@@ -50,6 +53,7 @@ In this section the certificates that I consider most important are placed :
   <figcaption>Tableau Certificate
   </figcaption>
 </figure>
+<br/>
 
 ## Projects
 

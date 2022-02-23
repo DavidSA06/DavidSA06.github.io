@@ -14,6 +14,7 @@ En esta sección estan colocados los certificados que considero más importantes
   <figcaption>Certificado de Git y GitHub
   </figcaption>
 </figure>
+<br/>
 
 <figure>
   <img
@@ -23,6 +24,7 @@ En esta sección estan colocados los certificados que considero más importantes
   </figcaption>
 </figure>
 <br/>
+
 <p>Para obtener este certificado se deben completar los cursos de:</p>
 
 - Curso Básico de Python.
@@ -41,6 +43,7 @@ En esta sección estan colocados los certificados que considero más importantes
   </figcaption>
 </figure>
 <br/>
+
 <p>Se realizaron prácticas de SQL en este curso.</p>
 
 <figure>
@@ -50,6 +53,7 @@ En esta sección estan colocados los certificados que considero más importantes
   <figcaption>Certificado de Tableau: Visualización de Datos y Storytelling para Negocios
   </figcaption>
 </figure>
+<br/>
 
 ## Proyectos
 

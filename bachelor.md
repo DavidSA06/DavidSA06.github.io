@@ -8,6 +8,8 @@
   <figcaption>Bachelor's degree
   </figcaption>
 </figure>
+<br/>
+
 -->
 ## Python
 
@@ -20,6 +22,7 @@ Despite having studied Python in my Computational Physics subjects, I intended t
   <figcaption>Python course certificate received at FCFM-BUAP 
   </figcaption>
 </figure>
+<br/>
 
 ## Centro de Investigaciones en Óptica (CIO)
 
@@ -32,6 +35,7 @@ I participated in the Summer of Scientific Research of the Mexican Academy of Sc
   <figcaption>Participation certificate of the AMC to the Summer of Scientific Research.
   </figcaption>
 </figure>
+<br/>
 
 ## Telescope Presentation
 
@@ -44,6 +48,7 @@ I was invited by MC Rafael Silva Íñiguez to present the telescopes of the Gral
   <figcaption>Newtonian Telescope Mount.
   </figcaption>
 </figure>
+<br/>
 
 <figure>
   <img
@@ -52,6 +57,7 @@ I was invited by MC Rafael Silva Íñiguez to present the telescopes of the Gral
   <figcaption>Plaque of participants in the construction of the telescope.
   </figcaption>
 </figure>
+<br/>
 
 ## Participation in congresses
 

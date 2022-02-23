@@ -13,3 +13,4 @@ I have also made a dashboard with information about kanjis in [Tableau] (https:/
   alt="JLPT Certificate">
   <figcaption>Japanese Language Proficiency Test Certificate for N5 </figcaption>
 </figure>
+<br/>

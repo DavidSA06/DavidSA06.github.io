@@ -11,6 +11,7 @@ Obtuve habilidades para comunicarme en inglés durante mis estudios escolares de
   alt="Advanced Certificate">
   <figcaption>Certificado de Inglés Avanzado de DGIE-BUAP</figcaption>
 </figure>
+<br/>
 
 ## Platzi
 
@@ -20,5 +21,6 @@ Obtuve habilidades para comunicarme en inglés durante mis estudios escolares de
   alt="Upper Intermediate Certificate">
   <figcaption>Certificado de Inglés Intermedio Alto de Platzi</figcaption>
 </figure>
+<br/>
 
 ¡Obtén un mes gratis usando mi [enlace](https://platzi.com/r/davidsilvaa/)!
