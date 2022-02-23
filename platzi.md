@@ -22,7 +22,7 @@ In this section the certificates that I consider most important are placed :
   <figcaption>Python Challenge Certificate
   </figcaption>
 </figure>
-\
+<br>
 <p>To obtain this certificate, the following courses must be completed:</p>
 
 - Basic Python Course.
@@ -40,7 +40,7 @@ In this section the certificates that I consider most important are placed :
   <figcaption>Database Fundamentals Certificate
   </figcaption>
 </figure>
-\
+<br>
 <p>SQL practices were done in this course.</p>
 
 <figure>
