@@ -1,5 +1,4 @@
-[Home](index.md)
-[Español](platziesp.md)
+[Home](index.md) | [Español](platziesp.md)
 # Platzi
 
 Platzi is an online education platform, where you can watch video lessons about working in technology. I am interested in learning Data Science, Internet of Things and Machine Learning.
@@ -12,16 +11,18 @@ In this section the certificates that I consider most important are placed :
   <img
   src="https://imgur.com/8QPRgM8.jpg"
   alt="Git and GitHub">
-  <figcaption>Git and GitHub certificate</figcaption>
+  <figcaption>Git and GitHub certificate
+  </figcaption>
 </figure>
 
 <figure>
   <img
   src="https://imgur.com/AVQxd6V.jpg"
   alt="Professional Python">
-  <figcaption>Python Challenge Certificate</figcaption>
+  <figcaption>Python Challenge Certificate
+  </figcaption>
 </figure>
-
+\
 <p>To obtain this certificate, the following courses must be completed:</p>
 
 - Basic Python Course.
@@ -36,10 +37,19 @@ In this section the certificates that I consider most important are placed :
   <img
   src="https://imgur.com/SvRYV90.jpg"
   alt="Database fundamentals">
-  <figcaption>Database Fundamentals Certificate</figcaption>
+  <figcaption>Database Fundamentals Certificate
+  </figcaption>
 </figure>
-
+\
 <p>SQL practices were done in this course.</p>
+
+<figure>
+  <img
+  src="https://imgur.com/8CLVdVc.jpg"
+  alt="Tableau">
+  <figcaption>Tableau Certificate
+  </figcaption>
+</figure>
 
 ## Projects
 
