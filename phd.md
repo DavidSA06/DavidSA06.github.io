@@ -37,7 +37,6 @@ The Honorable University Council is the highest authority of the Benemérita Uni
 - LXII National Congress of Physics. Villahermosa, Tabasco. 10-07-2019/10-11-2019. **Trip organizer**. Poster presenter.
 - LXIII National Congress of Physics. Morelia, Michoacan. 10-05-2020/10-09-2020. Poster presenter.
 
-
 ## Participation in OPTICA (Formerly OSA, Optical Society of America)
 
 - Night of the Stars (BUAP). Puebla, Puebla. 11-25-2017. Experiment presenter.
