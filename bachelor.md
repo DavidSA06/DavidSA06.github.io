@@ -1,5 +1,4 @@
-[Home](index.md)
-[Español](bacheloresp.md)
+[Home](index.md) | [Español](bacheloresp.md)
 # Bachelor degree
 <!--
 <figure>
@@ -58,7 +57,7 @@ I was invited by MC Rafael Silva Íñiguez to present the telescopes of the Gral
 
 - LVII National Congress of Physics. Mazatlan, Sinaloa. 10-5-2014/10-10-2014. Poster Presenter.
 
-## Participation in the OSA (Optical Society of America)
+## Participation in OPTICA (Formerly OSA, Optical Society of America)
 
 - Night of the Stars (BUAP). Puebla, Puebla. 11-29-2014. Experiment presenter.
 - Science Fair (Children's Circle-BUAP). Puebla, Puebla. 26-02-2015. Experiment presenter.

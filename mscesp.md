@@ -1,5 +1,4 @@
-[Inicio](indexesp.md)
-[English](msc.md)
+[Inicio](indexesp.md) | [English](msc.md)
 # Maestría en Ciencias (Física Aplicada)
 <!--
 <figure>
@@ -16,7 +15,7 @@
 - III Copa de Ciencias. Puebla, Puebla. 11-11-2015/14-11-2015. **Juez**.
 - LIX Congreso Nacional de Física. León, Guanajuato. 02-10-2015/07-10-2015. Presentador de cartel.
 
-## Participación en la OSA (Sociedad de Óptica de América)
+## Participación en OPTICA (Anteriormente OSA, Sociedad de Óptica de América)
 
 - Noche de las Estrellas (BUAP). Puebla, Puebla. 28-11-2015. Presentador de experimentos.
 - Conmemoración de la Semana de la Ciencia y Tecnología (Biblioteca Pública Municipal 390). Acuamanala, Tlaxcala. 11-12-2015. Presentador de experimentos.
