@@ -1,5 +1,4 @@
 [Home](index.md) | [Español](phdesp.md)
-
 # PhD
 
 ## Thesis Co-advisor
