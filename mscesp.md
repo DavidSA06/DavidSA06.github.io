@@ -5,7 +5,7 @@
   <img
   src="https://imgur.com/NzEpYeZ.jpg"
   alt="Título de Maestría">
-  <figcaption>Título de Maestría
+  <figcaption>Título de Maestría.
   </figcaption>
 </figure>
 <br/>

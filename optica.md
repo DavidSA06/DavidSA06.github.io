@@ -13,7 +13,7 @@ I had the opportunity to participate in the Student Leadership Conference in Sep
   <img src="https://imgur.com/ngvxewk.jpg"
   alt="Reflecting Pool"
   style="width:100%">
-  <figcaption>Reflecting pool
+  <figcaption>Reflecting pool.
   </figcaption>
 </figure>
 <br/>

@@ -11,7 +11,7 @@ In this section the certificates that I consider most important are placed :
   <img
   src="https://imgur.com/8QPRgM8.jpg"
   alt="Git and GitHub">
-  <figcaption>Git and GitHub certificate
+  <figcaption>Git and GitHub certificate.
   </figcaption>
 </figure>
 <br/>
@@ -20,7 +20,7 @@ In this section the certificates that I consider most important are placed :
   <img
   src="https://imgur.com/AVQxd6V.jpg"
   alt="Professional Python">
-  <figcaption>Python Challenge Certificate
+  <figcaption>Python Challenge Certificate.
   </figcaption>
 </figure>
 <br>
@@ -39,18 +39,16 @@ In this section the certificates that I consider most important are placed :
   <img
   src="https://imgur.com/SvRYV90.jpg"
   alt="Database fundamentals">
-  <figcaption>Database Fundamentals Certificate
+  <figcaption>Database Fundamentals Certificate, SQL practices were done in this course.
   </figcaption>
 </figure>
 <br>
-
-<p>SQL practices were done in this course.</p>
 
 <figure>
   <img
   src="https://imgur.com/8CLVdVc.jpg"
   alt="Tableau">
-  <figcaption>Tableau Certificate
+  <figcaption>Tableau Certificate.
   </figcaption>
 </figure>
 <br/>

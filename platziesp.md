@@ -11,7 +11,7 @@ En esta sección estan colocados los certificados que considero más importantes
   <img
   src="https://imgur.com/8QPRgM8.jpg"
   alt="Git y GitHub">
-  <figcaption>Certificado de Git y GitHub
+  <figcaption>Certificado de Git y GitHub.
   </figcaption>
 </figure>
 <br/>
@@ -20,7 +20,7 @@ En esta sección estan colocados los certificados que considero más importantes
   <img
   src="https://imgur.com/AVQxd6V.jpg"
   alt="Python Profesional">
-  <figcaption>Certificado del Python Challenge
+  <figcaption>Certificado del Python Challenge.
   </figcaption>
 </figure>
 <br/>
@@ -39,18 +39,16 @@ En esta sección estan colocados los certificados que considero más importantes
   <img
   src="https://imgur.com/SvRYV90.jpg"
   alt="Fundamentos de bases de datos">
-  <figcaption>Certificado de Fundamentos de bases de datos
+  <figcaption>Certificado de Fundamentos de bases de datos, se realizaron prácticas de SQL en este curso.
   </figcaption>
 </figure>
 <br/>
-
-<p>Se realizaron prácticas de SQL en este curso.</p>
 
 <figure>
   <img
   src="https://imgur.com/8CLVdVc.jpg"
   alt="Tableau">
-  <figcaption>Certificado de Tableau: Visualización de Datos y Storytelling para Negocios
+  <figcaption>Certificado de Tableau: Visualización de Datos y Storytelling para Negocios.
   </figcaption>
 </figure>
 <br/>

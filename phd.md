@@ -21,7 +21,7 @@ The Honorable University Council is the highest authority of the Benemérita Uni
   <img
   src="https://imgur.com/D1Dsi2p.jpg"
   alt="FCFM counselors">
-  <figcaption>FCFM Counselors (2019-2021)
+  <figcaption>FCFM Counselors (2019-2021).
   </figcaption>
 </figure>
 <br/>

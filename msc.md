@@ -5,7 +5,7 @@
   <img
   src="https://imgur.com/NzEpYeZ.jpg"
   alt="Master's degree">
-  <figcaption>Master's degree
+  <figcaption>Master's degree.
   </figcaption>
 </figure>
 <br/>

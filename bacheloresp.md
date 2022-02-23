@@ -5,7 +5,7 @@
   <img
   src="https://imgur.com/PAEuSo0.jpg"
   alt="Título de Licenciatura">
-  <figcaption>Título de Licenciatura
+  <figcaption>Título de Licenciatura.
   </figcaption>
 </figure>
 <br/>
@@ -19,7 +19,7 @@ A pesar de haber estudiado Python en mis materias de Física computacional tuve 
   <img
   src="https://imgur.com/ZVf3MCZ.jpg"
   alt="Reconocimiento Curso Python">
-  <figcaption>Reconocimiento por un curso recibido de Python en la FCFM-BUAP
+  <figcaption>Reconocimiento por un curso recibido de Python en la FCFM-BUAP.
   </figcaption>
 </figure>
 <br/>

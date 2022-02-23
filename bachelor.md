@@ -5,7 +5,7 @@
   <img
   src="https://imgur.com/PAEuSo0.jpg"
   alt="Bachelor's degree">
-  <figcaption>Bachelor's degree
+  <figcaption>Bachelor's degree.
   </figcaption>
 </figure>
 <br/>
@@ -19,7 +19,7 @@ Despite having studied Python in my Computational Physics subjects, I intended t
   <img
   src="https://imgur.com/ZVf3MCZ.jpg"
   alt="Python course certificate">
-  <figcaption>Python course certificate received at FCFM-BUAP 
+  <figcaption>Python course certificate received at FCFM-BUAP.
   </figcaption>
 </figure>
 <br/>
