@@ -31,7 +31,7 @@ Inicié mis estudios de [Licenciatura](bacheloresp.md) en agosto de 2009 y final
 
 ### OPTICA (Anteriormente OSA, Sociedad de Óptica de América)
 
-Desde abril de 2014 pertenezco al Capítulo estudiantil [OPTICA-BUAP](osaesp.md) participando en la organización de eventos de divulgación científica.
+Desde abril de 2014 pertenezco al Capítulo estudiantil [OPTICA-BUAP](opticaesp.md) participando en la organización de eventos de divulgación científica.
 
 ## Platzi
 
@@ -52,4 +52,4 @@ Actualmente estoy actualizando mis conocimientos de programación, data science,
 - [Platzi](https://platzi.com/p/davidsilvaa/)
 - ddsilvaa06@gmail.com
 
-Última actualización: 20/02/2021 (dd/mm/yyyy)
+Última actualización: 22/02/2021 (dd/mm/yyyy)

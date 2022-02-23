@@ -1,6 +1,6 @@
-[Inicio](indexesp.md)
-[English](osa.md)
-# OSA
+[Inicio](indexesp.md) | [English](osa.md)
+
+# OPTICA (Anteriormente OSA, Sociedad de Óptica de América)
 
 La [OSA](https://www.osa.org/en-us/home/) (Sociedad de Óptica de América, por sus siglas en Inglés) es una asociación de individuos y empresas inmersas en la investigación óptica. Existen varios capítulos estudiantiles alrededor del mundo, uno de ellos esta operando en la BUAP realizando actividades de divulgación científica en escuelas y eventos públicos.
 
@@ -14,7 +14,8 @@ Tuve la oportunidad de participar en la conferencia de liderazgo estudiantil en 
   <img src="https://imgur.com/ngvxewk.jpg"
   alt="Reflecting Pool"
   style="width:100%">
-  <figcaption>Reflecting pool.</figcaption>
+  <figcaption>Reflecting pool.
+  </figcaption>
 </figure>
 
 Durante mi visita logré hacer networking e intercambiar ideas escuchando diversos puntos de vista sobre el intercambio de información y la divulgación científica. Todo esto me ayudó a aplicar mis ideas en el capítulo en mi cargo como presidente.

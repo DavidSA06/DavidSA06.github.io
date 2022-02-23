@@ -1,6 +1,6 @@
-[Home](index.md)
-[Español](osaesp.md)
-# OSA
+[Home](index.md) | [Español](osaesp.md)
+
+# OPTICA (Formerly OSA, Optical Society of America)
 
 The [OSA](https://www.osa.org/en-us/home/) (Optical Society of America) is an association of individuals and companies engaged in optical research. There are several student chapters around the world, one of them is operating at BUAP carrying out scientific dissemination activities in schools and public events.
 
@@ -14,7 +14,8 @@ I had the opportunity to participate in the Student Leadership Conference in Sep
   <img src="https://imgur.com/ngvxewk.jpg"
   alt="Reflecting Pool"
   style="width:100%">
-  <figcaption>Reflecting pool</figcaption>
+  <figcaption>Reflecting pool
+  </figcaption>
 </figure>
 
 During my visit, I was able to exchange ideas and do networking, listening to different points of view on the exchange of information and scientific dissemination. All of this helped me apply my ideas to the chapter in my role as president.

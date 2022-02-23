@@ -31,7 +31,7 @@ My [Bachelor](bachelor.md) studies began on August 2009 and finalized on August 
 
 ### OPTICA (Formerly OSA, Optical Society of America)
 
-Since April 2014 I have belonged to the [OSA-BUAP](osa.md) Student Chapter, participating in the organization of scientific outreach events.
+Since April 2014 I have belonged to the [OSA-BUAP](optica.md) Student Chapter, participating in the organization of scientific outreach events.
 
 ## Platzi
 
@@ -52,4 +52,4 @@ I am currently updating my programming and data science knowledge, English and s
 - [Platzi](https://platzi.com/p/davidsilvaa/)
 - ddsilvaa06@gmail.com
 
-Last Update: 02/20/2021 (mm/dd/yyyy)
+Last Update: 02/22/2021 (mm/dd/yyyy)
