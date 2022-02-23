@@ -1,5 +1,4 @@
-[Inicio](indexesp.md)
-[English](english.md)
+[Inicio](indexesp.md) | [English](english.md)
 # Inglés
 
 Obtuve habilidades para comunicarme en inglés durante mis estudios escolares desde primaria hasta la educación media superior. También estudié inglés en la Dirección General de Innovación Educativa (DGIE) de la BUAP llegando al nivel Avanzado 1. Recientemente he repasado mis estudios desde [Platzi](platziesp.md), una plataforma de aprendizaje en línea, en la cual he llegado hasta el nivel Intermedio Alto.
