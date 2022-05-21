@@ -2,7 +2,7 @@
 
 # David Silva's Portfolio
 
-Hi I am David Silva Apango, Master in Applied Physics. I am seeking to collaborate in a position as a Data Scientist due to my background in mathematics, handling electronic sensor data, and my experience as a leader of a scientific outreach group. On this page you will find evidence of my work. 
+Hi I am David Silva, Master in Applied Physics. I am looking for a job to collaborate in a position as a Data Analyst due to my background in mathematics, handling electronic sensor data, and my experience as a leader of a scientific outreach group. On this page you will find evidence of my work. 
 
 You can download my CV [here](https://drive.google.com/file/d/1jRKEZaBGy8Ave2hQmERIcFRiI1p5Uw8s/view?usp=sharing).
 
@@ -52,4 +52,4 @@ I am currently updating my programming and data science knowledge, English and s
 - [Platzi](https://platzi.com/p/davidsilvaa/)
 - ddsilvaa06@gmail.com
 
-Last Update: 02/22/2021 (mm/dd/yyyy)
+Last Update: 05/21/2021 (mm/dd/yyyy)
