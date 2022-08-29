@@ -47,10 +47,11 @@ I am currently updating my programming and data science knowledge, English and s
 
 - [LinkedIn](https://www.linkedin.com/in/david-silva-apango-60553714a/)
 - [Twitter](https://twitter.com/DavidSA06)
-- [GitHub](https://github.com/DavidSA06) Profile
-- [Deepnote](https://deepnote.com/@david-silva-apango)
-- [Platzi](https://platzi.com/p/davidsilvaa/)
-- [Tableau](https://public.tableau.com/app/profile/david.silva2663)
+- [GitHub](https://github.com/DavidSA06) (Profile)
+- [Deepnote](https://deepnote.com/@david-silva-apango) (My Jupyter Notebooks)
+- [Platzi](https://platzi.com/p/davidsilvaa/) (Courses taken)
+- [Tableau](https://public.tableau.com/app/profile/david.silva2663) (Dashboards)
+- [Gumroad](https://davidsilvaapango.gumroad.com/) (Digital products store)
 - ddsilvaa06@gmail.com
 
-Last Update: 05/26/2021 (mm/dd/yyyy)
+Last Update: 08/29/2022 (mm/dd/yyyy)

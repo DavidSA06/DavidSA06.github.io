@@ -48,9 +48,10 @@ Actualmente estoy actualizando mis conocimientos de programación, data science,
 - [LinkedIn](https://www.linkedin.com/in/david-silva-apango-60553714a/)
 - [Twitter](https://twitter.com/DavidSA06)
 - [GitHub](https://github.com/DavidSA06) (Perfil)
-- [Deepnote](https://deepnote.com/@david-silva-apango)
-- [Platzi](https://platzi.com/p/davidsilvaa/)
-- [Tableau](https://public.tableau.com/app/profile/david.silva2663)
+- [Deepnote](https://deepnote.com/@david-silva-apango) (Mis Jupyter Notebooks)
+- [Platzi](https://platzi.com/p/davidsilvaa/) (Cursos tomados)
+- [Tableau](https://public.tableau.com/app/profile/david.silva2663) (MDashboards)
+- [Gumroad](https://davidsilvaapango.gumroad.com/) (Tienda de productos digitales)
 - ddsilvaa06@gmail.com
 
-Última actualización: 26/05/2021 (dd/mm/yyyy)
+Última actualización: 29/08/2022 (dd/mm/yyyy)
