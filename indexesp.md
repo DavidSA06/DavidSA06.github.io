@@ -54,6 +54,6 @@ Actualmente estoy actualizando mis conocimientos de programación, data science,
 - [Gumroad](https://davidsilvaapango.gumroad.com/) (Tienda de productos digitales)
 - ddsilvaa06@gmail.com
 
-<a href="https://hits.sh/davidsa06.github.io/"><img alt="visitas" src="https://hits.sh/davidsa06.github.io.svg">visitas</a>
+<a href="https://hits.sh/davidsa06.github.io/"><img alt="visitas" src="https://hits.sh/davidsa06.github.io.svg" label="visitas"></a>
 
 Última actualización: 27/02/2022 (dd/mm/yyyy)
