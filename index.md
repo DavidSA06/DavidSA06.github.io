@@ -54,4 +54,6 @@ I am currently updating my programming and data science knowledge, English and s
 - [Gumroad](https://davidsilvaapango.gumroad.com/) (Digital products store)
 - ddsilvaa06@gmail.com
 
+<a href="https://hits.sh/davidsa06.github.io/"><img alt="Visits" src="https://hits.sh/davidsa06.github.io/"></a>
+
 Last Update: 02/27/2022 (mm/dd/yyyy)
