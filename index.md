@@ -2,7 +2,7 @@
 
 # David Silva's Portfolio
 
-Hi I am David Silva, Master in Applied Physics. I am looking for a job to collaborate in a position as a Data Analyst due to my background in mathematics, handling electronic sensor data, and my experience as a leader of a scientific outreach group. On this page you will find evidence of my work. 
+Hi I am David Silva, Master in Applied Physics. Currently I am working as a digital producer, scientific advisor and technical proofreader. In addition I'm interested Data Analysis due to my background in mathematics, handling electronic sensor data, and my experience as a leader of a scientific outreach group. On this page you will find evidence of my work. 
 
 You can download my CV [here](https://drive.google.com/file/d/1jRKEZaBGy8Ave2hQmERIcFRiI1p5Uw8s/view?usp=sharing).
 
@@ -54,4 +54,4 @@ I am currently updating my programming and data science knowledge, English and s
 - [Gumroad](https://davidsilvaapango.gumroad.com/) (Digital products store)
 - ddsilvaa06@gmail.com
 
-Last Update: 08/29/2022 (mm/dd/yyyy)
+Last Update: 02/27/2022 (mm/dd/yyyy)
