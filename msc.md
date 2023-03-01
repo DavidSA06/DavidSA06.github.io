@@ -1,4 +1,5 @@
-[Home](index.md) | [Español](mscesp.md)
+[Home](index.md) \| [Español](mscesp.md)
+
 # MSc
 <!--
 <figure>

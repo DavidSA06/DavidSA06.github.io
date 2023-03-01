@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is my portfolio's page, where you will see my academic and professional career.
+This is my portfolio's page, where you will find my academic and professional career.
 
 [GitHub Page](https://davidsa06.github.io/)
 

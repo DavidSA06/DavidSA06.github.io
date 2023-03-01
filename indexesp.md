@@ -1,4 +1,4 @@
-[English](index.md)
+[English](index.md)  \| [日本語](indexjp.md) (en construcción)
 
 # Portafolio de David Silva Apango
 
@@ -11,7 +11,6 @@ Puedes descargar mi CV [aquí](https://drive.google.com/file/d/1d996x0Xiet6PUfcg
   src="https://imgur.com/WxNkgL4.jpg"
   alt="Imagen de perfil">
 </figure>
-
 
 ## FCFM-BUAP
 
@@ -56,4 +55,4 @@ Actualmente estoy actualizando mis conocimientos de programación, data science,
 
 <a href="https://hits.sh/davidsa06.github.io/"><img alt="Hits" src="https://hits.sh/davidsa06.github.io.svg?view=today-total&style=plastic&label=visitas"/></a>
 
-Última actualización: 27/02/2022 (dd/mm/yyyy)
+Última actualización: 01/03/2023 (dd/mm/yyyy)

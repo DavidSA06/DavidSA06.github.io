@@ -1,4 +1,5 @@
-[Inicio](indexesp.md) | [English](osa.md)
+[Inicio](indexesp.md) \| [English](osa.md)
+
 # OPTICA (Anteriormente OSA, Sociedad de Óptica de América)
 
 La [OSA](https://www.osa.org/en-us/home/) (Sociedad de Óptica de América, por sus siglas en Inglés) es una asociación de individuos y empresas inmersas en la investigación óptica. Existen varios capítulos estudiantiles alrededor del mundo, uno de ellos esta operando en la BUAP realizando actividades de divulgación científica en escuelas y eventos públicos.
@@ -28,7 +29,6 @@ Durante mi visita logré hacer networking e intercambiar ideas escuchando divers
   <a href="https://es.wikipedia.org/wiki/Eric_Mazur">Eric Mazur</a>, Presidente de la OSA (2017).
   </figcaption>
 </figure>
-<br/>
 
 <figure>
   <img src="https://imgur.com/KoadP79.jpg"
@@ -38,7 +38,6 @@ Durante mi visita logré hacer networking e intercambiar ideas escuchando divers
   <a href="https://www.osa.org/en-us/about_osa/leadership_and_volunteers/board/elizabeth_rogan/">Elizabeth Rogan</a>, CEO de la OSA.
   </figcaption>
 </figure>
-<br/>
 
 ## LXI Congreso Nacional de Física
 

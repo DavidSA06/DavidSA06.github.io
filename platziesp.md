@@ -1,4 +1,5 @@
-[Inicio](indexesp.md) | [English](platzi.md)
+[Inicio](indexesp.md) \| [English](platzi.md)
+
 # Platzi
 
 Platzi es una plataforma de educación en línea, en la que se pueden ver lecciones en video sobre trabajo en tecnología. Estoy interesado en aprender Data Science, Internet of Things y Machine Learning.
@@ -25,10 +26,10 @@ En esta sección estan colocados los certificados que considero más importantes
 </figure>
 <br/>
 
-<p>Para obtener este certificado se deben completar los cursos de:</p>
+Para obtener este certificado se deben completar los cursos de:
 
 - Curso Básico de Python.
-- Curso de Python Comprehensions, Lambdas y Manejo de Errores.
+- Curso de Python: Comprehensions, Lambdas y Manejo de Errores.
 - Curso Profesional de Python.
 - Curso de Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks y Anaconda.
 - Curso de Introducción a la Terminal y Línea de Comandos.
@@ -65,6 +66,6 @@ Es importante medir la calidad del ambiente porque nos puede ayudar a evitar pro
 
 Para ver la cuenta de Twitter desde la que se pueden ver las publicaciones, haz clic [aquí](https://twitter.com/Jaeger06_Bot).
 
-Para ver el Repositorio, haz clic [aquí](https://github.com/DavidSA06/Raspberry) 
+Para ver el Repositorio, haz clic [aquí](https://github.com/DavidSA06/Raspberry)
 
 ¡Obtén un mes gratis usando mi [enlace](https://platzi.com/r/davidsilvaa/)!

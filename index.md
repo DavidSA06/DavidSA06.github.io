@@ -1,8 +1,8 @@
-[Español](indexesp.md)
+[Español](indexesp.md) \| [日本語](indexjp.md) (under construction)
 
 # David Silva's Portfolio
 
-Hi I am David Silva, Master in Applied Physics. Currently I am working as a digital producer, scientific advisor and technical proofreader. In addition I'm interested Data Analysis due to my background in mathematics, handling electronic sensor data, and my experience as a leader of a scientific outreach group. On this page you will find evidence of my work. 
+Hi I am David Silva, Master in Applied Physics. Currently I am working as a digital producer, scientific advisor and technical proofreader. In addition I'm interested Data Analysis due to my background in mathematics, handling electronic sensor data, and my experience as a leader of a scientific outreach group. On this page you will find evidence of my work.
 
 You can download my CV [here](https://drive.google.com/file/d/1jRKEZaBGy8Ave2hQmERIcFRiI1p5Uw8s/view?usp=sharing).
 
@@ -12,14 +12,13 @@ You can download my CV [here](https://drive.google.com/file/d/1jRKEZaBGy8Ave2hQm
   alt="Profile Picture">
 </figure>
 
-
 ## FCFM-BUAP
 
 I made my studies in applied physics in the FCFM-BUAP. I made a research summary in [Deepnote](https://deepnote.com/@david-silva-apango/Research-summary-0mDzbxatSmqOb-PeVQfuhQ) about my thesis work. In this section my activity within the university is broken down by grade.
 
 ### PhD
 
-I started my [PhD](phd.md) studies on August 2017. 
+I started my [PhD](phd.md) studies on August 2017.
 
 ### MSc
 
@@ -56,4 +55,4 @@ I am currently updating my programming and data science knowledge, English and s
 
 <a href="https://hits.sh/davidsa06.github.io/"><img alt="Hits" src="https://hits.sh/davidsa06.github.io.svg?view=today-total&style=plastic&label=visits"/></a>
 
-Last Update: 02/27/2022 (mm/dd/yyyy)
+Last Update: 03/01/2023 (mm/dd/yyyy)

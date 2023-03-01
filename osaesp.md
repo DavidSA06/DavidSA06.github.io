@@ -1,4 +1,4 @@
-[Inicio](indexesp.md) | [English](osa.md)
+[Inicio](indexesp.md) \| [English](osa.md)
 
 # OPTICA (Anteriormente OSA, Sociedad de Óptica de América)
 

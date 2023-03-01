@@ -1,4 +1,5 @@
-[Inicio](indexesp.md) | [English](bachelor.md)
+[Inicio](indexesp.md) \| [English](bachelor.md)
+
 # Licenciatura en Física Aplicada
 <!--
 <figure>

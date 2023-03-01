@@ -1,9 +1,10 @@
-[Inicio](indexesp.md) | [English](phd.md)
+[Inicio](indexesp.md) \| [English](phd.md)
+
 # Doctorado en Ciencias (Física Aplicada)
 
 ## Coasesor de Tesis
 
-He sido coasesor de una Tesis de Licenciatura de Física Aplicada titulada "Caracterización de sensores de microbalanza de cristal de cuarzo con respecto al espesor de una película sensible de etil celulosa". Escrita por Miguel Angel Moreno Acosta.
+He sido coasesor de una Tesis de Licenciatura de Física Aplicada titulada "Caracterización de sensores de microbalanza de cristal de cuarzo con respecto al espesor de una película sensible de etil celulosa". Escrita por [Miguel Angel Moreno Acosta](https://www.linkedin.com/in/miguel-angel-moreno-acosta-40b303181/).
 
 ## Ayudantía en clases
 

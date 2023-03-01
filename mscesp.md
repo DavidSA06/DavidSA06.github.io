@@ -1,4 +1,5 @@
-[Inicio](indexesp.md) | [English](msc.md)
+[Inicio](indexesp.md) \| [English](msc.md)
+
 # Maestría en Ciencias (Física Aplicada)
 <!--
 <figure>

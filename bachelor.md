@@ -1,4 +1,5 @@
-[Home](index.md) | [Español](bacheloresp.md)
+[Home](index.md) \| [Español](bacheloresp.md)
+
 # Bachelor degree
 <!--
 <figure>
@@ -70,3 +71,4 @@ I was invited by MC Rafael Silva Íñiguez to present the telescopes of the Gral
 - V Science Fair "International Year of Light" (FCFM,FCE-BUAP). Puebla, Puebla. 05-30-2015. Experiment presenter.
 - Science Week 2015 (COBAEP Plantel 30). Tlacotepec de Benito Juárez, Puebla. 06-15-2015. Experiment presenter.
 - I Science Fair (Colegio Enrique C.Rebsamen). Puebla, Puebla. 06-22-2015. Experiment presenter.
+- 

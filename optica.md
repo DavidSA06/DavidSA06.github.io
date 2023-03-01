@@ -1,13 +1,14 @@
-[Home](index.md) | [Español](osaesp.md)
+[Home](index.md) \| [Español](opticaesp.md)
+
 # OPTICA (Formerly OSA, Optical Society of America)
 
 The [OSA](https://www.osa.org/en-us/home/) (Optical Society of America) is an association of individuals and companies engaged in optical research. There are several student chapters around the world, one of them is operating at BUAP carrying out scientific dissemination activities in schools and public events.
 
-During my studies within the FCFM I served as treasurer, vice president and president of the student chapter. Thanks to this I have developed leadership, teamwork, communication, mentoring and team development skills. I was in charge of managing the chapter's financial resources and organizing various outreach activities such as congresses, experimental demonstrations, and groups of judges for scientific fairs. 
+During my studies within the FCFM I served as treasurer, vice president and president of the student chapter. Thanks to this I have developed leadership, teamwork, communication, mentoring and team development skills. I was in charge of managing the chapter's financial resources and organizing various outreach activities such as congresses, experimental demonstrations, and groups of judges for scientific fairs.
 
 ## Washington D.C. (Student Leadership Conference)
 
-I had the opportunity to participate in the Student Leadership Conference in September 2017 in Washington D.C. In this congress, lectures on professional and academic opportunities were given, as well as explanations about scientific outreach methods. 
+I had the opportunity to participate in the Student Leadership Conference in September 2017 in Washington D.C. In this congress, lectures on professional and academic opportunities were given, as well as explanations about scientific outreach methods.
 
 <figure>
   <img src="https://imgur.com/ngvxewk.jpg"
@@ -54,9 +55,9 @@ At the LXI National Congress of Physics, my chapter met [Dr. William Phillips](h
 </figure>
 <br/>
 
-## IICILCA 
+## IICILCA
 
-The Second Light, Science and Art Congress (IICILCA) aimed to create a multidisciplinary forum to disseminate, discuss and exchange knowledge of science and art around light, as a transversal axis. I participated in the organizing student committee. Thanks to the resources provided annually to our chapter, I invited [Dr. Todd Fansler](https://erc.wisc.edu/staff/fansler-todd/), OSA emeritus researcher who gave the conference that opened the congress. 
+The Second Light, Science and Art Congress (IICILCA) aimed to create a multidisciplinary forum to disseminate, discuss and exchange knowledge of science and art around light, as a transversal axis. I participated in the organizing student committee. Thanks to the resources provided annually to our chapter, I invited [Dr. Todd Fansler](https://erc.wisc.edu/staff/fansler-todd/), OSA emeritus researcher who gave the conference that opened the congress.
 
 <figure>
   <img
