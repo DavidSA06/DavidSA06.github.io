@@ -2,7 +2,7 @@
 
 # David Silva's Portfolio
 
-Hi I am David Silva, Master in Applied Physics. Currently I am working as a digital producer, scientific advisor and technical proofreader. In addition I'm interested Data Analysis due to my background in mathematics, handling electronic sensor data, and my experience as a leader of a scientific outreach group. On this page you will find evidence of my work.
+Hi I am **David Silva**, Master in Applied Physics. Currently I am working as a digital producer, scientific advisor and technical proofreader. In addition I'm interested Data Analysis due to my background in mathematics, handling electronic sensor data, and my experience as a leader of a scientific outreach group. On this page you will find evidence of my work.
 
 You can download my CV [here](https://drive.google.com/file/d/1jRKEZaBGy8Ave2hQmERIcFRiI1p5Uw8s/view?usp=sharing).
 
@@ -44,15 +44,16 @@ I am currently updating my programming and data science knowledge, English and s
 
 ## Contact information
 
-- [LinkedIn](https://www.linkedin.com/in/david-silva-apango-60553714a/)
-- [Twitter](https://twitter.com/DavidSA06)
-- [GitHub](https://github.com/DavidSA06) (Profile)
 - [Deepnote](https://deepnote.com/@david-silva-apango) (My Jupyter Notebooks)
+- [Geogebra](https://www.geogebra.org/u/davidsa06)
+- [GitHub](https://github.com/DavidSA06) (Profile)
+- [Gumroad](https://davidsilvaapango.gumroad.com/) (Digital products store)
+- [LinkedIn](https://www.linkedin.com/in/david-silva-apango-60553714a/)
 - [Platzi](https://platzi.com/p/davidsilvaa/) (Courses taken)
 - [Tableau](https://public.tableau.com/app/profile/david.silva2663) (Dashboards)
-- [Gumroad](https://davidsilvaapango.gumroad.com/) (Digital products store)
+- [Twitter](https://twitter.com/DavidSA06)
 - ddsilvaa06@gmail.com
 
-<a href="https://hits.sh/davidsa06.github.io/"><img alt="Hits" src="https://hits.sh/davidsa06.github.io.svg?view=today-total&style=plastic&label=visits"/></a>
+<a href="https://hits.sh/davidsa06.github.io/"><img alt="visits" src="https://hits.sh/davidsa06.github.io.svg?view=today-total&style=plastic&label=visits"/></a>
 
-Last Update: 03/01/2023 (mm/dd/yyyy)
+Last Update: 03/02/2023 (mm/dd/yyyy)

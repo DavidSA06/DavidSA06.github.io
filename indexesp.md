@@ -2,7 +2,7 @@
 
 # Portafolio de David Silva Apango
 
-Hola, soy David Silva Apango, Maestro en Física Aplicada. Actualmente trabajo como productor digital, asesor científico y corrector técnico. Estoy interesado en el Análisis de datos debido a mi formación en matemáticas, manejo de datos de sensores electrónicos y mi experiencia como líder de un grupo de divulgación científica. En esta página encontrarás evidencia de mi trabajo.
+Hola, soy **David Silva Apango**, Maestro en Física Aplicada. Actualmente trabajo como productor digital, asesor científico y corrector técnico. Estoy interesado en el Análisis de datos debido a mi formación en matemáticas, manejo de datos de sensores electrónicos y mi experiencia como líder de un grupo de divulgación científica. En esta página encontrarás evidencia de mi trabajo.
 
 Puedes descargar mi CV [aquí](https://drive.google.com/file/d/1d996x0Xiet6PUfcg3oTcbaIEhlsj5YbZ/view?usp=sharing).
 
@@ -44,15 +44,16 @@ Actualmente estoy actualizando mis conocimientos de programación, data science,
 
 ## Información de contacto
 
-- [LinkedIn](https://www.linkedin.com/in/david-silva-apango-60553714a/)
-- [Twitter](https://twitter.com/DavidSA06)
-- [GitHub](https://github.com/DavidSA06) (Perfil)
 - [Deepnote](https://deepnote.com/@david-silva-apango) (Mis Jupyter Notebooks)
-- [Platzi](https://platzi.com/p/davidsilvaa/) (Cursos tomados)
-- [Tableau](https://public.tableau.com/app/profile/david.silva2663) (MDashboards)
+- [Geogebra](https://www.geogebra.org/u/davidsa06)
+- [GitHub](https://github.com/DavidSA06) (Perfil)
 - [Gumroad](https://davidsilvaapango.gumroad.com/) (Tienda de productos digitales)
+- [LinkedIn](https://www.linkedin.com/in/david-silva-apango-60553714a/)
+- [Platzi](https://platzi.com/p/davidsilvaa/) (Cursos tomados)
+- [Tableau](https://public.tableau.com/app/profile/david.silva2663) (Mis Dashboards)
+- [Twitter](https://twitter.com/DavidSA06)
 - ddsilvaa06@gmail.com
 
-<a href="https://hits.sh/davidsa06.github.io/"><img alt="Hits" src="https://hits.sh/davidsa06.github.io.svg?view=today-total&style=plastic&label=visitas"/></a>
+<a href="https://hits.sh/davidsa06.github.io/indexesp.html/"><img alt="visitas" src="https://hits.sh/davidsa06.github.io/indexesp.html.svg?view=today-total&style=plastic&label=visitas"/></a>
 
-Última actualización: 01/03/2023 (dd/mm/yyyy)
+Última actualización: 02/03/2023 (dd/mm/yyyy)
