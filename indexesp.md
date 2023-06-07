@@ -36,6 +36,10 @@ Desde abril de 2014 pertenezco al Capítulo estudiantil [OPTICA-BUAP](opticaesp.
 
 Actualmente estoy actualizando mis conocimientos de programación, data science, inglés y habilidades blandas en [Platzi](platziesp.md). ¡Obtén un mes gratis usando mi [enlace](https://platzi.com/r/davidsilvaa/)!
 
+## Pasatiempos
+
+
+
 ## Idiomas
 
 - Español (Nativo)
@@ -56,4 +60,4 @@ Actualmente estoy actualizando mis conocimientos de programación, data science,
 
 <a href="https://hits.sh/davidsa06.github.io/indexesp.html/"><img alt="visitas" src="https://hits.sh/davidsa06.github.io/indexesp.html.svg?view=today-total&style=plastic&label=visitas"/></a>
 
-Última actualización: 02/03/2023 (dd/mm/yyyy)
+Última actualización: 06/06/2023 (dd/mm/yyyy)

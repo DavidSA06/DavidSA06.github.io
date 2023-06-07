@@ -12,4 +12,4 @@
 
 <a href="https://hits.sh/davidsa06.github.io/indexjp.html/"><img alt="アクセスカウンター" src="https://hits.sh/davidsa06.github.io/indexjp.html/.svg?view=today-total&style=plastic&label=アクセスカウンター"/></a>
 
-最後の更新： 2023/03/02 (yyyy/mm/dd)
+最後の更新： 2023/06/06 (yyyy/mm/dd)

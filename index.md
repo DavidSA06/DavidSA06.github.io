@@ -36,6 +36,10 @@ Since April 2014 I have belonged to the [OSA-BUAP](optica.md) Student Chapter, p
 
 I am currently updating my programming and data science knowledge, English and soft skills in [Platzi](platzi.md). Get a free month using my [link](https://platzi.com/r/davidsilvaa/)!
 
+## Hobbies
+
+Algunos ejemplos sobre mis pasatiempos se pueden encontrar [aquí](hobbiesesp.md).
+
 ## Languages
 
 - Spanish (Native)
@@ -56,4 +60,4 @@ I am currently updating my programming and data science knowledge, English and s
 
 <a href="https://hits.sh/davidsa06.github.io/"><img alt="visits" src="https://hits.sh/davidsa06.github.io.svg?view=today-total&style=plastic&label=visits"/></a>
 
-Last Update: 03/02/2023 (mm/dd/yyyy)
+Last Update: 06/06/2023 (mm/dd/yyyy)
