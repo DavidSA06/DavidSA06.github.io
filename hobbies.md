@@ -8,7 +8,6 @@ Some of my activities are presented here.
 
 I build 1:72 scale models, mainly WWII tanks.
 
-<div>
 <figure>
   <img
   src="https://imgur.com/eKlDcF7.jpg"
@@ -17,6 +16,7 @@ I build 1:72 scale models, mainly WWII tanks.
   Jagdpanther.
   </figcaption>
 </figure>
+<br>
 
 <figure>
   <img
@@ -26,6 +26,7 @@ I build 1:72 scale models, mainly WWII tanks.
   Sturmgeschütz III (Stug III).
   </figcaption>
 </figure>
+<br>
 
 <figure>
   <img
@@ -35,6 +36,7 @@ I build 1:72 scale models, mainly WWII tanks.
   Tiger I.
   </figcaption>
 </figure>
+<br>
 
 <figure>
   <img
@@ -44,7 +46,7 @@ I build 1:72 scale models, mainly WWII tanks.
   Tiger I.
   </figcaption>
 </figure>
-</div>
+<br>
 
 ## Basketball
 
@@ -58,6 +60,7 @@ With my academic body I have won the first FCFM Basketball tournament in 2015.
   Team of the Academic Group of Optoelectronics and Photonics (CAOyF).
   </figcaption>
 </figure>
+<br>
 
 ## Anime
 

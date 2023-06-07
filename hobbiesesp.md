@@ -8,7 +8,6 @@ Algunas de mis actividades están aquí.
 
 Construyo modelos a escala 1:72, principalmente tanques de la segunda guerra mundial.
 
-<div>
 <figure>
   <img
   src="https://imgur.com/eKlDcF7.jpg"
@@ -17,6 +16,7 @@ Construyo modelos a escala 1:72, principalmente tanques de la segunda guerra mun
   Jagdpanther.
   </figcaption>
 </figure>
+<br>
 
 <figure>
   <img
@@ -26,6 +26,7 @@ Construyo modelos a escala 1:72, principalmente tanques de la segunda guerra mun
   Sturmgeschütz III (Stug III).
   </figcaption>
 </figure>
+<br>
 
 <figure>
   <img
@@ -35,6 +36,7 @@ Construyo modelos a escala 1:72, principalmente tanques de la segunda guerra mun
   Tiger I.
   </figcaption>
 </figure>
+<br>
 
 <figure>
   <img
@@ -44,7 +46,7 @@ Construyo modelos a escala 1:72, principalmente tanques de la segunda guerra mun
   Tiger I.
   </figcaption>
 </figure>
-</div>
+<br>
 
 ## Basketball
 
@@ -58,6 +60,7 @@ Con mi cuerpo académico he ganado el primer torneo de Basketball de la FCFM en 
   Equipo del Cuerpo Académico de Optolectrónica y Fotónica (CAOyF).
   </figcaption>
 </figure>
+<br>
 
 ## Anime
 
