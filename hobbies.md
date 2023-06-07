@@ -52,7 +52,7 @@ With my academic body I have won the first FCFM Basketball tournament in 2015.
 
 <figure>
   <img
-  src="https://imgur.com/a/xpNULt8.jpg"
+  src="https://imgur.com/OwuwQCZ.jpg"
   alt="CAOyF Team">
   <figcaption>
   Team of the Academic Group of Optoelectronics and Photonics (CAOyF).

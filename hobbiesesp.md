@@ -52,7 +52,7 @@ Con mi cuerpo académico he ganado el primer torneo de Basketball de la FCFM en 
 
 <figure>
   <img
-  src="https://imgur.com/a/xpNULt8.jpg"
+  src="https://imgur.com/OwuwQCZ.jpg"
   alt="Equipo del CAOyF">
   <figcaption>
   Equipo del Cuerpo Académico de Optolectrónica y Fotónica (CAOyF).
