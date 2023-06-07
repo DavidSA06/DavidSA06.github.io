@@ -38,6 +38,7 @@ Actualmente estoy actualizando mis conocimientos de programación, data science,
 
 ## Pasatiempos
 
+Algunos ejemplos sobre mis pasatiempos se pueden encontrar [aquí](hobbiesesp.md).
 
 
 ## Idiomas

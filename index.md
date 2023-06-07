@@ -38,7 +38,7 @@ I am currently updating my programming and data science knowledge, English and s
 
 ## Hobbies
 
-Algunos ejemplos sobre mis pasatiempos se pueden encontrar [aquí](hobbiesesp.md).
+Some examples about my hobbies can be found [here](hobbiesesp.md).
 
 ## Languages
 
