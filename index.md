@@ -60,4 +60,4 @@ Some examples about my hobbies can be found [here](hobbiesesp.md).
 
 <a href="https://hits.sh/davidsa06.github.io/"><img alt="visits" src="https://hits.sh/davidsa06.github.io.svg?view=today-total&style=plastic&label=visits"/></a>
 
-Last Update: 06/06/2023 (mm/dd/yyyy)
+Last Update: 06/15/2023 (mm/dd/yyyy)

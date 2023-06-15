@@ -2,7 +2,9 @@
 
 # David Silvaのポートフォリオ
 
-こんにちは、応用物理学のマスターである **David Silva** です。 現在、私はデジタル プロデューサー、科学アドバイザー、技術的校正者として働いています。更に、数学の経歴、電子感知器の情報処理、及び科学的アウトリーチ 分会長としての経験から、データ分析に興味があります。 この ウェブサイト では、私の仕事の証拠を見つけることができます。
+こんにちは、応用物理学のマスターである **David Silva** です。 現在、私はデジタル プロデューサー、科学アドバイザー、技術的校正者として働いています。更に、数学の経歴、電子感知器の情報処理、及び科学的アウトリーチ 分会長としての経験から、データ分析に興味があります。 この ウェブサイト では、私の仕事の証拠を見つけることが出来ます。
+
+私の履歴書は[ここ](https://drive.google.com/file/d/136I_f1yHV-Bef3Kf8FSWmoad2mqdjbG-/view?usp=sharing)からダウンロード出来ます。
 
 <figure>
   <img
@@ -12,4 +14,4 @@
 
 <a href="https://hits.sh/davidsa06.github.io/indexjp.html/"><img alt="アクセスカウンター" src="https://hits.sh/davidsa06.github.io/indexjp.html/.svg?view=today-total&style=plastic&label=アクセスカウンター"/></a>
 
-最後の更新： 2023/06/06 (yyyy/mm/dd)
+最後の更新：2023/06/15 (yyyy/mm/dd)
