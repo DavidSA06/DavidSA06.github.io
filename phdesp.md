@@ -1,4 +1,4 @@
-[Inicio](indexesp.md) \| [English](phd.md)
+[Inicio](indexesp.md) \| [English](phd.md) \| [日本語](phdjp.md)
 
 # Doctorado en Ciencias (Física Aplicada)
 

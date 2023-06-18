@@ -1,4 +1,4 @@
-[Home](index.md) \| [Español](phdesp.md)
+[Home](index.md) \| [Español](phdesp.md) \| [日本語](phdjp.md)
 
 # PhD
 

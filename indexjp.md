@@ -14,4 +14,12 @@
 
 <a href="https://hits.sh/davidsa06.github.io/indexjp.html/"><img alt="アクセスカウンター" src="https://hits.sh/davidsa06.github.io/indexjp.html/.svg?view=today-total&style=plastic&label=アクセスカウンター"/></a>
 
-最後の更新：2023/06/15 (yyyy/mm/dd)
+## FCFM-BUAP
+
+私はFCFM-BUAPで応用物理学を学びました。 [Deepnote](https://deepnote.com/@david-silva-apango/Research-summary-0mDzbxatSmqOb-PeVQfuhQ) で、論文の研究に関する研究概要を作成しました。 ここでは私の学内での活動を学年別に紹介します。
+
+### 博士号
+
+私は2017年8月に[博士](phdjp.md)の勉強を始めました。
+
+最後の更新：2023/06/18 (yyyy/mm/dd)

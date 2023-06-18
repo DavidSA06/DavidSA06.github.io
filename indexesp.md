@@ -2,7 +2,7 @@
 
 # Portafolio de David Silva Apango
 
-Hola, soy **David Silva Apango**, Maestro en Física Aplicada. Actualmente trabajo como productor digital, asesor científico y corrector técnico. Estoy interesado en el Análisis de datos debido a mi formación en matemáticas, manejo de datos de sensores electrónicos y mi experiencia como líder de un grupo de divulgación científica. En esta página encontrarás evidencia de mi trabajo.
+Hola, soy **David Silva Apango**, Maestro en Ciencias (Física Aplicada). Actualmente trabajo como productor digital, asesor científico y corrector técnico. Estoy interesado en el Análisis de datos debido a mi formación en matemáticas, manejo de datos de sensores electrónicos y mi experiencia como líder de un grupo de divulgación científica. En esta página encontrarás evidencia de mi trabajo.
 
 Puedes descargar mi CV [aquí](https://drive.google.com/file/d/1d996x0Xiet6PUfcg3oTcbaIEhlsj5YbZ/view?usp=sharing).
 
@@ -40,7 +40,6 @@ Actualmente estoy actualizando mis conocimientos de programación, data science,
 
 Algunos ejemplos sobre mis pasatiempos se pueden encontrar [aquí](hobbiesesp.md).
 
-
 ## Idiomas
 
 - Español (Nativo)
@@ -61,4 +60,4 @@ Algunos ejemplos sobre mis pasatiempos se pueden encontrar [aquí](hobbiesesp.md
 
 <a href="https://hits.sh/davidsa06.github.io/indexesp.html/"><img alt="visitas" src="https://hits.sh/davidsa06.github.io/indexesp.html.svg?view=today-total&style=plastic&label=visitas"/></a>
 
-Última actualización: 15/06/2023 (dd/mm/yyyy)
+Última actualización: 18/06/2023 (dd/mm/yyyy)

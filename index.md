@@ -2,7 +2,7 @@
 
 # David Silva's Portfolio
 
-Hi I am **David Silva**, Master in Applied Physics. Currently I am working as a digital producer, scientific advisor and technical proofreader. In addition I'm interested Data Analysis due to my background in mathematics, handling electronic sensor data, and my experience as a leader of a scientific outreach group. On this page you will find evidence of my work.
+Hi I am **David Silva**, Master in Sciences (Applied Physics). Currently I am working as a digital producer, scientific advisor and technical proofreader. In addition I'm interested Data Analysis due to my background in mathematics, handling electronic sensor data, and my experience as a leader of a scientific outreach group. On this page you will find evidence of my work.
 
 You can download my CV [here](https://drive.google.com/file/d/1jRKEZaBGy8Ave2hQmERIcFRiI1p5Uw8s/view?usp=sharing).
 
@@ -60,4 +60,4 @@ Some examples about my hobbies can be found [here](hobbiesesp.md).
 
 <a href="https://hits.sh/davidsa06.github.io/"><img alt="visits" src="https://hits.sh/davidsa06.github.io.svg?view=today-total&style=plastic&label=visits"/></a>
 
-Last Update: 06/15/2023 (mm/dd/yyyy)
+Last Update: 06/18/2023 (mm/dd/yyyy)
