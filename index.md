@@ -12,6 +12,15 @@ You can download my CV [here](https://drive.google.com/file/d/1jRKEZaBGy8Ave2hQm
   alt="Profile Picture">
 </figure>
 
+| Table of contents |
+| --- |
+| [FCFM-BUAP](#fcfm-buap) |
+| [Highschool](#highschool) |
+| [Platzi](#platzi) |
+| [Hobbies](#hobbies) |
+| [Languages](#languages) |
+| [Contact information](#contact-information) |
+
 ## FCFM-BUAP
 
 I made my studies in applied physics in the FCFM-BUAP. I made a research summary in [Deepnote](https://deepnote.com/@david-silva-apango/Research-summary-0mDzbxatSmqOb-PeVQfuhQ) about my thesis work. In this section my activity within the university is broken down by grade.
@@ -31,6 +40,10 @@ My [Bachelor](bachelor.md) studies began on August 2009 and finalized on August 
 ### OPTICA (Formerly OSA, Optical Society of America)
 
 Since April 2014 I have belonged to the [OSA-BUAP](optica.md) Student Chapter, participating in the organization of scientific outreach events.
+
+## Highschool
+
+I present my work at Gral. Lázaro Cárdenas del Río High School [here](high.md).
 
 ## Platzi
 
@@ -60,4 +73,4 @@ Some examples about my hobbies can be found [here](hobbiesesp.md).
 
 <a href="https://hits.sh/davidsa06.github.io/"><img alt="visits" src="https://hits.sh/davidsa06.github.io.svg?view=today-total&style=plastic&label=visits"/></a>
 
-Last Update: 06/18/2023 (mm/dd/yyyy)
+Last Update: 06/20/2023 (mm/dd/yyyy)
