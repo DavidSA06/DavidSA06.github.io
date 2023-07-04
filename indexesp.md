@@ -12,7 +12,7 @@ Puedes descargar mi CV [aquí](https://drive.google.com/file/d/1d996x0Xiet6PUfcg
   alt="Imagen de perfil">
 </figure>
 
-| Table of contents |
+| Tabla de contenidos |
 | --- |
 | [FCFM-BUAP](#fcfm-buap) |
 | [Highschool](#escuela-preparatoria) |
@@ -73,4 +73,4 @@ Algunos ejemplos sobre mis pasatiempos se pueden encontrar [aquí](hobbiesesp.md
 
 <a href="https://hits.sh/davidsa06.github.io/indexesp.html/"><img alt="visitas" src="https://hits.sh/davidsa06.github.io/indexesp.html.svg?view=today-total&style=plastic&label=visitas"/></a>
 
-Última actualización: 20/06/2023 (dd/mm/yyyy)
+Última actualización: 03/07/2023 (dd/mm/yyyy)

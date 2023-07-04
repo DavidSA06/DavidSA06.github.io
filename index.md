@@ -51,7 +51,7 @@ I am currently updating my programming and data science knowledge, English and s
 
 ## Hobbies
 
-Some examples about my hobbies can be found [here](hobbiesesp.md).
+Some examples about my hobbies can be found [here](hobbies.md).
 
 ## Languages
 
@@ -73,4 +73,4 @@ Some examples about my hobbies can be found [here](hobbiesesp.md).
 
 <a href="https://hits.sh/davidsa06.github.io/"><img alt="visits" src="https://hits.sh/davidsa06.github.io.svg?view=today-total&style=plastic&label=visits"/></a>
 
-Last Update: 06/20/2023 (mm/dd/yyyy)
+Last Update: 07/03/2023 (mm/dd/yyyy)
