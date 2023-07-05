@@ -12,8 +12,6 @@
   alt="プロフィールの写真">
 </figure>
 
-<a href="https://hits.sh/davidsa06.github.io/indexjp.html/"><img alt="アクセスカウンター" src="https://hits.sh/davidsa06.github.io/indexjp.html/.svg?view=today-total&style=plastic&label=アクセスカウンター"/></a>
-
 | 目次 |
 | --- |
 | [FCFM-BUAP](#fcfm-buap) |
@@ -49,7 +47,7 @@
 
 ## Platzi
 
-現在、[Platzi]（Platzi.MD）のプログラミングとデータサイエンスの知識、英語、ソフトスキルを更新しています。[リンク]（https://platzi.com/r/davidsilvaa/）を使用して無料月を入手してください！
+現在、[Platzi](Platzi.MD)のプログラミングとデータサイエンスの知識、英語、ソフトスキルを更新しています。[リンク](https://platzi.com/r/davidsilvaa/)を使用して無料月を入手してください！
 
 ## 趣味
 
@@ -74,3 +72,5 @@
 - ddsilvaa06@gmail.com
 
 最後の更新：2023/07/04 (yyyy/mm/dd)
+
+<a href="https://hits.sh/davidsa06.github.io/indexjp.html/"><img alt="アクセスカウンター" src="https://hits.sh/davidsa06.github.io/indexjp.html/.svg?view=today-total&style=plastic&label=アクセスカウンター"/></a>
