@@ -1,4 +1,4 @@
-[Inicio](indexesp.md) \| [English](msc.md)
+[Inicio](indexesp.md) \| [English](msc.md) \| [日本語](mscjp.md)
 
 # Maestría en Ciencias (Física Aplicada)
 <!--
@@ -14,7 +14,7 @@
 -->
 ## Participación en congresos
 
-- LXIII Congreso Nacional de Física. Mérida, Yucatán. 05-10-2015/09-10-2015. Presentador de cartel.
+- LXIII Congreso Nacional de Física. Mérida, Yucatán. 05-10-2015/10-10-2015. Presentador de cartel.
 - III Copa de Ciencias. Puebla, Puebla. 11-11-2015/14-11-2015. **Juez**.
 - LIX Congreso Nacional de Física. León, Guanajuato. 02-10-2015/07-10-2015. Presentador de cartel.
 

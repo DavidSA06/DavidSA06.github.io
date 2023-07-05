@@ -1,4 +1,4 @@
-[Inicio](indexesp.md) \| [English](bachelor.md)
+[Inicio](indexesp.md) \| [English](bachelor.md) \| [日本語](bachelorjp.md)
 
 # Licenciatura en Física Aplicada
 <!--
@@ -47,15 +47,6 @@ Fui invitado por el MC Rafael Silva Íñiguez a presentar los telescopios de la 
   src="https://imgur.com/QHr1vyO.jpg"
   alt="Telescopio azul">
   <figcaption>Montaje de Telescopio Newtoniano.
-  </figcaption>
-</figure>
-<br/>
-
-<figure>
-  <img
-  src="https://imgur.com/w8DuLCz.jpg"
-  alt="Placa del Telescopio">
-  <figcaption>Placa de participantes en la construcción del telescopio.
   </figcaption>
 </figure>
 <br/>

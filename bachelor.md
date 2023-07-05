@@ -1,4 +1,4 @@
-[Home](index.md) \| [Español](bacheloresp.md)
+[Home](index.md) \| [Español](bacheloresp.md) \| [日本語](bachelorjp.md)
 
 # Bachelor degree
 <!--
@@ -27,12 +27,12 @@ Despite having studied Python in my Computational Physics subjects, I intended t
 
 ## Centro de Investigaciones en Óptica (CIO)
 
-I participated in the Summer of Scientific Research of the Mexican Academy of Sciences (AMC), this allowed me to satisfy my curiosity about optical fibers at the CIO. In this program I investigated the modes of propagation of light in optical fibers. 
+I participated in the Summer of Scientific Research of the Mexican Academy of Sciences (AMC), this allowed me to satisfy my curiosity about optical fibers at the CIO. In this program I investigated the modes of propagation of light in optical fibers.
 
 <figure>
   <img
   src="https://imgur.com/Jk8r82A.jpg"
-  alt="Constancia de Participación AMC">
+  alt="Participation certificate of the AMC">
   <figcaption>Participation certificate of the AMC to the Summer of Scientific Research.
   </figcaption>
 </figure>
@@ -40,22 +40,13 @@ I participated in the Summer of Scientific Research of the Mexican Academy of Sc
 
 ## Telescope Presentation
 
-I was invited by MC Rafael Silva Íñiguez to present the telescopes of the Gral. Lázaro Cárdenas del Río High School (BUAP) on the night of the stars 2011. These telescopes were built in a pilot program by a group of students from the aforementioned high school. It is in this event when I began my outreach presentations in science. 
+I was invited by MC Rafael Silva Íñiguez to present the telescopes of the Gral. Lázaro Cárdenas del Río High School (BUAP) on the night of the stars 2011. These telescopes were built in a pilot program by a group of students from the aforementioned high school. It is in this event when I began my outreach presentations in science.
 
 <figure>
   <img
   src="https://imgur.com/QHr1vyO.jpg"
   alt="Blue Telescope">
   <figcaption>Newtonian Telescope Mount.
-  </figcaption>
-</figure>
-<br/>
-
-<figure>
-  <img
-  src="https://imgur.com/w8DuLCz.jpg"
-  alt="Telescope Plaque">
-  <figcaption>Plaque of participants in the construction of the telescope.
   </figcaption>
 </figure>
 <br/>
@@ -71,4 +62,3 @@ I was invited by MC Rafael Silva Íñiguez to present the telescopes of the Gral
 - V Science Fair "International Year of Light" (FCFM,FCE-BUAP). Puebla, Puebla. 05-30-2015. Experiment presenter.
 - Science Week 2015 (COBAEP Plantel 30). Tlacotepec de Benito Juárez, Puebla. 06-15-2015. Experiment presenter.
 - I Science Fair (Colegio Enrique C.Rebsamen). Puebla, Puebla. 06-22-2015. Experiment presenter.
-- 

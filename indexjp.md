@@ -14,7 +14,7 @@
 
 <a href="https://hits.sh/davidsa06.github.io/indexjp.html/"><img alt="アクセスカウンター" src="https://hits.sh/davidsa06.github.io/indexjp.html/.svg?view=today-total&style=plastic&label=アクセスカウンター"/></a>
 
-| Table of contents |
+| 目次 |
 | --- |
 | [FCFM-BUAP](#fcfm-buap) |
 | [高校](#高校) |
@@ -63,14 +63,14 @@
 
 ## 連絡先
 
-- [Deepnote](https://deepnote.com/@david-silva-apango) (My Jupyter Notebooks)
+- [Deepnote](https://deepnote.com/@david-silva-apango) (私の Jupyterノートブック)
 - [Geogebra](https://www.geogebra.org/u/davidsa06)
 - [GitHub](https://github.com/DavidSA06) (プロフィール)
 - [Gumroad](https://davidsilvaapango.gumroad.com/) (デジタル製品ストア)
 - [LinkedIn](https://www.linkedin.com/in/david-silva-apango-60553714a/)
 - [Platzi](https://platzi.com/p/davidsilvaa/) (撮影したコース)
-- [Tableau](https://public.tableau.com/app/profile/david.silva2663) (ダッシュボード)
+- [Tableau](https://public.tableau.com/app/profile/david.silva2663) (計器盤)
 - [Twitter](https://twitter.com/DavidSA06)
 - ddsilvaa06@gmail.com
 
-最後の更新：2023/07/03 (yyyy/mm/dd)
+最後の更新：2023/07/04 (yyyy/mm/dd)

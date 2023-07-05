@@ -25,3 +25,12 @@ Participé en la construcción de dos telescopios Newtonianos para la preparator
   </figcaption>
 </figure>
 <br>
+
+<figure>
+  <img
+  src="https://imgur.com/w8DuLCz.jpg"
+  alt="Placa del Telescopio">
+  <figcaption>Placa de participantes en la construcción del telescopio.
+  </figcaption>
+</figure>
+<br/>

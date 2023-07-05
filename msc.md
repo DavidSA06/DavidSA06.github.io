@@ -1,4 +1,4 @@
-[Home](index.md) \| [Español](mscesp.md)
+[Home](index.md) \| [Español](mscesp.md) \| [日本語](mscjp.md)
 
 # MSc
 <!--
@@ -14,8 +14,8 @@
 -->
 ## Participation in congresses
 
-- LXIII National Congress of Physics. Merida, Yucatan. 10-05-2015/10-10-2015. Poster Presenter.
-- III Science Cup. Puebla, Puebla. 11-11-2015/14-11-2015. **Judge**.
+- LXIII National Congress of Physics. Merida, Yucatan. 05-10-2015/10-10-2015. Poster Presenter.
+- III Science Cup. Puebla, Puebla. 11-11-2015/11-14-2015. **Judge**.
 - LIX National Congress of Physics. Leon, Guanajuato. 10-02-2015/10-07-2015. Poster Presenter.
 
 ## Participation in OPTICA (Formerly OSA, Optical Society of America)

@@ -25,3 +25,12 @@ I participated in the construction of two Newtonian telescopes for the high scho
   </figcaption>
 </figure>
 <br>
+
+<figure>
+  <img
+  src="https://imgur.com/w8DuLCz.jpg"
+  alt="Telescope Plaque">
+  <figcaption>Plaque of participants in the construction of the telescope.
+  </figcaption>
+</figure>
+<br/>
