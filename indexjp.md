@@ -47,7 +47,7 @@
 
 ## Platzi
 
-現在、[Platzi](Platzi.MD)のプログラミングとデータサイエンスの知識、英語、ソフトスキルを更新しています。[リンク](https://platzi.com/r/davidsilvaa/)を使用して無料月を入手してください！
+現在、[Platzi](Platzi.md)のプログラミングとデータサイエンスの知識、英語、ソフトスキルを更新しています。[リンク](https://platzi.com/r/davidsilvaa/)を使用して無料月を入手してください！
 
 ## 趣味
 
