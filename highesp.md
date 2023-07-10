@@ -1,4 +1,4 @@
-[Inicio](indexesp.md) \| [English](high.md)
+[Inicio](indexesp.md) \| [English](high.md) \| [日本語](highjp.md)
 
 # Escuela Preparatoria
 

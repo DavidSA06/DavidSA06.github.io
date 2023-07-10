@@ -31,19 +31,19 @@
 
 ### 修士号
 
-私の[修士号](msc.md)の研究は二千十五年八月に開始され、二千十七年七月に確定しました。
+私の[修士号](mscjp.md)の研究は二千十五年八月に開始され、二千十七年七月に確定しました。
 
 ### 学士号
 
-私の[学士](bachelor.md)の研究は二千九年八月に始まり、二千十五年八月に確定しました。
+私の[学士](bachelorjp.md)の研究は二千九年八月に始まり、二千十五年八月に確定しました。
 
 ### OPTICA (Formerly OSA, Optical Society of America)
 
-二千十四年四月以来、私は[OSA-BUAP](optica.md)学生支部に属し、科学的アウトリーチイベントの組織に参加しています。
+二千十四年四月以来、私は[OSA-BUAP](opticajp.md)学生支部に属し、科学的アウトリーチイベントの組織に参加しています。
 
 ## 高校
 
-私は[ここ](high.md)のラサロ・カルデナス・デル・リオ高校で仕事を紹介します。
+私は[ここ](highjp.md)のラサロ・カルデナス・デル・リオ陸将高校で仕事を紹介します。
 
 ## Platzi
 
@@ -71,6 +71,6 @@
 - [Twitter](https://twitter.com/DavidSA06)
 - ddsilvaa06@gmail.com
 
-最後の更新：2023/07/04 (yyyy/mm/dd)
+最後の更新：2023/07/09 (yyyy/mm/dd)
 
 <a href="https://hits.sh/davidsa06.github.io/indexjp.html/"><img alt="アクセスカウンター" src="https://hits.sh/davidsa06.github.io/indexjp.html/.svg?view=today-total&style=plastic&label=アクセスカウンター"/></a>

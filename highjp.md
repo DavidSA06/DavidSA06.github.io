@@ -1,8 +1,8 @@
-[Home](index.md) \| [Español](highesp.md) \| [日本語](highjp.md)
+[Home](index.md) \| [English](high.md)　\| [Español](highesp.md)
 
-# Highschool
+# 高校
 
-I did my high school studies at Gral. Lázaro Cárdenas del Río (BUAP) High School.
+私は高校の勉強をジェネラル・ラサロ・カルデナス・デル・リオ陸将（BUAP）高校で受けました。
 
 ## Construction of Newtonian telescopes
 

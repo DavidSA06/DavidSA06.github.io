@@ -1,8 +1,8 @@
-[Inicio](indexesp.md) \| [English](osa.md)
+[Inicio](indexesp.md) \| [English](optica.md) \| [日本語](opticajp.md)
 
 # OPTICA (Anteriormente OSA, Sociedad de Óptica de América)
 
-La [OSA](https://www.osa.org/en-us/home/) (Sociedad de Óptica de América, por sus siglas en Inglés) es una asociación de individuos y empresas inmersas en la investigación óptica. Existen varios capítulos estudiantiles alrededor del mundo, uno de ellos esta operando en la BUAP realizando actividades de divulgación científica en escuelas y eventos públicos.
+[OPTICA](https://www.optica.org//en-us/home/) (Anteriormente OSA, Sociedad de Óptica de América, por sus siglas en Inglés) es una asociación de individuos y empresas inmersas en la investigación óptica. Existen varios capítulos estudiantiles alrededor del mundo, uno de ellos esta operando en la BUAP realizando actividades de divulgación científica en escuelas y eventos públicos.
 
 Durante mis estudios dentro de la FCFM me desempeñé como tesorero, vicepresidente y presidente del capítulo estudiantil. Gracias a esto he desarrollado habilidades de liderazgo, trabajo en equipo, comunicación, mentoría y desarrollo de equipos de trabajo. Estuve a cargo de la gestión de los recursos financieros del capítulo y la organización de diversas actividades de divulgación tales como congresos, demostraciones experimentales y grupos de jueces para ferias científicas.
 
@@ -60,9 +60,9 @@ El Segundo Congreso Luz, Ciencia y Arte (IICILCA) tuvo como objetivo crear un fo
 <figure>
   <img
   src="https://imgur.com/7mIcKa7.jpg"
-  alt="William Phillips">
+  alt="Dr. Todd Fansler">
   <figcaption>
-  <a href="https://erc.wisc.edu/staff/fansler-todd/">Dr. Todd Fansler</a>, investigador emérito de la OSA.
+  <a href="https://erc.wisc.edu/staff/fansler-todd/">Dr. Todd Fansler</a>, investigador emérito de OPTICA.
   </figcaption>
 </figure>
 <br/>

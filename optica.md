@@ -1,8 +1,8 @@
-[Home](index.md) \| [Español](opticaesp.md)
+[Home](index.md) \| [Español](opticaesp.md) \| [日本語](opticajp.md)
 
 # OPTICA (Formerly OSA, Optical Society of America)
 
-The [OSA](https://www.osa.org/en-us/home/) (Optical Society of America) is an association of individuals and companies engaged in optical research. There are several student chapters around the world, one of them is operating at BUAP carrying out scientific dissemination activities in schools and public events.
+[OPTICA](https://www.optica.org//en-us/home/) (Formerly OSA, Optical Society of America) is an association of individuals and companies engaged in optical research. There are several student chapters around the world, one of them is operating at BUAP carrying out scientific dissemination activities in schools and public events.
 
 During my studies within the FCFM I served as treasurer, vice president and president of the student chapter. Thanks to this I have developed leadership, teamwork, communication, mentoring and team development skills. I was in charge of managing the chapter's financial resources and organizing various outreach activities such as congresses, experimental demonstrations, and groups of judges for scientific fairs.
 
@@ -57,12 +57,12 @@ At the LXI National Congress of Physics, my chapter met [Dr. William Phillips](h
 
 ## IICILCA
 
-The Second Light, Science and Art Congress (IICILCA) aimed to create a multidisciplinary forum to disseminate, discuss and exchange knowledge of science and art around light, as a transversal axis. I participated in the organizing student committee. Thanks to the resources provided annually to our chapter, I invited [Dr. Todd Fansler](https://erc.wisc.edu/staff/fansler-todd/), OSA emeritus researcher who gave the conference that opened the congress.
+The Second Light, Science and Art Congress (IICILCA) aimed to create a multidisciplinary forum to disseminate, discuss and exchange knowledge of science and art around light, as a transversal axis. I participated in the organizing student committee. Thanks to the resources provided annually to our chapter, I invited [Dr. Todd Fansler](https://erc.wisc.edu/staff/fansler-todd/), OPTICA emeritus researcher who gave the conference that opened the congress.
 
 <figure>
   <img
   src="https://imgur.com/7mIcKa7.jpg"
-  alt="William Phillips">
+  alt="Dr. Todd Fansler">
   <figcaption>
   <a href="https://erc.wisc.edu/staff/fansler-todd/">Dr. Todd Fansler</a>, emeritus researcher from the OSA.
   </figcaption>
