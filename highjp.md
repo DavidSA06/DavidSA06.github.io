@@ -1,4 +1,4 @@
-[Home](index.md) \| [English](high.md)　\| [Español](highesp.md)
+[ホームページ](indexjp.md) \| [English](high.md)　\| [Español](highesp.md)
 
 # 高校
 

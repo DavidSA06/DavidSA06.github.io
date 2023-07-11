@@ -1,4 +1,4 @@
-[Home](index.md) \| [English](platzi.md) \| [Español](platziesp.md)
+[ホームページ](indexjp.md) \| [English](platzi.md) \| [Español](platziesp.md)
 
 # Platzi
 

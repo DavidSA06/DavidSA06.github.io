@@ -1,4 +1,4 @@
-[Home](index.md) \| [English](bachelor.md)　\| [Español](bacheloresp.md)
+[ホームページ](indexjp.md) \| [English](bachelor.md)　\| [Español](bacheloresp.md)
 
 # 学士号
 <!--
