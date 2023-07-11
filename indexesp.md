@@ -73,4 +73,4 @@ Algunos ejemplos sobre mis pasatiempos se pueden encontrar [aquí](hobbiesesp.md
 
 <a href="https://hits.sh/davidsa06.github.io/indexesp.html/"><img alt="visitas" src="https://hits.sh/davidsa06.github.io/indexesp.html.svg?view=today-total&style=plastic&label=visitas"/></a>
 
-Última actualización: 09/07/2023 (dd/mm/yyyy)
+Última actualización: 10/07/2023 (dd/mm/yyyy)

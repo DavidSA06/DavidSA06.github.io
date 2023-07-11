@@ -4,15 +4,15 @@
 
 私は高校の勉強をジェネラル・ラサロ・カルデナス・デル・リオ陸将（BUAP）高校で受けました。
 
-## Construction of Newtonian telescopes
+## ニュートン望遠鏡の建設
 
-I participated in the construction of two Newtonian telescopes for the high school. You can read the report on page 24 of the publication [121](https://drive.google.com/file/d/137YUu6OoFpTaPjRC8w3C3zJ-OaPflRE3/view?usp=sharing) of the **Gaceta Universidad**.
+私は高校向けの二台のニュートン望遠鏡の建設に参加しました。この報告書は、**Gaceta Universidad**の出版物[百二十一](https://drive.google.com/file/d/137YUu6OoFpTaPjRC8w3C3zJ-OaPflRE3/view?usp=sharing)の二十四ページで読むことができます。
 
 <figure>
   <img
   src="https://imgur.com/50uMy9V.jpg"
-  alt="Mirror polishing">
-  <figcaption>Mirror polishing.
+  alt="鏡面研磨">
+  <figcaption>鏡面研磨。
   </figcaption>
 </figure>
 <br>
@@ -20,8 +20,8 @@ I participated in the construction of two Newtonian telescopes for the high scho
 <figure>
   <img
   src="https://imgur.com/iPsTwLU.jpg"
-  alt="Telescope presentation">
-  <figcaption>Telescope presentation.
+  alt="望遠鏡の提示">
+  <figcaption>望遠鏡の提示。
   </figcaption>
 </figure>
 <br>
@@ -29,8 +29,8 @@ I participated in the construction of two Newtonian telescopes for the high scho
 <figure>
   <img
   src="https://imgur.com/w8DuLCz.jpg"
-  alt="Telescope Plaque">
-  <figcaption>Plaque of participants in the construction of the telescope.
+  alt="望遠鏡の銘板">
+  <figcaption>望遠鏡の建設に参加した人の銘板。
   </figcaption>
 </figure>
 <br/>

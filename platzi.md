@@ -6,7 +6,7 @@ Platzi is an online education platform, where you can watch video lessons about 
 
 ## Certifications
 
-In this section the certificates that I consider most important are placed :
+In this section the certificates that I consider most important are placed:
 
 <figure>
   <img
@@ -56,7 +56,7 @@ To obtain this certificate, the following courses must be completed:
 
 ## Projects
 
-A good way to put into practice what you have learned in the courses is the implementation of projects. Either by means of programming language scripts or electronic circuits. By showing my projects in this space is a good way to share my knowledge. 
+A good way to put into practice what you have learned in the courses is the implementation of projects. Either by means of programming language scripts or electronic circuits. By showing my projects in this space is a good way to share my knowledge.
 
 ### Raspberry Bot
 
@@ -64,7 +64,7 @@ It is important to measure the quality of the environment because it can help us
 
 ![Bot Picture](https://imgur.com/dqhuIhx.jpg)
 
-To see the Twitter account from which the publications can be viewed, click here [here](https://twitter.com/Jaeger06_Bot)
+To see the Twitter account from which the publications can be viewed, click [here](https://twitter.com/Jaeger06_Bot).
 
 To see the Repository, click [here](https://github.com/DavidSA06/Raspberry).
 

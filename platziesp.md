@@ -66,6 +66,6 @@ Es importante medir la calidad del ambiente porque nos puede ayudar a evitar pro
 
 Para ver la cuenta de Twitter desde la que se pueden ver las publicaciones, haz clic [aquí](https://twitter.com/Jaeger06_Bot).
 
-Para ver el Repositorio, haz clic [aquí](https://github.com/DavidSA06/Raspberry)
+Para ver el Repositorio, haz clic [aquí](https://github.com/DavidSA06/Raspberry).
 
 ¡Obtén un mes gratis usando mi [enlace](https://platzi.com/r/davidsilvaa/)!
