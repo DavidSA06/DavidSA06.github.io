@@ -1,5 +1,5 @@
 [Home](index.md) \| [English](platzi.md) \| [Español](platziesp.md)
-　\| [Español](highesp.md)
+
 # Platzi
 
 Platziはオンライン教育プラットフォームで、テクノロジー分野での仕事に関するビデオ レッスンを視聴できます。データサイエンス、モノのインターネット、機械学習の学習に興味があります。
