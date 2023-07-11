@@ -1,4 +1,4 @@
-[Inicio](indexesp.md) \| [English](platzi.md)
+[Inicio](indexesp.md) \| [English](platzi.md) \| [日本語](platzijp.md)
 
 # Platzi
 
