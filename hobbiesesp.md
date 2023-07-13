@@ -1,4 +1,4 @@
-[Inicio](indexesp.md) \| [English](hobbies.md)
+[Inicio](indexesp.md) \| [English](hobbies.md)  \| [日本語](indexjp.md)
 
 # Pasatiempos
 
@@ -21,9 +21,9 @@ Construyo modelos a escala 1:72, principalmente tanques de la segunda guerra mun
 <figure>
   <img
   src="https://imgur.com/r4DFJAA.jpg"
-  alt="Stug III">
+  alt="StuG III Ausf. F">
   <figcaption>
-  Sturmgeschütz III (Stug III).
+  Sturmgeschütz III Ausf. F (StuG III Ausf. F).
   </figcaption>
 </figure>
 <br>

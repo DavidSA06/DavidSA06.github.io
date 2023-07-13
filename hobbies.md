@@ -21,9 +21,9 @@ I build 1:72 scale models, mainly WWII tanks.
 <figure>
   <img
   src="https://imgur.com/r4DFJAA.jpg"
-  alt="Stug III">
+  alt="StuG III Ausf. F">
   <figcaption>
-  Sturmgeschütz III (Stug III).
+  Sturmgeschütz III Ausf. F (StuG III Ausf. F).
   </figcaption>
 </figure>
 <br>

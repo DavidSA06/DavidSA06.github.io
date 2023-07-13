@@ -51,7 +51,7 @@
 
 ## 趣味
 
-私の趣味についてのいくつかの例は、[こちら](hobbies.md)を見つけることができます。
+私の趣味についてのいくつかの例は、[こちら](hobbiesjp.md)を見つけることができます。
 
 ## 言語
 
@@ -71,6 +71,6 @@
 - [Twitter](https://twitter.com/DavidSA06)
 - ddsilvaa06@gmail.com
 
-最後の更新：2023/07/10 (yyyy/mm/dd)
+最後の更新：2023/07/12 (yyyy/mm/dd)
 
 <a href="https://hits.sh/davidsa06.github.io/indexjp.html/"><img alt="アクセスカウンター" src="https://hits.sh/davidsa06.github.io/indexjp.html/.svg?view=today-total&style=plastic&label=アクセスカウンター"/></a>
