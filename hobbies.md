@@ -1,4 +1,4 @@
-[Home](index.md) \| [Español](hobbiesesp.md)
+[Home](index.md) \| [Español](hobbiesesp.md) \| [日本語](hobbiesjp.md)
 
 # Hobbies
 

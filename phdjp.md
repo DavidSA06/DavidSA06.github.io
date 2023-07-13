@@ -1,4 +1,4 @@
-[ホームページ](indexjp.md) \|　[English](phd.md)　\| [Español](phdesp.md)
+[ホームページ](indexjp.md) \| [English](phd.md) \| [Español](phdesp.md)
 
 # 博士号
 

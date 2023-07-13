@@ -1,4 +1,4 @@
-[Inicio](indexesp.md) \| [English](hobbies.md)  \| [日本語](indexjp.md)
+[Inicio](indexesp.md) \| [English](hobbies.md) \| [日本語](hobbiesjp.md)
 
 # Pasatiempos
 
