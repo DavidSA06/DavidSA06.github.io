@@ -56,8 +56,8 @@
 ## 言語
 
 - スパイン語(母国語)
-- [英語](english.md)
-- [日本語](japanese.md)
+- [英語](englishjp.md)
+- [日本語](japanesejp.md)
 
 ## 連絡先
 
@@ -71,6 +71,6 @@
 - [Twitter](https://twitter.com/DavidSA06)
 - ddsilvaa06@gmail.com
 
-最後の更新：2023/07/12 (yyyy/mm/dd)
+最後の更新：2023/07/17 (yyyy/mm/dd)
 
 <a href="https://hits.sh/davidsa06.github.io/indexjp.html/"><img alt="アクセスカウンター" src="https://hits.sh/davidsa06.github.io/indexjp.html/.svg?view=today-total&style=plastic&label=アクセスカウンター"/></a>

@@ -1,4 +1,4 @@
-[Home](index.md) \| [Español](englishesp.md)
+[Home](index.md) \| [Español](englishesp.md) \| [日本語](englishjp.md)
 
 # English
 
@@ -9,7 +9,7 @@ I obtained skills to communicate in English during my school studies from elemen
 <figure>
   <img
   src="https://imgur.com/TPKQDsU.jpg"
-  alt="Advanced Certificate">
+  alt="Advanced English Certificate">
   <figcaption>Advanced English Certificate from DGIE-BUAP</figcaption>
 </figure>
 <br/>

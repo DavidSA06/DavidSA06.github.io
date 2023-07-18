@@ -1,4 +1,4 @@
-[Inicio](indexesp.md) \| [English](english.md)
+[Inicio](indexesp.md) \| [English](english.md) \| [日本語](englishjp.md)
 
 # Inglés
 

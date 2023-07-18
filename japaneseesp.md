@@ -1,4 +1,4 @@
-[Inicio](indexesp.md) \| [English](japanese.md)
+[Inicio](indexesp.md) \| [English](japanese.md) \| [日本語](japanesejp.md)
 
 # Japonés (日本語)
 
