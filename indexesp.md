@@ -59,18 +59,51 @@ Algunos ejemplos sobre mis pasatiempos se pueden encontrar [aquí](hobbiesesp.md
 - [Inglés](englishesp.md)
 - [Japonés](japaneseesp.md)
 
-## Información de contacto
+## Información de contacto y portafolios
 
-- [Deepnote](https://deepnote.com/@david-silva-apango) (Mis Jupyter Notebooks)
-- [Geogebra](https://www.geogebra.org/u/davidsa06)
-- [GitHub](https://github.com/DavidSA06) (Perfil)
-- [Gumroad](https://davidsilvaapango.gumroad.com/) (Tienda de productos digitales)
-- [LinkedIn](https://www.linkedin.com/in/david-silva-apango-60553714a/)
-- [Platzi](https://platzi.com/p/davidsilvaa/) (Cursos tomados)
-- [Tableau](https://public.tableau.com/app/profile/david.silva2663) (Mis Dashboards)
-- [Twitter](https://twitter.com/DavidSA06)
-- ddsilvaa06@gmail.com
+<div id="badges_social">
+  <a href="https://deepnote.com/@david-silva-apango">
+    <img src="https://img.shields.io/badge/Deepnote-3793EF?style=for-the-badge&logo=Deepnote&logoColor=white" alt="Deepnote Badge"/>
+  </a>
+  <a href="https://www.duolingo.com/profile/jaeger06">
+    <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo Badge"/>
+  </a>
+  <a href="https://www.geogebra.org/u/davidsa06">
+    <img src="https://img.shields.io/badge/GeoGebra-violet" alt="GeoGebra Badge"/>
+  </a>
+  <a href="https://github.com/DavidSA06">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://git-stars.com/user/DavidSA06">
+    <img src="https://img.shields.io/badge/GIT%20STARS-ranking-red" alt="Git Stars Badge"/>
+  </a>
+  <a href="ddsilvaa06@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://davidsilvaapango.gumroad.com/">
+    <img src="https://img.shields.io/badge/GUMROAD-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white" alt="Gumroad Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/david-silva-apango-60553714a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://platzi.com/p/davidsilvaa/">
+    <img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" alt="Platzi Badge"/>
+  </a>
+  <a href="https://replit.com/@DavidSA061">
+    <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit Badge"/>
+  </a>
+  <a href="https://public.tableau.com/app/profile/david.silva2663">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau Badge"/>
+  </a>
+  <a href="https://twitter.com/DavidSA06">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://johzu.com">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Johzu Badge"/>
+  </a>
+  <br>
+</div>
 
 <a href="https://hits.sh/davidsa06.github.io/indexesp.html/"><img alt="visitas" src="https://hits.sh/davidsa06.github.io/indexesp.html.svg?view=today-total&style=plastic&label=visitas"/></a>
 
-Última actualización: 17/07/2023 (dd/mm/yyyy)
+Última actualización: 01/08/2023 (dd/mm/yyyy)
