@@ -106,4 +106,4 @@
 
 最後の更新：2023/08/01 (yyyy/mm/dd)
 
-<a href="https://hits.sh/davidsa06.github.io/indexjp.html/"><img alt="アクセスカウンター" src="https://hits.sh/davidsa06.github.io/indexjp.html/.svg?view=today-total&style=plastic&label=アクセスカウンター"/></a>
+<a href="https://hits.sh/davidsa06.github.io/indexjp.html/"><img alt="access counter" src="https://hits.sh/davidsa06.github.io/indexjp.html/.svg?view=today-total&style=plastic&label=access counter"/></a>
