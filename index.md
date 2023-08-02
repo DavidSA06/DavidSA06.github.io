@@ -104,6 +104,6 @@ Some examples about my hobbies can be found [here](hobbies.md).
   <br>
 </div>
 
-<a href="https://hits.sh/davidsa06.github.io/"><img alt="visits" src="https://hits.sh/davidsa06.github.io.svg?view=today-total&style=plastic&label=visits"/></a>
-
 Last Update: 08/01/2023 (mm/dd/yyyy)
+
+<a href="https://hits.sh/davidsa06.github.io/"><img alt="visits" src="https://hits.sh/davidsa06.github.io.svg?view=today-total&style=plastic&label=visits"/></a>
