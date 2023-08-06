@@ -104,6 +104,8 @@
   <br>
 </div>
 
+<br>
+
 <div id="icons">
   <img src="https://skillicons.dev/icons?i=arduino" width="50" height="50" alt="Arduino Icon" title="Arduino"/>
   <a href="https://deepnote.com/@david-silva-apango">
@@ -131,7 +133,7 @@
   </a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TeXmaker_New_Logo.svg/1200px-TeXmaker_New_Logo.svg.png" width="50" height="50" alt="Texmaker Icon" title="Texmaker"/>
 <div>
-
+<br>
 最後の更新：2023/08/05 (yyyy/mm/dd)
-
+<br>
 <a href="https://hits.sh/davidsa06.github.io/indexjp.html/"><img alt="access counter" src="https://hits.sh/davidsa06.github.io/indexjp.html/.svg?view=today-total&style=plastic&label=access counter"/></a>

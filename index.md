@@ -104,6 +104,8 @@ Some examples about my hobbies can be found [here](hobbies.md).
   <br>
 </div>
 
+<br>
+
 <div id="icons">
   <img src="https://skillicons.dev/icons?i=arduino" width="50" height="50" alt="Arduino Icon" title="Arduino"/>
   <a href="https://deepnote.com/@david-silva-apango">
@@ -131,7 +133,7 @@ Some examples about my hobbies can be found [here](hobbies.md).
   </a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TeXmaker_New_Logo.svg/1200px-TeXmaker_New_Logo.svg.png" width="50" height="50" alt="Texmaker Icon" title="Texmaker"/>
 <div>
-
+<br>
 Last Update: 08/05/2023 (mm/dd/yyyy)
-
+<br>
 <a href="https://hits.sh/davidsa06.github.io/"><img alt="visits" src="https://hits.sh/davidsa06.github.io.svg?view=today-total&style=plastic&label=visits"/></a>
