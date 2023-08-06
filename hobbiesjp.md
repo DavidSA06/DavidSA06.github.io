@@ -88,3 +88,24 @@
 ## トレーディングカードゲーム
 
 私は、二千十六年九月に**プレイヤーズチェックポイント**ショップで行われた*ヴァイスシュヴァルツ* の地域トーナメントで優勝しました。証拠は[こちら](https://goo.gl/maps/3wHKTgP4pMBYeRW18)です。
+
+[勝利山札](https://decklog-en.bushiroad.com/view/KZXY)と[更新された山札](https://decklog-en.bushiroad.com/view/HK7H)へのリンク。
+Link to the [winner deck](https://decklog-en.bushiroad.com/view/KZXY), and the [updated deck](https://decklog-en.bushiroad.com/view/HK7H).
+
+<figure>
+  <img
+  src="https://decklog-en.bushiroad.com/deckimages/KZXY.png"
+  alt="山札">
+  <figcaption>
+  勝利山札.
+  </figcaption>
+</figure>
+
+<figure>
+  <img
+  src="https://decklog-en.bushiroad.com/deckimages/HK7H.png"
+  alt="山札">
+  <figcaption>
+  更新された山札.
+  </figcaption>
+</figure>

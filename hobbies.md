@@ -74,6 +74,7 @@ My watched anime lists can be found at the following links:
     <img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" alt="My Anime List Badge"/>
   </a>
 </div>
+<br>
 
 ## Videogames
 
@@ -84,7 +85,30 @@ My steam account is in the following link:
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
   </a>
 </div>
+<br>
 
 ## TCG
 
-I have won the regional tournament for *Weiß Schwarz* in September 2016 in the **Players Checkpoint** shop. The proof is [here](https://goo.gl/maps/3wHKTgP4pMBYeRW18).
+I have won the shop challenge tournament for *Weiß Schwarz* in September 2016 in the **Players Checkpoint** shop. The proof is [here](https://goo.gl/maps/3wHKTgP4pMBYeRW18).
+
+Link to the [winner deck](https://decklog-en.bushiroad.com/view/KZXY), and the [updated deck](https://decklog-en.bushiroad.com/view/HK7H).
+
+<figure>
+  <img
+  src="https://decklog-en.bushiroad.com/deckimages/KZXY.png"
+  alt="Winner Deck">
+  <figcaption>
+  Winner Deck.
+  </figcaption>
+</figure>
+
+<figure>
+  <img
+  src="https://decklog-en.bushiroad.com/deckimages/HK7H.png"
+  alt="Updated Deck">
+  <figcaption>
+  Updated Deck.
+  </figcaption>
+</figure>
+
+<!--Bushi NaviID G57058059-->

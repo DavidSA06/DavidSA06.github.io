@@ -87,4 +87,24 @@ Mi cuenta de steam se encuentra en el siguiente enlace:
 
 ## TCG
 
-He ganado el torneo regional de *Weiß Schwarz* de septiembre de 2016 en la tienda **Players Checkpoint**. La prueba se encuentra [aquí](https://goo.gl/maps/3wHKTgP4pMBYeRW18).
+He ganado el torneo *Shop Challenge* de *Weiß Schwarz* de septiembre de 2016 en la tienda **Players Checkpoint**. La prueba se encuentra [aquí](https://goo.gl/maps/3wHKTgP4pMBYeRW18).
+
+El enlace hacia la [baraja ganadora](https://decklog-en.bushiroad.com/view/KZXY), y la [baraja actualizada](https://decklog-en.bushiroad.com/view/HK7H).
+
+<figure>
+  <img
+  src="https://decklog-en.bushiroad.com/deckimages/KZXY.png"
+  alt="baraja ganadora">
+  <figcaption>
+  Baraja Ganadora.
+  </figcaption>
+</figure>
+
+<figure>
+  <img
+  src="https://decklog-en.bushiroad.com/deckimages/HK7H.png"
+  alt="baraja actualizada">
+  <figcaption>
+  Baraja Actualizada.
+  </figcaption>
+</figure>
