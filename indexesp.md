@@ -14,12 +14,43 @@ Puedes descargar mi CV [aquí](https://drive.google.com/file/d/1d996x0Xiet6PUfcg
 
 | Tabla de contenidos |
 | --- |
+| [Software y tecnología](#software-y-tecnología) |
 | [FCFM-BUAP](#fcfm-buap) |
 | [Highschool](#escuela-preparatoria) |
 | [Platzi](#platzi) |
 | [Pasatiempos](#pasatiempos) |
 | [Idiomas](#idiomas) |
 | [Información de contacto](#información-de-contacto) |
+
+## Software y tecnología
+
+<div id="icons">
+  <img src="https://skillicons.dev/icons?i=arduino" width="50" height="50" alt="Arduino Icon" title="Arduino"/>
+  <a href="https://deepnote.com/@david-silva-apango">
+    <img src="https://static.crozdesk.com/web_app_library/providers/logos/000/012/667/original/deepnote-1619699007-logo.png?1619699007" width="50" height="50"  alt="Deepnote Icon" title="Deepnote (click to see my profile)"/>
+  </a>
+  <a href="https://www.geogebra.org/u/davidsa06">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Geogebra.svg/2048px-Geogebra.svg.png" width="50" height="50"  alt="Geogebra Icon" title="Geogebra (click to see my profile)"/>
+  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="git Icon" title="git"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub Icon" title="GitHub"/>
+  <img src="https://avatars.githubusercontent.com/u/33467679?s=280&v=4" width="50" height="50" alt="Google Colab Icon" title="Google Colab"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5 Icon" title="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="jupyter Icon" title="jupyter notebook"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" width="50" height="50" alt="LabView Icon" title="LabView"/>
+  <img src="https://skillicons.dev/icons?i=latex" width="50" height="50" alt="LaTeX Icon" title="LaTeX"/>
+  <img src="https://skillicons.dev/icons?i=md" width="50" height="50" alt="Markdown Icon" title="Markdown"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" height="50" alt="MATLAB Icon" title="MATLAB"/>
+  <img src="https://companieslogo.com/img/orig/MCHP-167156da.png?t=1648759881" width="50" height="50" alt="Microchip Icon" title="Microchip"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-original.svg" width="50" height="50" alt="Minitab Icon" title="Minitab"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="Numpy Icon" title="Numpy"/>
+  <img src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png" width="50" height="50" alt="Overleaf Icon" title="Overleaf"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python Icon" title="Python"/>
+  <a href="https://public.tableau.com/app/profile/david.silva2663">
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50" height="50" alt="Tableau Icon" title="Tableau"/>
+  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TeXmaker_New_Logo.svg/1200px-TeXmaker_New_Logo.svg.png" width="50" height="50" alt="Texmaker Icon" title="Texmaker"/>
+<div>
 
 ## FCFM-BUAP
 
@@ -106,4 +137,4 @@ Algunos ejemplos sobre mis pasatiempos se pueden encontrar [aquí](hobbiesesp.md
 
 <a href="https://hits.sh/davidsa06.github.io/indexesp.html/"><img alt="visitas" src="https://hits.sh/davidsa06.github.io/indexesp.html.svg?view=today-total&style=plastic&label=visitas"/></a>
 
-Última actualización: 01/08/2023 (dd/mm/yyyy)
+Última actualización: 05/08/2023 (dd/mm/yyyy)
