@@ -17,6 +17,7 @@ Puedes descargar mi CV [aquí](https://drive.google.com/file/d/1d996x0Xiet6PUfcg
 | [FCFM-BUAP](#fcfm-buap) |
 | [Highschool](#escuela-preparatoria) |
 | [Platzi](#platzi) |
+| [Proyectos](#proyectos) |
 | [Pasatiempos](#pasatiempos) |
 | [Idiomas](#idiomas) |
 | [Información de contacto](#información-de-contacto) |
@@ -48,6 +49,10 @@ Presento mi trabajo en la Preparatoria Gral. Lázaro Cárdenas del Río [aquí](
 ## Platzi
 
 Actualmente estoy actualizando mis conocimientos de programación, data science, inglés y habilidades blandas en [Platzi](platziesp.md). ¡Obtén un mes gratis usando mi [enlace](https://platzi.com/r/davidsilvaa/)!
+
+## Proyectos
+
+He tabajado en proyectos variados sobre construcción de experimentos que pueden verse [aquí](projectsesp.md).
 
 ## Pasatiempos
 
