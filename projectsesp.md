@@ -2,7 +2,7 @@
 
 # Proyectos
 
-Algunos de mis proyectos de divulgación y aprendizaje se encuentran aquí.
+Algunos de mis proyectos de divulgación científica y aprendizaje se encuentran aquí.
 
 ## Cañón de aire
 
@@ -33,7 +33,7 @@ Este cañón de aire está construido con tubos de PVC, lanzaba tubos pequeños 
   src="https://imgur.com/Cx7oUc7.jpg"
   alt="Municiones">
   <figcaption>
-  Municiones
+  Municiones de tubos metálicos.
   </figcaption>
 </figure>
 <br>
@@ -60,12 +60,19 @@ Este cañón de aire está construido con tubos de PVC, lanzaba tubos pequeños 
 
 ## Cargador de teléfono celular solar
 
+Construí un prototipo de cargadores de celulares que funciona con energía solar, contaba con una salida de 5 \(V\). Contaba con un circuito regulador que protegía al celular cuyos materiales son:
+
+- diodo 1N4001
+- transistor LM7805
+- capacitor 10 \(\mu F\)
+- capacitor 100 \(\mu F\)
+
 <figure>
   <img
   src="https://imgur.com/EkJEX0A.jpg"
   alt="protoboard">
   <figcaption>
-  prototipo del cargador en protoboard
+  Prototipo del cargador en protoboard
   </figcaption>
 </figure>
 <br>
@@ -86,110 +93,6 @@ Este cañón de aire está construido con tubos de PVC, lanzaba tubos pequeños 
   alt="prototipo">
   <figcaption>
   Prototipo en tarjeta fenólica
-  </figcaption>
-</figure>
-<br>
-
-## Celdas de mediciones de gas
-
-<figure>
-  <img
-  src="https://imgur.com/B7EMYHe.jpg"
-  alt="celda de medición Mk II">
-  <figcaption>
-  Celda de medición Mk II
-  </figcaption>
-</figure>
-<br>
-
-<figure>
-  <img
-  src="https://imgur.com/vSIm2kW.jpg"
-  alt="celda de medición Mk III">
-  <figcaption>
-  Celda de medición Mk III
-  </figcaption>
-</figure>
-<br>
-
-<figure>
-  <img
-  src="https://imgur.com/IanQSY4.jpg"
-  alt="celda de medición Mk III">
-  <figcaption>
-  Celda de medición Mk III
-  </figcaption>
-</figure>
-<br>
-
-<figure>
-  <img
-  src="https://imgur.com/9kCXeML.jpg"
-  alt="celda de medición Mk V">
-  <figcaption>
-  Celda de medición Mk V
-  </figcaption>
-</figure>
-<br>
-
-<figure>
-  <img
-  src="https://imgur.com/52iDSFh.jpg"
-  alt="celda de medición Mk V (r)">
-  <figcaption>
-  Celda de medición Mk V (r)
-  </figcaption>
-</figure>
-<br>
-
-<figure>
-  <img
-  src="https://imgur.com/5UNGhvV.jpg"
-  alt="celda de medición Mk V (PLA)">
-  <figcaption>
-  Celda de medición Mk V (PLA)
-  </figcaption>
-</figure>
-<br>
-
-<figure>
-  <img
-  src="https://imgur.com/FQrOCw1.jpg"
-  alt="celda de medición Mk VIII">
-  <figcaption>
-  Celda de medición Mk VIII
-  </figcaption>
-</figure>
-<br>
-
-<figure>
-  <img
-  src="https://imgur.com/ALjqqgj.jpg"
-  alt="celda de medición Mk IX">
-  <figcaption>
-  Celda de medición Mk IX
-  </figcaption>
-</figure>
-<br>
-
-<figure>
-  <img
-  src="https://imgur.com/Xz8mmNE.jpg"
-  alt="celda de medición Mk IX">
-  <figcaption>
-  Celda de medición Mk IX
-  </figcaption>
-</figure>
-<br>
-
-## Filtros de aire
-
-<figure>
-  <img
-  src="https://imgur.com/dESS2Yy.jpg"
-  alt="filtro de aire">
-  <figcaption>
-  Filtro de aire
   </figcaption>
 </figure>
 <br>
@@ -219,7 +122,7 @@ Materiales:
 
 ## Conversor analógico digital  con comunicación Bluetooth
 
-Programado con un PIC16F877A.
+Para realizar mediciones con sensores analógicos de . Programado con un PIC16F877A, usando módulos de comunicación Bluetooth HC-05 y USB-TTL FT232.
 
 <figure>
   <img
@@ -329,6 +232,110 @@ Programado con un PIC16F877A.
   alt="modo l=0, m=2">
   <figcaption>
   Modo l=1 , m=2.
+  </figcaption>
+</figure>
+<br>
+
+## Filtros de aire
+
+<figure>
+  <img
+  src="https://imgur.com/dESS2Yy.jpg"
+  alt="filtro de aire">
+  <figcaption>
+  Filtro de aire
+  </figcaption>
+</figure>
+<br>
+
+## Celdas de mediciones de gas
+
+<figure>
+  <img
+  src="https://imgur.com/B7EMYHe.jpg"
+  alt="celda de medición Mk II">
+  <figcaption>
+  Celda de medición Mk II
+  </figcaption>
+</figure>
+<br>
+
+<figure>
+  <img
+  src="https://imgur.com/vSIm2kW.jpg"
+  alt="celda de medición Mk III">
+  <figcaption>
+  Celda de medición Mk III
+  </figcaption>
+</figure>
+<br>
+
+<figure>
+  <img
+  src="https://imgur.com/IanQSY4.jpg"
+  alt="celda de medición Mk III">
+  <figcaption>
+  Celda de medición Mk III
+  </figcaption>
+</figure>
+<br>
+
+<figure>
+  <img
+  src="https://imgur.com/9kCXeML.jpg"
+  alt="celda de medición Mk V">
+  <figcaption>
+  Celda de medición Mk V
+  </figcaption>
+</figure>
+<br>
+
+<figure>
+  <img
+  src="https://imgur.com/52iDSFh.jpg"
+  alt="celda de medición Mk V (r)">
+  <figcaption>
+  Celda de medición Mk V (r)
+  </figcaption>
+</figure>
+<br>
+
+<figure>
+  <img
+  src="https://imgur.com/5UNGhvV.jpg"
+  alt="celda de medición Mk V (PLA)">
+  <figcaption>
+  Celda de medición Mk V (PLA)
+  </figcaption>
+</figure>
+<br>
+
+<figure>
+  <img
+  src="https://imgur.com/FQrOCw1.jpg"
+  alt="celda de medición Mk VIII">
+  <figcaption>
+  Celda de medición Mk VIII
+  </figcaption>
+</figure>
+<br>
+
+<figure>
+  <img
+  src="https://imgur.com/ALjqqgj.jpg"
+  alt="celda de medición Mk IX">
+  <figcaption>
+  Celda de medición Mk IX
+  </figcaption>
+</figure>
+<br>
+
+<figure>
+  <img
+  src="https://imgur.com/Xz8mmNE.jpg"
+  alt="celda de medición Mk IX">
+  <figcaption>
+  Celda de medición Mk IX
   </figcaption>
 </figure>
 <br>
