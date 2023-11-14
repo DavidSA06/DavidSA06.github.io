@@ -64,8 +64,8 @@ Construí un prototipo de cargadores de celulares que funciona con energía sola
 
 - diodo 1N4001
 - transistor LM7805
-- capacitor 10 \(\mu F\)
-- capacitor 100 \(\mu F\)
+- capacitor 10 \( \mu F\)
+- capacitor 100 \( \mu F\)
 
 <figure>
   <img
