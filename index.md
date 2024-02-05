@@ -2,7 +2,7 @@
 
 # David Silva's Portfolio
 
-Hi I am **David Silva**, Master in Sciences (Applied Physics). Currently I am working as a digital producer, scientific advisor and technical proofreader. In addition I'm interested Data Analysis due to my background in mathematics, handling electronic sensor data, and my experience as a leader of a scientific outreach group. On this page you will find evidence of my work.
+Hi I am **David Silva**, Master in Sciences (Applied Physics). Creator of [johzu.com](https://johzu.com/), a website where you can find many quick references in the form of tables and animations. Currently I am working as a digital producer, scientific advisor and technical proofreader. In addition I'm interested Data Analysis due to my background in mathematics, handling electronic sensor data, and my experience as a leader of a scientific outreach group. On this page you will find evidence of my work.
 
 You can download my CV [here](https://drive.google.com/file/d/1jRKEZaBGy8Ave2hQmERIcFRiI1p5Uw8s/view?usp=sharing).
 
@@ -83,6 +83,9 @@ Some examples about my hobbies can be found [here](hobbies.md).
   <a href="https://davidsilvaapango.gumroad.com/">
     <img src="https://img.shields.io/badge/GUMROAD-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white" alt="Gumroad Badge"/>
   </a>
+  <a href="https://www.instagram.com/davidsa006/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/david-silva-apango-60553714a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -134,6 +137,6 @@ Some examples about my hobbies can be found [here](hobbies.md).
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TeXmaker_New_Logo.svg/1200px-TeXmaker_New_Logo.svg.png" width="50" height="50" alt="Texmaker Icon" title="Texmaker"/>
 <div>
 <br>
-Last Update: 08/05/2023 (mm/dd/yyyy)
+Last Update: 12/07/2023 (mm/dd/yyyy)
 <br>
 <a href="https://hits.sh/davidsa06.github.io/"><img alt="visits" src="https://hits.sh/davidsa06.github.io.svg?view=today-total&style=plastic&label=visits"/></a>

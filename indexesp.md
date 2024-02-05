@@ -5,7 +5,7 @@
 
 # Portafolio de David Silva Apango
 
-Hola, soy **David Silva Apango**, Maestro en Ciencias (Física Aplicada). Actualmente trabajo como productor digital, asesor científico y corrector técnico. Estoy interesado en el Análisis de datos debido a mi formación en matemáticas, manejo de datos de sensores electrónicos y mi experiencia como líder de un grupo de divulgación científica. En esta página encontrarás evidencia de mi trabajo.
+Hola, soy **David Silva Apango**, Maestro en Ciencias (Física Aplicada). Creador de [johzu.com](https://johzu.com/), un sitio web donde puedes encontrar muchas referencias rápidas en forma de tablas y animaciones.Actualmente trabajo como productor digital, asesor científico y corrector técnico. Estoy interesado en el Análisis de datos debido a mi formación en matemáticas, manejo de datos de sensores electrónicos y mi experiencia como líder de un grupo de divulgación científica. En esta página encontrarás evidencia de mi trabajo.
 
 Puedes descargar mi CV [aquí](https://drive.google.com/file/d/1d996x0Xiet6PUfcg3oTcbaIEhlsj5YbZ/view?usp=sharing).
 
@@ -91,6 +91,9 @@ Algunos ejemplos sobre mis pasatiempos se pueden encontrar [aquí](hobbiesesp.md
   <a href="https://davidsilvaapango.gumroad.com/">
     <img src="https://img.shields.io/badge/GUMROAD-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white" alt="Gumroad Badge"/>
   </a>
+  <a href="https://www.instagram.com/davidsa006/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/david-silva-apango-60553714a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -142,6 +145,6 @@ Algunos ejemplos sobre mis pasatiempos se pueden encontrar [aquí](hobbiesesp.md
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TeXmaker_New_Logo.svg/1200px-TeXmaker_New_Logo.svg.png" width="50" height="50" alt="Texmaker Icon" title="Texmaker"/>
 <div>
 <br>
-Última actualización: 05/08/2023 (dd/mm/yyyy)
+Última actualización: 07/12/2023 (dd/mm/yyyy)
 <br>
 <a href="https://hits.sh/davidsa06.github.io/indexesp.html/"><img alt="visitas" src="https://hits.sh/davidsa06.github.io/indexesp.html.svg?view=today-total&style=plastic&label=visitas"/></a>

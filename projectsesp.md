@@ -4,6 +4,16 @@
 
 Algunos de mis proyectos de divulgación científica y aprendizaje se encuentran aquí.
 
+| Tabla de contenidos |
+| --- |
+| [Cañón de aire](#cañón-de-aire) |
+| [Cargador de teléfono celular solar](#cargador-de-teléfono-celular-solar) |
+| [Transmisión de energía inalámbrica](#transmisión-de-energía-inalámbrica) |
+| [Conversor analógico digital](#conversor-analógico-digital) |
+| [Modos transversales electromagnéticos](#modos-transversales-electromagnéticos) |
+| [Filtros de aire](#filtros-de-aire) |
+| [Celdas de mediciones de gas](#celdas-de-mediciones-de-gas) |
+
 ## Cañón de aire
 
 Este cañón de aire está construido con tubos de PVC, lanzaba tubos pequeños de metal y era capaz de atravezar 11 cm de unicel. Tenía un mecanismo de cerrojo y era accionado por una válvula.
@@ -97,9 +107,9 @@ Construí un prototipo de cargadores de celulares que funciona con energía sola
 </figure>
 <br>
 
-## Transmisión de energía inalámbrica (circuito inductivo resonante)
+## Transmisión de energía inalámbrica
 
-Este circuito es capaz de transmitir energía inalámbrica a una bobina conectada a un LED. Esto es gracias a un campo electromagnético que varía con el tiempo.
+Se trata de un circuito inductivo resonante que es capaz de transmitir energía inalámbrica a una bobina conectada a un LED. Esto es gracias a un campo electromagnético que varía con el tiempo.
 
 Materiales:
 
@@ -120,9 +130,9 @@ Materiales:
 </figure>
 <br>
 
-## Conversor analógico digital  con comunicación Bluetooth
+## Conversor analógico digital
 
-Para realizar mediciones con sensores analógicos de . Programado con un PIC16F877A, usando módulos de comunicación Bluetooth HC-05 y USB-TTL FT232.
+Este circuito incluye comunicación Bluetooth para realizar mediciones con sensores analógicos de temperatura y humedad. Programado con un PIC16F877A, usando módulos de comunicación Bluetooth HC-05 y USB-TTL FT232.
 
 <figure>
   <img
@@ -154,7 +164,7 @@ Para realizar mediciones con sensores analógicos de . Programado con un PIC16F8
 </figure>
 <br>
 
-## Modos transversales de las fibras ópticas
+## Modos transversales electromagnéticos
 
 <figure>
   <img
