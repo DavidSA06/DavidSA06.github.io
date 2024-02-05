@@ -1,4 +1,4 @@
-<link rel="icon" type="image/png" href="./icons/johzu_logo.png" />
+<link rel="icon" type="image/png" href="https://imgur.com/a/7on1xnv" />
 <title>David Silva</title>
 
 [English](index.md)  \| [日本語](indexjp.md)
