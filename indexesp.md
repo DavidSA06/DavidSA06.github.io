@@ -1,3 +1,6 @@
+<link rel="icon" type="image/png" href="./icons/johzu_logo.png" />
+<title>David Silva</title>
+
 [English](index.md)  \| [日本語](indexjp.md)
 
 # Portafolio de David Silva Apango
