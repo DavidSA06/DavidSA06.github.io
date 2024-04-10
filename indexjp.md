@@ -65,7 +65,7 @@
   <a href="https://deepnote.com/@david-silva-apango">
     <img src="https://img.shields.io/badge/Deepnote-3793EF?style=for-the-badge&logo=Deepnote&logoColor=white" alt="Deepnote Badge"/>
   </a>
-  <a href="https://www.duolingo.com/profile/jaeger06">
+  <a href="https://www.duolingo.com/profile/davidsa06">
     <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo Badge"/>
   </a>
   <a href="https://www.geogebra.org/u/davidsa06">
