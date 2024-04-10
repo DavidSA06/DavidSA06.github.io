@@ -137,6 +137,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TeXmaker_New_Logo.svg/1200px-TeXmaker_New_Logo.svg.png" width="50" height="50" alt="Texmaker Icon" title="Texmaker"/>
 <div>
 <br>
-最後の更新：2023/12/07 (yyyy/mm/dd)
+最後の更新：2024/04/10 (yyyy/mm/dd)
 <br>
 <a href="https://hits.sh/davidsa06.github.io/indexjp.html/"><img alt="access counter" src="https://hits.sh/davidsa06.github.io/indexjp.html/.svg?view=today-total&style=plastic&label=access counter"/></a>

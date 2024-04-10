@@ -137,6 +137,6 @@ Some examples about my hobbies can be found [here](hobbies.md).
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TeXmaker_New_Logo.svg/1200px-TeXmaker_New_Logo.svg.png" width="50" height="50" alt="Texmaker Icon" title="Texmaker"/>
 <div>
 <br>
-Last Update: 12/07/2023 (mm/dd/yyyy)
+Last Update: 04/10/2024 (mm/dd/yyyy)
 <br>
 <a href="https://hits.sh/davidsa06.github.io/"><img alt="visits" src="https://hits.sh/davidsa06.github.io.svg?view=today-total&style=plastic&label=visits"/></a>

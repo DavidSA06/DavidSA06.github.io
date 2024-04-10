@@ -145,6 +145,6 @@ Algunos ejemplos sobre mis pasatiempos se pueden encontrar [aquí](hobbiesesp.md
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TeXmaker_New_Logo.svg/1200px-TeXmaker_New_Logo.svg.png" width="50" height="50" alt="Texmaker Icon" title="Texmaker"/>
 <div>
 <br>
-Última actualización: 07/12/2023 (dd/mm/yyyy)
+Última actualización: 10/04/2024 (dd/mm/yyyy)
 <br>
 <a href="https://hits.sh/davidsa06.github.io/indexesp.html/"><img alt="visitas" src="https://hits.sh/davidsa06.github.io/indexesp.html.svg?view=today-total&style=plastic&label=visitas"/></a>
