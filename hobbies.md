@@ -20,6 +20,16 @@ I build 1:72 scale models, mainly WWII tanks.
 
 <figure>
   <img
+  src="https://imgur.com/NX8ZmSi.jpg"
+  alt="Jagdpanther">
+  <figcaption>
+  Jagdpanther.
+  </figcaption>
+</figure>
+<br>
+
+<figure>
+  <img
   src="https://imgur.com/r4DFJAA.jpg"
   alt="StuG III Ausf. F">
   <figcaption>

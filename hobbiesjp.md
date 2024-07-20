@@ -20,6 +20,16 @@
 
 <figure>
   <img
+  src="https://imgur.com/NX8ZmSi.jpg"
+  alt="Jagdpanther">
+  <figcaption>
+  ヤークトパンター。
+  </figcaption>
+</figure>
+<br>
+
+<figure>
+  <img
   src="https://imgur.com/r4DFJAA.jpg"
   alt="III号突撃砲F型">
   <figcaption>
