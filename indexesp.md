@@ -5,7 +5,7 @@
 
 # Portafolio de David Silva Apango
 
-Hola, soy **David Silva Apango**, Maestro en Ciencias (Física Aplicada). Creador de [johzu.com](https://johzu.com/), un sitio web donde puedes encontrar muchas referencias rápidas en forma de tablas y animaciones.Actualmente trabajo como productor digital, asesor científico y corrector técnico. Estoy interesado en el Análisis de datos debido a mi formación en matemáticas, manejo de datos de sensores electrónicos y mi experiencia como líder de un grupo de divulgación científica. En esta página encontrarás evidencia de mi trabajo.
+Hola, soy **David Silva Apango**, Maestro en Ciencias (Física Aplicada). Creador de [johzu.com](https://johzu.com/), un sitio web donde puedes encontrar muchas referencias rápidas en forma de tablas y animaciones. Actualmente trabajo como revisor pedagógico, asesor científico y corrector técnico en [ktdra](https://www.k-tdra.com/). En esta página encontrarás evidencia de mi trabajo.
 
 Puedes descargar mi CV [aquí](https://drive.google.com/file/d/1d996x0Xiet6PUfcg3oTcbaIEhlsj5YbZ/view?usp=sharing).
 
@@ -15,15 +15,20 @@ Puedes descargar mi CV [aquí](https://drive.google.com/file/d/1d996x0Xiet6PUfcg
   alt="Imagen de perfil">
 </figure>
 
-| Tabla de contenidos |
-| --- |
-| [FCFM-BUAP](#fcfm-buap) |
-| [Highschool](#escuela-preparatoria) |
-| [Platzi](#platzi) |
-| [Proyectos](#proyectos) |
-| [Pasatiempos](#pasatiempos) |
-| [Idiomas](#idiomas) |
+| Tabla de contenidos                                 |
+| --------------------------------------------------- |
+| [ktdra](#ktdra)                                     |
+| [FCFM-BUAP](#fcfm-buap)                             |
+| [Highschool](#escuela-preparatoria)                 |
+| [Platzi](#platzi)                                   |
+| [Proyectos](#proyectos)                             |
+| [Pasatiempos](#pasatiempos)                         |
+| [Idiomas](#idiomas)                                 |
 | [Información de contacto](#información-de-contacto) |
+
+## ktdra
+
+Actualmente estoy trabajando en la editorial [ktdra](https://www.k-tdra.com/). Puedes ver los libros en los que he trabajado [aquí](ktdraesp.md).
 
 ## FCFM-BUAP
 
@@ -145,6 +150,6 @@ Algunos ejemplos sobre mis pasatiempos se pueden encontrar [aquí](hobbiesesp.md
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TeXmaker_New_Logo.svg/1200px-TeXmaker_New_Logo.svg.png" width="50" height="50" alt="Texmaker Icon" title="Texmaker"/>
 <div>
 <br>
-Última actualización: 10/04/2024 (dd/mm/yyyy)
+Última actualización: 20/07/2024 (dd/mm/yyyy)
 <br>
 <a href="https://hits.sh/davidsa06.github.io/indexesp.html/"><img alt="visitas" src="https://hits.sh/davidsa06.github.io/indexesp.html.svg?view=today-total&style=plastic&label=visitas"/></a>

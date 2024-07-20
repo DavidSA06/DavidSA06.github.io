@@ -2,7 +2,7 @@
 
 # David Silvaのポートフォリオ
 
-こんにちは、応用物理学のマスターである **David Silva** です。表やアニメーションの形式で多くのクイックリファレンスを見つけることができる Web サイト [johzu.com](https://johzu.com/) の作成者。現在、私はデジタル プロデューサー、科学アドバイザー、技術的校正者として働いています。更に、数学の経歴、電子感知器の情報処理、及び科学的アウトリーチ分会長としての経験から、データ分析に興味があります。このウェブサイト では、私の仕事の証拠を見つけることが出来ます。
+こんにちは、応用物理学のマスターである **David Silva** です。表やアニメーションの形式で多くのクイックリファレンスを見つけることができる Web サイト [johzu.com](https://johzu.com/) の作成者。現在、私は教育査読者、科学アドバイザー、技術編集者として働いています。更に、数学の経歴、電子感知器の情報処理、及び科学的アウトリーチ分会長としての経験から、データ分析に興味があります。このウェブサイト では、私の仕事の証拠を見つけることが出来ます。
 
 私の履歴書は[ここ](https://drive.google.com/file/d/136I_f1yHV-Bef3Kf8FSWmoad2mqdjbG-/view?usp=sharing)からダウンロード出来ます。
 
@@ -12,14 +12,14 @@
   alt="プロフィールの写真">
 </figure>
 
-| 目次 |
-| --- |
+| 目次                    |
+| ----------------------- |
 | [FCFM-BUAP](#fcfm-buap) |
-| [高校](#高校) |
-| [Platzi](#platzi) |
-| [趣味](#趣味) |
-| [言語](#言語) |
-| [連絡先](#連絡先) |
+| [高校](#高校)           |
+| [Platzi](#platzi)       |
+| [趣味](#趣味)           |
+| [言語](#言語)           |
+| [連絡先](#連絡先)       |
 
 ## FCFM-BUAP
 
@@ -137,6 +137,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TeXmaker_New_Logo.svg/1200px-TeXmaker_New_Logo.svg.png" width="50" height="50" alt="Texmaker Icon" title="Texmaker"/>
 <div>
 <br>
-最後の更新：2024/04/10 (yyyy/mm/dd)
+最後の更新：2024/07/20 (yyyy/mm/dd)
 <br>
 <a href="https://hits.sh/davidsa06.github.io/indexjp.html/"><img alt="access counter" src="https://hits.sh/davidsa06.github.io/indexjp.html/.svg?view=today-total&style=plastic&label=access counter"/></a>
