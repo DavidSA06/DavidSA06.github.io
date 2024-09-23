@@ -135,8 +135,11 @@ Some examples about my hobbies can be found [here](hobbies.md).
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50" height="50" alt="Tableau Icon" title="Tableau"/>
   </a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TeXmaker_New_Logo.svg/1200px-TeXmaker_New_Logo.svg.png" width="50" height="50" alt="Texmaker Icon" title="Texmaker"/>
+  <a href="https://www.tinkercad.com/dashboard/collections/1HubwpKc3if/circuits">
+    <img src="https://morseinstitute.org/wp-content/uploads/2017/12/logo-tinkercad-256.png" width="50" height="50" alt="Tinkercad Icon" title="Tinkercad"/>
+  </a>
 <div>
 <br>
-Last Update: 07/20/2024 (mm/dd/yyyy)
+Last Update: 08/22/2024 (mm/dd/yyyy)
 <br>
 <a href="https://hits.sh/davidsa06.github.io/"><img alt="visits" src="https://hits.sh/davidsa06.github.io.svg?view=today-total&style=plastic&label=visits"/></a>
