@@ -5,9 +5,9 @@
 
 # Portafolio de David Silva Apango
 
-Hola, soy **David Silva Apango**, Maestro en Ciencias (Física Aplicada). Creador de [johzu.com](https://johzu.com/), un sitio web donde puedes encontrar muchas referencias rápidas en forma de tablas y animaciones. Actualmente trabajo como revisor pedagógico, asesor científico y corrector técnico en [ktdra](https://www.k-tdra.com/). En esta página encontrarás evidencia de mi trabajo.
+Hola, soy **David Silva Apango**, Maestro en Ciencias (Física Aplicada). Creador de [johzu.com](https://johzu.com/), un sitio web donde puedes encontrar muchas referencias rápidas en forma de tablas y animaciones. Actualmente trabajo como revisor pedagógico, asesor científico y corrector técnico en [Didacteca](https://didacteca.com.mx/). En esta página encontrarás evidencia de mi trabajo.
 
-Puedes descargar mi CV [aquí](https://drive.google.com/file/d/1d996x0Xiet6PUfcg3oTcbaIEhlsj5YbZ/view?usp=sharing).
+Puedes descargar mi CV [aquí](https://drive.google.com/file/d/1XxxDQ4h-kulNYCRg86Qa65Z4rv9LZn_2/view?usp=sharing).
 
 <figure>
   <img
@@ -17,6 +17,7 @@ Puedes descargar mi CV [aquí](https://drive.google.com/file/d/1d996x0Xiet6PUfcg
 
 | Tabla de contenidos                                 |
 | --------------------------------------------------- |
+| [Didacteca](#didacteca)                             |
 | [ktdra](#ktdra)                                     |
 | [FCFM-BUAP](#fcfm-buap)                             |
 | [Highschool](#escuela-preparatoria)                 |
@@ -26,9 +27,13 @@ Puedes descargar mi CV [aquí](https://drive.google.com/file/d/1d996x0Xiet6PUfcg
 | [Idiomas](#idiomas)                                 |
 | [Información de contacto](#información-de-contacto) |
 
+## Didacteca
+
+Actualmente estoy trabajando en la editorial [Didacteca](https://didacteca.com.mx/). Puedes ver los libros en los que he trabajado [aquí](ktdraesp.md).
+
 ## ktdra
 
-Actualmente estoy trabajando en la editorial [ktdra](https://www.k-tdra.com/). Puedes ver los libros en los que he trabajado [aquí](ktdraesp.md).
+Trabajé durante 2 años en la editorial [ktdra](https://www.k-tdra.com/). Puedes ver los libros en los que he trabajado [aquí](ktdraesp.md).
 
 ## FCFM-BUAP
 
@@ -153,6 +158,6 @@ Algunos ejemplos sobre mis pasatiempos se pueden encontrar [aquí](hobbiesesp.md
   </a>
 <div>
 <br>
-Última actualización: 22/09/2024 (dd/mm/yyyy)
+Última actualización: 06/12/2024 (dd/mm/yyyy)
 <br>
 <a href="https://hits.sh/davidsa06.github.io/indexesp.html/"><img alt="visitas" src="https://hits.sh/davidsa06.github.io/indexesp.html.svg?view=today-total&style=plastic&label=visitas"/></a>

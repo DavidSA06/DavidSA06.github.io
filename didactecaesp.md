@@ -1,6 +1,6 @@
 [Inicio](indexesp.md)
 
-# Ktdra
+# Didacteca
 
 He trabajado en la revisión de varios libros:
 
@@ -15,3 +15,4 @@ He trabajado en la revisión de varios libros:
 - Pensamiento Matemático I (Revisor técnico).
 - Pensamiento Matemático I (Revisor técnico).
 - Pensamiento Matemático III (Asesor pedagógico).
+- Temas Selectos de Matemáticas I (Asesor pedagógico).
