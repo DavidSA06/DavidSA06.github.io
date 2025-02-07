@@ -29,7 +29,7 @@ Puedes descargar mi CV [aquí](https://drive.google.com/file/d/1XxxDQ4h-kulNYCRg
 
 ## Didacteca
 
-Actualmente estoy trabajando en la editorial [Didacteca](https://didacteca.com.mx/). Puedes ver los libros en los que he trabajado [aquí](ktdraesp.md).
+Actualmente estoy trabajando en la editorial [Didacteca](https://didacteca.com.mx/). Puedes ver los libros en los que he trabajado [aquí](booksesp.md).
 
 ## ktdra
 
@@ -158,6 +158,6 @@ Algunos ejemplos sobre mis pasatiempos se pueden encontrar [aquí](hobbiesesp.md
   </a>
 <div>
 <br>
-Última actualización: 06/12/2024 (dd/mm/yyyy)
+Última actualización: 06/02/2025 (dd/mm/yyyy)
 <br>
 <a href="https://hits.sh/davidsa06.github.io/indexesp.html/"><img alt="visitas" src="https://hits.sh/davidsa06.github.io/indexesp.html.svg?view=today-total&style=plastic&label=visitas"/></a>
