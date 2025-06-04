@@ -7,7 +7,7 @@
 
 Hola, soy **David Silva Apango**, Maestro en Ciencias (Física Aplicada). Creador de [johzu.com](https://johzu.com/), un sitio web donde puedes encontrar muchas referencias rápidas en forma de tablas y animaciones. Actualmente trabajo como revisor pedagógico, asesor científico y corrector técnico en [Didacteca](https://didacteca.com.mx/). En esta página encontrarás evidencia de mi trabajo.
 
-Puedes descargar mi CV [aquí](https://drive.google.com/file/d/1XxxDQ4h-kulNYCRg86Qa65Z4rv9LZn_2/view?usp=sharing).
+Puedes descargar mi CV [aquí](https://drive.google.com/file/d/1QDixmZcyJHAWobAUk2HS54eyuRFHR_1e/view?usp=sharing).
 
 <figure>
   <img
@@ -158,6 +158,6 @@ Algunos ejemplos sobre mis pasatiempos se pueden encontrar [aquí](hobbiesesp.md
   </a>
 <div>
 <br>
-Última actualización: 06/02/2025 (dd/mm/yyyy)
+Última actualización: 04/06/2025 (dd/mm/yyyy)
 <br>
 <a href="https://hits.sh/davidsa06.github.io/indexesp.html/"><img alt="visitas" src="https://hits.sh/davidsa06.github.io/indexesp.html.svg?view=today-total&style=plastic&label=visitas"/></a>
