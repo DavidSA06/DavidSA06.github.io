@@ -2,7 +2,7 @@
 
 # Libros revisados
 
-En esta sección se muestran los libros que he revisado, el rol que he ejercido en su elaboración y el subsistema al que pertenecen, además hay un apartado en el que se muestran los libros en los que **NO** he participado en cualquier parte de su elaboración.
+En esta sección se muestran los libros que he revisado, el rol que he ejercido en su elaboración y el subsistema al que pertenecen, además hay un apartado en el que se muestran los libros en los que **NO** he participado en cualquier parte de su elaboración a pesar de lo indicado en sus respectivas páginas legales.
 
 ## Didacteca
 

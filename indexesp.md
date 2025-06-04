@@ -29,11 +29,11 @@ Puedes descargar mi CV [aquí](https://drive.google.com/file/d/1QDixmZcyJHAWobAU
 
 ## Didacteca
 
-Actualmente estoy trabajando en la editorial [Didacteca](https://didacteca.com.mx/). Puedes ver los libros en los que he trabajado [aquí](booksesp.md).
+Actualmente estoy trabajando en la editorial [Didacteca](https://didacteca.com.mx/). Puedes ver los libros en los que he trabajado [aquí](booksesp.md), también se muestran los libros en los que **NO** he trabajado a pesar de que la página legal indique lo contrario .
 
 ## ktdra
 
-Trabajé durante 2 años en la editorial [ktdra](https://www.k-tdra.com/). Puedes ver los libros en los que he trabajado [aquí](ktdraesp.md).
+Trabajé durante 2 años en la editorial [ktdra](https://www.k-tdra.com/). Puedes ver los libros en los que he trabajado [aquí](booksesp.md).
 
 ## FCFM-BUAP
 
