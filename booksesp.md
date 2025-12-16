@@ -78,19 +78,19 @@ En esta sección se muestran los libros que he revisado, el rol que he ejercido 
 
 ### Ciencias Naturales Experimentales y Tecnología (Ktdra)
 
-### La materia y sus interacciones (CNEYT I)
+#### La materia y sus interacciones (CNEYT I)
 
 - Planes de estudio: BT/CONALEP/DGB
 - Cargo: Corrector técnico
 - Temas: Química general, química inorgánica, termodinámica, electromagnetismo.
 
-### Conservación de la energía y sus interacciones con la materia (CNEYT II)
+#### Conservación de la energía y sus interacciones con la materia (CNEYT II)
 
 - Planes de estudio: BT/CONALEP/DGB
 - Cargo: Corrector técnico, Revisor técnico de experimentos
 - Temas: Termodinámica, mecánica estadística.
 
-### Reacciones químicas conservación de la materia en la formación de nuevas sustancias (CNEYT IV)
+#### Reacciones químicas conservación de la materia en la formación de nuevas sustancias (CNEYT IV)
 
 - Planes de estudio: BT/CONALEP/DGB
 - Cargo: Asesor pedagógico.
