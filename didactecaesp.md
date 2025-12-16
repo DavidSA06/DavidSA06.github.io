@@ -16,3 +16,5 @@ He trabajado en la revisión de varios libros:
 - Pensamiento Matemático I (Revisor técnico).
 - Pensamiento Matemático III (Asesor pedagógico).
 - Temas Selectos de Matemáticas I (Asesor pedagógico).
+- Temas Selectos de Matemáticas II (Asesor pedagógico).
+- Temas Selectos de Matemáticas III (Asesor pedagógico).

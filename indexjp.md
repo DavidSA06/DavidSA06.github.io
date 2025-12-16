@@ -140,6 +140,6 @@
   </a>
 <div>
 <br>
-最後の更新：2024/09/22 (yyyy/mm/dd)
+最後の更新：2025/12/16 (yyyy/mm/dd)
 <br>
 <a href="https://hits.sh/davidsa06.github.io/indexjp.html/"><img alt="access counter" src="https://hits.sh/davidsa06.github.io/indexjp.html/.svg?view=today-total&style=plastic&label=access counter"/></a>

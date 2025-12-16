@@ -158,6 +158,6 @@ Algunos ejemplos sobre mis pasatiempos se pueden encontrar [aquí](hobbiesesp.md
   </a>
 <div>
 <br>
-Última actualización: 04/06/2025 (dd/mm/yyyy)
+Última actualización: 16/12/2025 (dd/mm/yyyy)
 <br>
 <a href="https://hits.sh/davidsa06.github.io/indexesp.html/"><img alt="visitas" src="https://hits.sh/davidsa06.github.io/indexesp.html.svg?view=today-total&style=plastic&label=visitas"/></a>

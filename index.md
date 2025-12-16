@@ -140,6 +140,6 @@ Some examples about my hobbies can be found [here](hobbies.md).
   </a>
 <div>
 <br>
-Last Update: 08/22/2024 (mm/dd/yyyy)
+Last Update: 12/16/2025 (mm/dd/yyyy)
 <br>
 <a href="https://hits.sh/davidsa06.github.io/"><img alt="visits" src="https://hits.sh/davidsa06.github.io.svg?view=today-total&style=plastic&label=visits"/></a>
