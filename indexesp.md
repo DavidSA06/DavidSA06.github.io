@@ -23,7 +23,7 @@ Puedes descargar mi CV [aquí](https://drive.google.com/file/d/1QDixmZcyJHAWobAU
 | [Highschool](#escuela-preparatoria)                 |
 | [Platzi](#platzi)                                   |
 | [Proyectos](#proyectos)                             |
-<!--| [Pasatiempos](#pasatiempos)                         |-->
+<!---| [Pasatiempos](#pasatiempos)                         |--->
 | [Idiomas](#idiomas)                                 |
 | [Información de contacto](#información-de-contacto) |
 
@@ -66,11 +66,11 @@ Actualmente estoy actualizando mis conocimientos de programación, data science,
 ## Proyectos
 
 He tabajado en proyectos variados sobre construcción de experimentos que pueden verse [aquí](projectsesp.md).
-<!--
+<!---
 ## Pasatiempos
 
 Algunos ejemplos sobre mis pasatiempos se pueden encontrar [aquí](hobbiesesp.md).
--->
+--->
 ## Idiomas
 
 - Español (Nativo)
