@@ -17,7 +17,6 @@ You can download my CV [here](https://drive.google.com/file/d/1jRKEZaBGy8Ave2hQm
 | [FCFM-BUAP](#fcfm-buap)                     |
 | [Highschool](#highschool)                   |
 | [Platzi](#platzi)                           |
-<!---| [Hobbies](#hobbies)                         |--->
 | [Languages](#languages)                     |
 | [Contact information](#contact-information) |
 
@@ -48,10 +47,6 @@ I present my work at Gral. Lázaro Cárdenas del Río High School [here](high.md
 ## Platzi
 
 I am currently updating my programming and data science knowledge, English and soft skills in [Platzi](platzi.md). Get a free month using my [link](https://platzi.com/r/davidsilvaa/)!
-
-<!---## Hobbies
-
-Some examples about my hobbies can be found [here](hobbies.md).--->
 
 ## Languages
 
